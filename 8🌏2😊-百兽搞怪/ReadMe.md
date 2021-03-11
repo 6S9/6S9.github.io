@@ -2,7 +2,7 @@
 sort: 82
 ---
 
-# This is an incredibly long caption for a long menu
+# 8🌏2😊-百兽搞怪
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}

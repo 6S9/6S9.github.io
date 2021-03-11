@@ -2,7 +2,7 @@
 sort: 13
 ---
 
-# This is an incredibly long caption for a long menu
+# 1-🌈-3-🔥-3-条漫
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
