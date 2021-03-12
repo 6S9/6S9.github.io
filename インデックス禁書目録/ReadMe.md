@@ -1,8 +1,8 @@
 ---
-sort: 5
+sort: 1
 ---
 
-# Test Documentation
+# インデックス禁書目録`Index`
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
