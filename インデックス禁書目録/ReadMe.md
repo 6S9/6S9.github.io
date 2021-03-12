@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# インデックス禁書目録`Index`
+# インデックス禁書目録`🍎Index`
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}

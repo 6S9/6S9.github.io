@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# Akashic Records Lite`A`
+# Akashic Records Lite`🍌A`
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
