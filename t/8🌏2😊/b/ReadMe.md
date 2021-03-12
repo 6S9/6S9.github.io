@@ -1,3 +1,0 @@
-# Branc
-
-source: `{{ page.path }}`

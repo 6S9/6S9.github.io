@@ -1,7 +1,31 @@
 <script type="text/javascript">
-loopy()
-function loopy() {
-var sWord =""
-while (sWord != "y") {//设置密码
-sWord = prompt("输入正确密码才能登陆!")
+function password() {
+var testV = 1;   
+var pass1 = prompt('请输入密码','');
+while (testV < 3) {
+if (!pass1)
+history.go(-1);
+if (pass1 == "y") {
+break;
+}
+testV+=1;
+var pass1 =
+prompt('密码错误!请重新输入:');
+}
+if (pass1!="password" & testV ==3)
+history.go(-1);
+return " ";
+}
+document.write(password());
 </script>
+
+<details><summary>慎入🔞NSFW</summary>
+
+Not Safe For Work
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Biohazard_Symbol_Specification.png/210px-Biohazard_Symbol_Specification.png">
+
+<details><summary><b>风险自理Use At Your Own Risk🈲</summary>
+
+
+</details>
+</details>
