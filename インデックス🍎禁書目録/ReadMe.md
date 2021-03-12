@@ -1,13 +1,11 @@
 ---
-sort: 2
+sort: 1
 ---
 
-# Akashic Records Lite`🍌A`
+# インデックス🍎禁書目録
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
-
-{% include list.liquid all=true %}
 ```
 
 {% include list.liquid all=true %}
