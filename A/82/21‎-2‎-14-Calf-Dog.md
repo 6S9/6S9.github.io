@@ -1,5 +1,3 @@
-### calf and dogs
-
 ### 早产虚弱的小牛，被5只狗狗一起抚养，长大后成为了“巨型狗狗
 https://new.qq.com/omn/20210213/20210213A02TCQ00.html
 
