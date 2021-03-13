@@ -1,17 +1,18 @@
-<script type="text/javascript">
+<script type="text/javascript">   
 function password() {
 var testV = 1;
-var pass1 = prompt('请输入密码','');
+var pass1 = prompt('请输入密码:','');
 while (testV < 3) {
 if (!pass1)
 history.go(-1);
 if (pass1 == "y") {
-alert('密码正确');
+alert('口令正确，进行跳转');
+window.location.href="https://github.com/Alvin9999/new-pac/wiki/ss免费账号";
 break;
 }
 testV+=1;
 var pass1 =
-prompt('密码错误!请重新输入:');
+prompt('密码错误','');
 }
 if (pass1!="password" & testV ==3)
 history.go(-1);
@@ -19,8 +20,6 @@ return " ";
 }
 document.write(password());
 </script>
-
-
 <details><summary>慎入🔞NSFW</summary>
 
 Not Safe For Work
