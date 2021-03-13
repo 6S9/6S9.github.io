@@ -11,6 +11,8 @@
 
 [https://6s9.cc/-/2.htm](https://6s9.cc/-/2.htm)
 
+[https://6s9.cc/　　.htm](https://6s9.cc/　　.htm)
+
 ### Alternative Kabbalah
 
 ```
