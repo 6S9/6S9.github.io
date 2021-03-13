@@ -1,4 +1,4 @@
-### 19-被时代踢出局的g家
+### 被时代踢出局的g家
 https://baike.baidu.com/vbaike/被时代踢出局的g家/66792
 
 <details><summary>
