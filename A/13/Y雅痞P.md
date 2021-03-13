@@ -139,3 +139,5 @@ https://weibo.com/2738470165/JuDvidgdC
 
 百合女q：一个把强j物种风味g宝的g家，是个什么价值观的g家？
 <img src="https://wx2.sinaimg.cn/large/a339bd15ly1ghysameh1cj20hs0zk42f.jpg">
+
+source: `{{ page.path }}`

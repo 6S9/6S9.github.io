@@ -23,3 +23,5 @@ http://s5.sinaimg.cn/orignal/767e4963gc9bd85ec10c4
 <img src="https://i.postimg.cc/25Sw-sVZb/image.jpg">
 
 https://i.postimg.cc/25SwsVZb/image.jpg
+
+source: `{{ page.path }}`
