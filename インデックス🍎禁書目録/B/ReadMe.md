@@ -1,3 +1,0 @@
-# Branch SubDirector
-
-source: `{{ page.path }}`
