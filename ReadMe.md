@@ -23,20 +23,8 @@
 
 </details>
 
-
-<details><summary>风险自理Use At Your Own Risk☣</summary>
-
-[A9](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
-
-
-</details>
-
-
-<details><summary>风险自理Use At Your Own Risk☣</summary>
-
-[A9](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
-
-</details>
+一级目录(Test)MD文件名可包含表情或汉字，
+二级子目录(TestLong)不可包含表情或汉字，MD文件标题中不可包含.(句点)
 
 ### Alternative Kabbalah
 
