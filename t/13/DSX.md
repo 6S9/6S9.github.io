@@ -1,6 +1,6 @@
 DSX
 
-### 大尸凶的漫画的博客
+大尸凶的漫画的博客
 http://blog.sina.com.cn/u/1987987811
 
 http://s16.sinaimg.cn/large/002axorxgy6NjCqDUjd6f
