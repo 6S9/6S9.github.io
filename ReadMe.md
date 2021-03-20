@@ -15,7 +15,7 @@
 
 [6s9.cc/!/3.htm](https://6s9.cc/!/3.htm)
 
-[6s9.cc/!/fs.htm](https://6s9.cc/!/fs.htm)
+[lanzous.com/b844443](https://www.lanzous.com/b844443)
 
 <details><summary>风险自理Use At Your Own Risk☣</summary>
 
