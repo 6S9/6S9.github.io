@@ -19,7 +19,7 @@
 
 <details><summary>风险自理Use At Your Own Risk☣</summary>
 
-[A9](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
+<a href="https://github.com/Alvin9999/new-pac/wiki/ss免费账号">A9</a>
 
 </details>
 

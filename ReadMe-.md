@@ -1,8 +1,8 @@
 ---
-sort: 7
+sort: 0
 ---
 
-# Site Map Tree And Details
+# Alternative Kabbalah
 
 {% include list.liquid all=true %}
 
