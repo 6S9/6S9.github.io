@@ -1,1 +1,21 @@
-<iframe width="100%" id="preview" src="/markdown/html/markdown-preview.htm" frameborder="0" scrolling="yes" style="height:720px;border:1px solid #eee;"></iframe>
+<script>
+   function check(){
+      var name=document.getElementById("name").value;
+   var pass=document.getElementById("pass").value;
+   if(name=="" && pass=="y"){
+//   alert("登入成功");
+   window.document.f.action="https://blog.csdn.net/muzihuaner/article/details/105284147";
+   window.document.f.submit();
+   }else{
+   alert("用户名或密码错误");
+
+   }
+
+   }
+</script>
+
+<form name="f" action="">
+<center>用户名:<INPUT TYPE="text" NAME="" id="name"><br></center>
+<center>密码:<INPUT TYPE="password" NAME="" id="pass"><br></center>
+<center><INPUT TYPE="button" value="登入" onclick="check()"><INPUT TYPE="reset" value="重置"></center>
+</form>
