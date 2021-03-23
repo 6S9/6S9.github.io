@@ -1,5 +1,9 @@
 ### 4-⚡-5-💨-捷径
 
+<https://github.com/6S9/a/blob/master/1-🌈-3-🔥-逼格词典/8-八卦.md>
+
+<http://github.com/6S9/a/blob/master/1-🌈-3-🔥-逼格词典/8-八卦.md>
+
 ### GitterCCC
 [https://gitter.im/c_/cc](https://gitter.im/c_/cc)
 
