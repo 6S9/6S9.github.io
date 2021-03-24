@@ -25,7 +25,6 @@
 **m3u8 视频在线提取工具**{:.h4}
 ```
 <https://github.com/journey-ad/m3u8-downloader>
-```note
+
 **picx`基于 GitHub API 的免费、稳定且高效的图床管理神器`**{:.h4}
-```
 <https://github.com/journey-ad/picx>
