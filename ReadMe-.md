@@ -1,4 +1,6 @@
-<iframe width="100%" id="preview" src="//music.163.com/outchain/player?type=2&id=38592976&auto=1&height=66" frameborder="0" scrolling="yes" style="height:720px;border:1px solid #eee;"></iframe>
+<iframe width="100%" id="preview" src="//music.163.com/#/song?id=1465970502&height=66" frameborder="0" scrolling="yes" style="height:720px;border:1px solid #eee;"></iframe>
+
+<iframe width="100%" id="preview" src="https://music.163.com/#/song?id=1465970502&auto=1&height=66" frameborder="0" scrolling="yes" style="height:720px;border:1px solid #eee;"></iframe>
 
 <div id="musicMouseDrag" style="position:fixed; z-index: 9999; bottom: 0; right: 0;">
     <div id="musicDragArea" style="position: absolute; top: 0; left: 0; width: 100%;height: 10px;cursor: move; z-index: 10;"></div>
