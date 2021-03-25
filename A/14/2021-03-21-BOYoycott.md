@@ -1,6 +1,9 @@
+```note
+```
 ### 杨l代言Intel被男网友抵制 品牌方连夜下架
 <https://baijiahao.baidu.com/s?id=1694816905142413749>
-Sex-Antagonism
+
+`Sex-Antagonism`
 
 失望onlin
 　　现在出现了一个严重的s会性问题，就是现在的女性普遍歧视男性，特别是没有钱的男性，有钱没钱的女性都同样歧视没钱的男性。
