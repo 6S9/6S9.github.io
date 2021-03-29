@@ -8,33 +8,23 @@
 
 <https://6s9.cc/!/>
 
-<https://6s9.cc/!/0.htm>
+<https://6s9.cc/!/P-Collapsible-Open.htm>
 
-<https://6s9.cc/!/1.htm>
+<https://6s9.cc/!/P-Detail-SubMenu.htm>
 
-<https://6s9.cc/!/2.htm>
+<https://6s9.cc/!/P-DetailsSummary-NoSpan.htm>
 
-<https://6s9.cc/!/3.htm>
+<https://6s9.cc/!/P-DetailsSummary-StyleSpan.htm>
 
-<https://6s9.cc/!/4.htm>
+<https://6s9.cc/!/P-Div-Hide.htm>
 
-<https://6s9.cc/!/5.htm>
+<https://6s9.cc/!/P-Div-Show.htm>
 
-<https://6s9.cc/!/6.htm>
+<https://6s9.cc/!/P-Jekyll-Html.htm>
 
-<https://6s9.cc/!/7.htm>
+<https://6s9.cc/!/P-PW-InputUN.htm>
 
-<https://6s9.cc/!/8.htm>
-
-<https://6s9.cc/!/9.htm>
-
-<https://6s9.cc/!/11.htm>
-
-<https://6s9.cc/!/12.htm>
-
-<https://6s9.cc/!/13.htm>
-
-<https://6s9.cc/!/14.htm>
+<https://6s9.cc/!/P-PW-Prompt.htm>
 
 <https://github.com/6S9/a/blob/master/1-🌈-3-🔥-逼格词典/8-八卦.md>
 
