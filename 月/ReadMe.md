@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# インデックス🌙禁書目録
+# 🌙Current月読つきよみ
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}

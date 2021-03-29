@@ -21,4 +21,6 @@ Text can be **bold**{:.h1}, _italic_, or ~~strikethrough~~. [Links](https://gith
 {% include list.liquid all=true %}
 ```
 
+{{ page.content | number_of_words }}
+
 517a

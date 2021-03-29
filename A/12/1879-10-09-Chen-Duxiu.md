@@ -1,3 +1,26 @@
+### `1879年10月9-`陈独秀
+```note
+（－1942年5月27
+```
+<https://zh.wikipedia.org/wiki/%E9%99%88%E7%8B%AC%E7%A7%80>
+
+Chen.jpg (330×465)<br>
+<img src="https://slack-imgs.com/?url=https://upload.wikimedia.org/wikipedia/commons/8/83/Chen.jpg"><br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/8/83/Chen.jpg">
+<br>https://upload.wikimedia.org/wikipedia/commons/8/83/Chen.jpg</a><hr/>
+
+Chen_Duxiu4.jpg (485×678)<br>
+<img src="https://slack-imgs.com/?url=https://upload.wikimedia.org/wikipedia/commons/6/6e/Chen_Duxiu4.jpg"><br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/6/6e/Chen_Duxiu4.jpg">
+<br>https://upload.wikimedia.org/wikipedia/commons/6/6e/Chen_Duxiu4.jpg</a><hr/>
+
+《研究室与jy：“世界文明的发源地有二：一是科学研究室。一是jy。我们青年立志出了研究室就入jy，出了jy就入研究室，这才是人生最高尚优美的生活。从这两处发生的文明，才是真文明，才是有生命有价值的文明。
+
+B9523_Chen_Duxiu.jpg (307×446)<br>
+<img src="https://slack-imgs.com/?url=https://upload.wikimedia.org/wikipedia/commons/b/bb/B9523_Chen_Duxiu.jpg"><br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/b/bb/B9523_Chen_Duxiu.jpg">
+<br>https://upload.wikimedia.org/wikipedia/commons/b/bb/B9523_Chen_Duxiu.jpg</a><hr/>
+
 ```note
 ```
 ### `1879年10月9-陈独秀-`觉醒之后：陈独秀生命的最后四年
