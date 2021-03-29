@@ -6,10 +6,10 @@
 {% include note.html content="This is my note. All the content I type here
 is treated as a single paragraph. <br/><br/> Now I'm typing on a  new line." %}
 
-{% include callout.html content="This is my callout. It has a border on the left
-whose color you define by passing a type parameter. I typically use this style of
-callout when I have more information that I want to share, often spanning
-multiple paragraphs. " type="primary" %}
-
 {: .note }
 Do not blah blah blah...
+
+{: .note }
+> Do not blah blah blah...
+>
+> Do not blah blah blah...
