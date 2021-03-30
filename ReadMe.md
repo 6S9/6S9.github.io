@@ -43,19 +43,22 @@
 **GitterCCC**{:.h3}<br>
 [https://gitter.im/c_/cc](https://gitter.im/c_/cc)
 
+**劳斯莱斯Lossless**{:.h3}<br>
 <https://www.lanzous.com/b823333>
 
-<https://www.lanzous.com/b844443>
-
+**GoofyPlay**{:.h3}<br>
 <https://www.lanzous.com/b844444>
 
-<details class="details-reset">
-  <summary class="btn">风险自理☣Use At Your Own Risk<span class="dropdown-caret"></summary>
+**G-Cache**{:.h3}<br>
+<https://www.lanzous.com/b844443>
+
+<details class="details-overlay">
+  <summary class="btn">风险自理☣Use At Your Own Risk</summary>
   <div class="border p-3 mt-2">
 
 <a href="https://github.com/Alvin9999/new-pac/wiki/ss免费账号">A9</a>
 
-	</div>
+  </div>
 </details>
 
 一级目录(Test)MD文件名可包含表情或汉字，
