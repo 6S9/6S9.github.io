@@ -31,3 +31,36 @@
 **How TO - Collapse**{:.h6}<br>
 <https://www.w3schools.com/howto/howto_js_collapsible.asp>
 [Try it Yourself](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible)
+
+[expand]
+Long content here
+and here
+...
+[/expand]
+
+<details>
+	<summary>Click to expand</summary>
+	Long content here
+	and here
+</details>
+
+<p>Click the "Try it" button to toggle between hiding and showing the DIV element:</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<div id="myDIV" style="display: none">
+This is my DIV element.
+</div>
+
+<p><b>Note:</b> The element will not take up any space when the display property set to "none".</p>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>

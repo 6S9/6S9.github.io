@@ -1,0 +1,31 @@
+<html>
+<button onClick="replaceContentInContainer('target', 'replace_target')">View Portfolio</button>
+<button onClick="replaceContentInOtherContainer('replace_target', 'target')">View Results</button>
+
+<div>
+  <span id="target">
+
+How TO - Toggle Hide and Show
+https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp
+
+  </span>
+</div>
+
+<div style="display:none">
+  <span id="replace_target">
+
+Show/hide 'div' using JavaScript
+https://stackoverflow.com/questions/21070101/show-hide-div-using-javascript
+
+  </span>
+</div>
+
+<script>
+function replaceContentInContainer(target, source) {
+  document.getElementById(target).innerHTML = document.getElementById(source).innerHTML;
+}
+
+function replaceContentInOtherContainer(replace_target, source) {
+  document.getElementById(replace_target).innerHTML = document.getElementById(source).innerHTML;
+}
+</script>
