@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# 🌙Current月読つきよみ
+# 月読🌙つきよみ
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}

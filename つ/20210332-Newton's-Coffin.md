@@ -1,6 +1,5 @@
+### `Newton's Coffin`牛顿的棺材板
 ```warning
-### 牛顿的棺材板`Newton's Coffin`
-
 持克莱因净水瓶，自在梦庄周蝴蝶。
 
 行绕莫比乌斯环，判断薛定谔撸喵。
@@ -23,6 +22,6 @@
 
 此乃泰坦孔子普罗米修斯，燧人之本愿。
 ```
-
 **鲁伯特之泪”究竟多神奇？子弹都无法射碎，为何手一捏就碎！**{:.h3}<br>
 <https://new.qq.com/omn/20210128/20210128V0B8QX00.html>
+字数{{ page.content | number_of_words }}
