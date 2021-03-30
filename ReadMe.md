@@ -1,8 +1,15 @@
 ```note
 ### 4-⚡-5-💨-捷径
-[#](#)
 ```
-<https://primapad.com/0>
+<#>
+**iTextPad**{:.h4}<br>
+<http://www.itextpad.com/0LRKsaDmdS>
+
+**Shrib**{:.h3}<br>
+<https://shrib.com/#Miller93kjpK4>
+
+**Primapad**{:.h5}<br>
+<https://primapad.com/6>
 
 <https://github.com/6S9/a/blob/master/4-%E2%9A%A1-5-%F0%9F%92%A8-%E6%8D%B7%E5%BE%84-%E2%9A%A1%F0%9F%92%A8/Q.md>
 
@@ -25,6 +32,8 @@
 <https://6s9.cc/!/P-PW-InputUN.htm>
 
 <https://6s9.cc/!/P-PW-Prompt.htm>
+
+<https://6s9.cc/!/P-Test.htm>
 
 <https://github.com/6S9/a/blob/master/1-🌈-3-🔥-逼格词典/8-八卦.md>
 
