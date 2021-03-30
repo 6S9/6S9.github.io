@@ -1,3 +1,3 @@
-# Current Case
+# Current_Case
 
 source: `{{ page.path }}`

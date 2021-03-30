@@ -3,10 +3,15 @@
     <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=38592976&auto=1&height=66"></iframe>
 </div>
 
-{: .note }
-Do not blah blah blah...
+!!! type "optional explicit title within double quotes"
+    Any number of other indented markdown elements.
 
-{: .note }
-> Do not blah blah blah...
->
-> Do not blah blah blah...
+    This is the second paragraph.
+
+::: Warning ::::::
+This is a warning.
+
+::: Danger
+This is a warning within a warning.
+:::
+::::::::::::::::::
