@@ -1,7 +1,6 @@
 ```note
 ### 4-⚡-5-💨-捷径
 ```
-<#>
 **iTextPad**{:.h4}<br>
 <http://www.itextpad.com/0LRKsaDmdS>
 
@@ -33,22 +32,30 @@
 
 <https://6s9.cc/!/P-PW-Prompt.htm>
 
-<https://6s9.cc/!/P-Test.htm>
+<https://6s9.cc/!/P-T-1.htm>
+
+<https://6s9.cc/!/P-T-2.htm>
+
+<#>
 
 <https://github.com/6S9/a/blob/master/1-🌈-3-🔥-逼格词典/8-八卦.md>
 
 **GitterCCC**{:.h3}<br>
 [https://gitter.im/c_/cc](https://gitter.im/c_/cc)
 
+<https://www.lanzous.com/b823333>
+
 <https://www.lanzous.com/b844443>
 
-<details>
-	<summary>风险自理☣Use At Your Own Risk</summary>
-	<pre>
+<https://www.lanzous.com/b844444>
+
+<details class="details-reset">
+  <summary class="btn">风险自理☣Use At Your Own Risk<span class="dropdown-caret"></summary>
+  <div class="border p-3 mt-2">
 
 <a href="https://github.com/Alvin9999/new-pac/wiki/ss免费账号">A9</a>
-	</pre>
 
+	</div>
 </details>
 
 一级目录(Test)MD文件名可包含表情或汉字，
