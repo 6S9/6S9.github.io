@@ -25,9 +25,9 @@
 **Jekyll Text Expand or Collapsible Markdown**{:.h4}<br>
 <https://www.tomordonez.com/jekyll-text-expand-collapsible-markdown/>
 
-**Collapse**{:.h5}<br>
-<https://getbootstrap.com/docs/4.0/components/collapse/>
-
-**How TO - Collapse**{:.h6}<br>
+**How TO - Collapse**{:.h4}<br>
 <https://www.w3schools.com/howto/howto_js_collapsible.asp>
 [Try it Yourself](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible)
+
+**Collapse**{:.h6}<br>
+<https://getbootstrap.com/docs/4.0/components/collapse/>
