@@ -1,0 +1,24 @@
+<script>
+   function check(){
+      var name=document.getElementById("name").value;
+   var pass=document.getElementById("pass").value;
+   var y = document.getElementById("myDIV");
+   if(name=="" && pass=="y"){
+   y.style.display = "block";
+   }else{
+   y.style.display = "none";
+   }
+   }
+</script>
+
+<form name="f" action="">
+<center>用户:<INPUT TYPE="text" NAME="" id="name"><br></center>
+<center>密码:<INPUT TYPE="password" NAME="" id="pass"><br></center>
+<center><INPUT TYPE="button" value="登入" onclick="check()"><INPUT TYPE="reset" value="重置"></center>
+</form>
+
+<div id="myDIV" style="display: none">
+
+
+
+</div>
