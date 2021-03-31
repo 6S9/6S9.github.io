@@ -1,3 +1,3 @@
-# a d Branch SubDir
+# a d.Branch SubDir
 
 source: `{{ page.path }}`

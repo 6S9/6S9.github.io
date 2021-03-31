@@ -40,20 +40,20 @@
 
 <https://github.com/6S9/a/blob/master/1-🌈-3-🔥-逼格词典/8-八卦.md>
 
-**GitterCCC**{:.h3}<br>
-[https://gitter.im/c_/cc](https://gitter.im/c_/cc)
+**GoofyPlay**{:.h3}<br>
+<https://www.lanzous.com/b844444>
 
 **劳斯莱斯Lossless**{:.h3}<br>
 <https://www.lanzous.com/b823333>
 
-**GoofyPlay**{:.h3}<br>
-<https://www.lanzous.com/b844444>
-
 **G-Cache**{:.h3}<br>
 <https://www.lanzous.com/b844443>
 
-<details class="details-overlay">
-  <summary class="btn">风险自理☣Use At Your Own Risk</summary>
+**GitterCCC**{:.h3}<br>
+[https://gitter.im/c_/cc](https://gitter.im/c_/cc)
+
+<details class="details-reset mt-3">
+  <summary class="btn-link">>风险自理☣Use At Your Own Risk <span class="dropdown-caret"></summary>
   <div class="border p-3 mt-2">
 
 <a href="https://github.com/Alvin9999/new-pac/wiki/ss免费账号">A9</a>
@@ -61,8 +61,11 @@
   </div>
 </details>
 
+MD文件中包含大括号百分号Ruby代码推送后无法更新GP。
+
+二级子目录(TestLong)MD文件名包含表情或汉字，点击后菜单不悬停，标题中不可包含.(句点)？
+
 一级目录(Test)MD文件名可包含表情或汉字，
-二级子目录(TestLong)不可包含表情或汉字，MD文件标题中不可包含.(句点)
 
 **Alternative Kabbalah**{:.h4}<br>
 
