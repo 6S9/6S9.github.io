@@ -1,17 +1,9 @@
-<details>
-	<summary>慎入🔞NSFW</summary>
+<details><summary class="name"><span class="innerContentContainer">慎入🔞NSFW</span></summary><ul>
 
-  Not Safe For Work
-  <img src="https://slack-imgs.com/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Biohazard_Symbol_Specification.png/210px-Biohazard_Symbol_Specification.png">
+<img src="https://slack-imgs.com/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Biohazard_Symbol_Specification.png/210px-Biohazard_Symbol_Specification.png">
 
-    <details>
+<details><summary class="name"><span class="innerContentContainer">风险自理Use At Your Own Risk🈲</span></summary><br /><span class="note"><span class="innerContentContainer">
 
-  	<summary>风险自理Use At Your Own Risk🈲</summary>
-  	<pre>
 
-  	0
-  	</pre>
 
-  </details>
-
-</details>
+</span></span></details>

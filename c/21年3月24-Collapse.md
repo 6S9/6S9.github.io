@@ -31,3 +31,9 @@
 
 **Collapse**{:.h6}<br>
 <https://getbootstrap.com/docs/4.0/components/collapse/>
+
+**CSS3手风琴菜单 下拉展开带弹性动画**{:.h7}<br>
+<https://www.html5tricks.com/css3-accordion-menu.html>
+
+**折叠菜单**{:.h3}<b8>
+<https://www.jq22.com/jquery-info3321>
