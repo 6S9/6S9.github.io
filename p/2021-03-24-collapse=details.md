@@ -1,5 +1,6 @@
-```note
+```tip
 ```
+2021-03-24-collapse=details
 **HTML网页中怎么控制图层的显隐**{:.h3}<br>
 <https://zhidao.baidu.com/question/39504771.html>
 
