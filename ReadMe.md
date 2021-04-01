@@ -1,14 +1,14 @@
 ```note
 ### 4-⚡-5-💨-捷径
 ```
-**iTextPad**{:.h4}<br>
-<http://www.itextpad.com/0LRKsaDmdS>
+**iTextPad**{:.h3}<br>
+<http://www.itextpad.com/uCFinsm14P>
 
-**Shrib**{:.h3}<br>
-<https://shrib.com/#Miller93kjpK4>
+**Pink x 6ch Gs**{:.h3}<br>
+<https://itextpad.com/PINkx6chGS>
 
-**Primapad**{:.h5}<br>
-<https://primapad.com/6>
+**CodePen**{:.h3}<br>
+<https://codepen.io/pen/>
 
 <https://github.com/6S9/a/blob/master/4-%E2%9A%A1-5-%F0%9F%92%A8-%E6%8D%B7%E5%BE%84-%E2%9A%A1%F0%9F%92%A8/Q.md>
 
