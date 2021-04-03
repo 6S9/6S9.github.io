@@ -38,7 +38,14 @@
 
 <#>
 
-<https://github.com/6S9/a/blob/master/1-🌈-3-🔥-逼格词典/8-八卦.md>
+<details class="details-reset">
+  <summary class="btn">More <span class="dropdown-caret"></summary>
+  <div class="border p-3 mt-2">
+
+<a href="https://github.com/Alvin9999/new-pac/wiki/ss免费账号">A9</a>
+
+  </div>
+</details>
 
 **GoofyPlay**{:.h3}<br>
 <https://www.lanzous.com/b844444>
@@ -50,16 +57,9 @@
 <https://www.lanzous.com/b844443>
 
 **GitterCCC**{:.h3}<br>
-[https://gitter.im/c_/cc](https://gitter.im/c_/cc)
+<https://gitter.im/c_/cc>
 
-<details class="details-reset mt-3">
-  <summary class="btn-link">>风险自理☣Use At Your Own Risk <span class="dropdown-caret"></summary>
-  <div class="border p-3 mt-2">
-
-<a href="https://github.com/Alvin9999/new-pac/wiki/ss免费账号">A9</a>
-
-  </div>
-</details>
+<iframe width="100%" id="preview" src="http://www.itextpad.com/uCFinsm14P" frameborder="0" scrolling="yes" style="height:720px;border:1px solid #eee;"></iframe>
 
 MD文件中包含大括号百分号Ruby代码推送后无法更新GP。
 
@@ -68,6 +68,8 @@ MD文件中包含大括号百分号Ruby代码推送后无法更新GP。
 二级子目录(TestLong)MD文件名包含表情或汉字，点击后菜单不悬停。
 
 一级目录(Test)MD文件名可包含表情或汉字。
+
+<https://github.com/6S9/a/blob/master/1-🌈-3-🔥-逼格词典/8-八卦.md>
 
 **Alternative Kabbalah**{:.h4}<br>
 
