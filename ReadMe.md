@@ -41,6 +41,7 @@
 <details>
 	<summary>风险自理☣Use At Your Own Risk</summary>
 
+517a
 <a href="https://github.com/Alvin9999/new-pac/wiki/ss免费账号">A9</a>
 
 </details>
@@ -56,8 +57,6 @@
 
 **GitterCCC**{:.h3}<br>
 <https://gitter.im/c_/cc>
-
-<iframe width="100%" id="preview" src="http://www.itextpad.com/uCFinsm14P" frameborder="0" scrolling="yes" style="height:720px;border:1px solid #eee;"></iframe>
 
 MD文件中包含大括号百分号Ruby代码推送后无法更新GP。
 
