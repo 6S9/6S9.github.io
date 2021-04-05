@@ -1,5 +1,11 @@
 ```note
 ```
+**SmartPhoto.jsv1.1.0**{:.h3}<br>
+<https://github.com/appleple/SmartPhoto>
+><https://appleple.github.io/SmartPhoto/>
+
+**unpkg.com 资源加载太慢？来用g内的镜像地址吧**{:.h3}<br>
+<https://blog.csdn.net/dujing_15620553271/article/details/106385518>
 
 **图片点击放大，你的网页也能做到**{:.h3}<br>
 <https://blog.csdn.net/WPwalter/article/details/104573436>

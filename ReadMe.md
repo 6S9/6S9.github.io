@@ -38,13 +38,11 @@
 
 <#>
 
-<details class="details-reset">
-  <summary class="btn">More <span class="dropdown-caret"></summary>
-  <div class="border p-3 mt-2">
+<details>
+	<summary>风险自理☣Use At Your Own Risk</summary>
 
 <a href="https://github.com/Alvin9999/new-pac/wiki/ss免费账号">A9</a>
 
-  </div>
 </details>
 
 **GoofyPlay**{:.h3}<br>
