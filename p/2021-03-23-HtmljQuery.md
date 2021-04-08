@@ -32,3 +32,46 @@
 **H5彩虹光波纹动画特效**{:.h3}<br>
 ![](https://img.17sucai.com/upload/776298/2021-03-27/31d49667029db63c9366a40288e135a0.jpg?x-oss-process=style/thumb)
 <https://www.17sucai.com/pins/demo-show?id=39280>
+
+<iframe width="100%" height="815px" id="iframe" src="https://www.17sucai.com/preview/1750631/2019-09-01/kj/index.html" frameborder="0"></iframe>
+
+<details>
+	<summary>风险自理☣Use At Your Own Risk</summary>
+
+<iframe width="100%" height="815px" id="iframe" src="https://file.moyublog.com/code/5faec8293a084/demo.html" frameborder="0"></iframe>
+
+</details>
+
+```tip
+```
+
+<details class="details-overlay">
+  <summary class="btn">More</summary>
+  <div class="border p-3 mt-2">
+
+<iframe width="100%" height="815px" id="iframe" src="https://www.17sucai.com/preview/1424582/2019-11-27/poc/index.html" frameborder="0"></iframe>
+
+  </div>
+</details>
+
+```note
+```
+
+<details>
+  <summary class="btn btn-primary">More</summary>
+  <div class="border p-3 mt-2">
+
+<iframe width="100%" height="815px" id="iframe" src="https://www.17sucai.com/preview/776331/2019-10-04/love/index.html" frameborder="0"></iframe>
+
+  </div>
+</details>
+
+<details><summary class="name"><span class="innerContentContainer">慎入🔞NSFW</span></summary><ul>
+
+<img src="https://slack-imgs.com/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Biohazard_Symbol_Specification.png/210px-Biohazard_Symbol_Specification.png">
+
+<details><summary class="name"><span class="innerContentContainer">风险自理Use At Your Own Risk🈲</span></summary><br /><span class="note"><span class="innerContentContainer">
+
+<iframe width="100%" height="815px" id="iframe" src="https://www.17sucai.com/preview/776298/2021-03-27/gb/index.html" frameborder="0"></iframe>
+
+</span></span></details>
