@@ -7,8 +7,18 @@
 **Pink x 6ch Gs**{:.h3}<br>
 <https://itextpad.com/PINkx6chGS>
 
+<https://github.com.cnpmjs.org>
+
+<https://hub.fastgit.org>
+
 **CodePen**{:.h3}<br>
 <https://codepen.io/pen/>
+
+**GoofyPlay**{:.h3}<br>
+<https://www.lanzous.com/b844444>
+
+**GitterCCC**{:.h3}<br>
+<https://gitter.im/c_/cc>
 
 <https://github.com/6S9/a/blob/master/4-%E2%9A%A1-5-%F0%9F%92%A8-%E6%8D%B7%E5%BE%84-%E2%9A%A1%F0%9F%92%A8/Q.md>
 
@@ -45,26 +55,6 @@
 <a href="https://github.com/Alvin9999/new-pac/wiki/ss免费账号">A9</a>
 
 </details>
-
-**GoofyPlay**{:.h3}<br>
-<https://www.lanzous.com/b844444>
-
-**劳斯莱斯Lossless**{:.h3}<br>
-<https://www.lanzous.com/b823333>
-
-**G-Cache**{:.h3}<br>
-<https://www.lanzous.com/b844443>
-
-**GitterCCC**{:.h3}<br>
-<https://gitter.im/c_/cc>
-
-MD文件中包含大括号百分号Ruby代码推送后无法更新GP。
-
-目录字母大写改小写无法访问，改为第三名称目录推送可访问，亦可再改为小写。
-
-二级子目录(TestLong)MD文件名包含表情或汉字，点击后菜单不悬停。
-
-一级目录(Test)MD文件名可包含表情或汉字。
 
 <https://github.com/6S9/a/blob/master/1-🌈-3-🔥-逼格词典/8-八卦.md>
 
