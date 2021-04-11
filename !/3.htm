@@ -1,18 +1,32 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="ru">
-<head>
-    <title></title>
-    <meta http-equiv="Content-Type" content="text/html;charset=gb2312">
-    </head>
-    <script type="text/javascript">
-
-var colour1 = "purple";
-var colour2 = "pink";
-document.write('<p>colour1: ' + colour1 + '<br>colour2: ' + colour2 + '</p>');
-
-   </script>
 <script>
-alert($);
+   function check(){
+      var name=document.getElementById("name").value;
+   var pass=document.getElementById("pass").value;
+   var y = document.getElementById("myDIV");
+   if(name=="" && pass=="y"){
+   y.style.display = "block";
+   }else{
+   y.style.display = "none";
+   }
+   }
 </script>
 
+<form name="f" action="">
+<center>用户：<INPUT TYPE="text" NAME="" id="name"><br></center>
+<center>密码：<INPUT TYPE="password" NAME="" id="pass"><br></center>
+<center><INPUT TYPE="button" value="登入" onclick="check()"><INPUT TYPE="reset" value="重置"></center>
+</form>
+
+<div id="myDIV" style="display: none">
+
 <script src="3.js"></script>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/css/smartphoto.min.css">
+  <script src="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/js/smartphoto.min.js"></script>
+  <script>
+  document.addEventListener('DOMContentLoaded',function(){
+    new SmartPhoto(".js-smartphoto");
+  });
+  </script>
+
+</div>

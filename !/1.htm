@@ -1,10 +1,50 @@
-<script type="text/javascript">
+<script>
+   function check(){
+      var name=document.getElementById("name").value;
+   var pass=document.getElementById("pass").value;
+   var y = document.getElementById("myDIV");
+   if(name=="" && pass=="y"){
+   y.style.display = "block";
+   }else{
+   y.style.display = "none";
+   }
+   }
+</script>
 
-var ps1 = "https://slack-imgs.com/?url=";
-var ru2 = "https://pbs.twimg.com/media/EySEWvyU8AIRssc?format=jpg&name=orig";
+<form name="f" action="">
+<center>用户：<INPUT TYPE="text" NAME="" id="name"><br></center>
+<center>密码：<INPUT TYPE="password" NAME="" id="pass"><br></center>
+<center><INPUT TYPE="button" value="登入" onclick="check()"><INPUT TYPE="reset" value="重置"></center>
+</form>
 
-document.write("<a href="+ps1+ru2+" class='js-smartphoto' data-caption='' data-id='' data-group=''><img src="+ps1+ru2+" width='96'/></a>");
+<div id="myDIV" style="display: none">
 
-document.write("<a href='https://cn.bing.com/th?id=OHR.PhotographyEmperor_ZH-CN8188172143_UHD.jpg' class='js-smartphoto' data-caption='' data-id='' data-group=''><img src='https://cn.bing.com/th?id=OHR.PhotographyEmperor_ZH-CN8188172143_360x270.jpg' width='96'/></a>");
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/css/smartphoto.min.css">
+  <script src="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/js/smartphoto.min.js"></script>
+  <script>
+  document.addEventListener('DOMContentLoaded',function(){
+    new SmartPhoto(".js-smartphoto");
+  });
+
+var ah1 = "<a href=";
+var pp2 = "https://slack-imgs.com/?url=";
+var u3 = "u3";
+var sc4 = " class='js-smartphoto' data-caption='"
+var sc5 = "sc5"
+var si6 = "' data-id='"
+var si7 = "si7"
+var sg8 = "' data-group='"
+var sg9 = ""
+var i10 = "'><img src='";
+var w12 = "' width='96'/></a>";
+
+
+document.write(ah1+pp2+'https://pbs.twimg.com/media/EwRGJgFUYAU0Lxk?format=jpg&name=orig'+sc4+'s1syamo🍑@s1syamon1618×2312)'+si6+'EwRGJgFUYAU0Lxk (1618×2312)'+sg8+sg9+i10+pp2+'https://pbs.twimg.com/media/EwRGJgFUYAU0Lxk?format=jpg&name=orig'+w12);
+
+
+
+document.write(ah1+pp2+'https://pbs.twimg.com/media/EwRGLpgUcAMJ7qM?format=jpg&name=orig'+sc4+'自己主張の強い胸ポチが好きなんです。'+si6+'EwRGLpgUcAMJ7qM (1940×1286)'+sg8+sg9+i10+pp2+'https://pbs.twimg.com/media/EwRGLpgUcAMJ7qM?format=jpg&name=orig'+w12);
 
 </script>
+
+</div>

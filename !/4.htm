@@ -1,7 +1,43 @@
-<script type="text/javascript">
+<script>
+   function check(){
+      var name=document.getElementById("name").value;
+   var pass=document.getElementById("pass").value;
+   var y = document.getElementById("myDIV");
+   if(name=="" && pass=="y"){
+   y.style.display = "block";
+   }else{
+   y.style.display = "none";
+   }
+   }
+</script>
 
-var colour1 = "purple";
-var colour2 = "pink";
-document.write('<p>colour1: '+colour1+'<br>colour2: '+colour2+'</p>');
+<form name="f" action="">
+<center>用户：<INPUT TYPE="text" NAME="" id="name"><br></center>
+<center>密码：<INPUT TYPE="password" NAME="" id="pass"><br></center>
+<center><INPUT TYPE="button" value="登入" onclick="check()"><INPUT TYPE="reset" value="重置"></center>
+</form>
+
+<div id="myDIV" style="display: none">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/css/smartphoto.min.css">
+  <script src="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/js/smartphoto.min.js"></script>
+  <script>
+  document.addEventListener('DOMContentLoaded',function(){
+    new SmartPhoto(".js-smartphoto");
+  });
+
+  var ah1 = "<a href=";
+  var pp2 = "https://slack-imgs.com/?url=";
+  var u3 = "";
+  var sp4 = " class='js-smartphoto' data-caption='' data-id='' data-group=''><img src='";
+  var w5 = "' width='96'/></a>";
+
+  document.write(ah1+pp2+'https://pbs.twimg.com/media/EyqX0VeU4AI3tsc?format=jpg&name=orig'+sp4+pp2+'https://pbs.twimg.com/media/EyqX0VeU4AI3tsc?format=jpg&name=orig'+w5);
+
+  document.write(ah1+pp2+'https://pbs.twimg.com/media/EyqX2GAUYAEi7px?format=jpg&name=orig'+sp4+pp2+'https://pbs.twimg.com/media/EyqX2GAUYAEi7px?format=jpg&name=orig'+w5);
+
+  document.write(ah1+pp2+'https://pbs.twimg.com/media/EyoNTiGUUAMTmoP?format=jpg&name=orig'+sp4+pp2+'https://pbs.twimg.com/media/EyoNTiGUUAMTmoP?format=jpg&name=orig'+w5);
 
 </script>
+
+</div>
