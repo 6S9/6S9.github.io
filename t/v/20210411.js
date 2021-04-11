@@ -1,31 +1,3 @@
-<script>
-   function check(){
-      var name=document.getElementById("name").value;
-   var pass=document.getElementById("pass").value;
-   var y = document.getElementById("myDIV");
-   if(name=="" && pass=="y"){
-   y.style.display = "block";
-   }else{
-   y.style.display = "none";
-   }
-   }
-</script>
-
-<form name="f" action="">
-<center>用户：<INPUT TYPE="text" NAME="" id="name"><br></center>
-<center>密码：<INPUT TYPE="password" NAME="" id="pass"><br></center>
-<center><INPUT TYPE="button" value="登入" onclick="check()"><INPUT TYPE="reset" value="重置"></center>
-</form>
-
-<div id="myDIV" style="display: none">
-
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/css/smartphoto.min.css">
-  <script src="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/js/smartphoto.min.js"></script>
-  <script>
-  document.addEventListener('DOMContentLoaded',function(){
-    new SmartPhoto(".js-smartphoto");
-  });
-
 var ah1 = "<a href=";
 var pp2 = "https://slack-imgs.com/?url=";
 var u3 = "u3";
@@ -69,7 +41,3 @@ document.write(ah1+pp2+'https://pbs.twimg.com/media/EyqX8I-VEAI17WN?format=jpg&n
 document.write(ah1+pp2+'https://pbs.twimg.com/media/EymrtPaVEAMGhtG?format=jpg&name=orig'+sc4+'@inouenanaki'+si6+'EymrtPaVEAMGhtG (675×900)'+sg8+sg9+i10+pp2+'https://pbs.twimg.com/media/EymrtPaVEAMGhtG?format=jpg&name=orig'+w12);
 
 document.write(ah1+pp2+'https://pbs.twimg.com/media/Eymrvf-UcAEDNqw?format=jpg&name=orig'+sc4+''+si6+'Eymrvf-UcAEDNqw (675×900)'+sg8+sg9+i10+pp2+'https://pbs.twimg.com/media/Eymrvf-UcAEDNqw?format=jpg&name=orig'+w12);
-
-</script>
-
-</div>
