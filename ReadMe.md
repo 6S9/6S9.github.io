@@ -7,6 +7,12 @@
 **Pink x 6ch Gs**{:.h3}<br>
 <https://itextpad.com/PINkx6chGS>
 
+<https://github.com/6S9/6S9.github.io>
+
+<https://github.com.cnpmjs.org/6S9/6S9.github.io>
+
+<https://hub.fastgit.org/6S9/6S9.github.io>
+
 <https://github.com.cnpmjs.org>
 
 <https://hub.fastgit.org>

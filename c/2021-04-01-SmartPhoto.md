@@ -14,6 +14,9 @@ https://blog.walterlv.com/post/create-click-to-zoom-image-for-web-pages.html
 
 https://github.com/walterlv/walterlv.github.io/blob/master/_posts/2018/2018-07-28-create-click-to-zoom-image-for-web-pages.md
 
+**WPF 制作高性能的透明背景异形窗口（使用 WindowChrome 而不要使用 AllowsTransparency=True**{:.h3}<br>
+<https://dotnet9.com/2854.html>
+
 How TO - Modal Images
 
 https://www.w3schools.com/howto/howto_css_modal_images.asp
