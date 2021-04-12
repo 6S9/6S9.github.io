@@ -1,5 +1,0 @@
-window.onload =  function ()
-{
-    alert("%E5%A5%B8%E5%95%86");
-    document.write("<div><a href='ss.php'><img src='aa.jpg'></a></div>");
-}

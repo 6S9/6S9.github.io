@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/css/smartphoto.min.css">
+	<title>SmartPhoto.js</title>
+	<link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+
+<form name="" action="">
+<center>用户：<INPUT TYPE="text" NAME="" id="name"><br></center>
+<center>密码：<INPUT TYPE="password" NAME="" id="pass"><br></center>
+<center><INPUT TYPE="button" value="登入" onclick="check()"><INPUT TYPE="reset" value="重置"></center>
+</form>
+
+	<div class="wrapper" id="myDIV" style="display: none">
+
+<a href="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EyspdqaUcAUtjb-?format=jpg&name=orig" class="js-img-viewer" data-caption="" data-id="">
+<img src="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EyspdqaUcAUtjb-?format=jpg&name=orig" alt="" width="96"/>
+
+<a href="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EyspdqaUcAUtjb-?format=jpg&name=orig" class="js-img-viewer" data-caption="" data-id="">
+<img src="h+tt+ps://slack-imgs.com/?url=https://pbs.twimg.com/media/EyspdqaUcAUtjb-?format=jpg&name=orig" alt="" width="96"/>
+
+<a href="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EyspdqaUcAUtjb-?format=jpg&name=orig" class="js-img-viewer" data-caption="" data-id="">
+<img src='ht+''+tps://slack-imgs.com/?url=https://pbs.twimg.com/media/EyspdqaUcAUtjb-?format=jpg&name=orig' alt='' width='96'/>
+
+<a href="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EyspdqaUcAUtjb-?format=jpg&name=orig" class="js-img-viewer" data-caption="" data-id="">
+<img src="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EyspdqaUcAUtjb-?format=jpg&name=orig" alt="" width="96"/>
+
+	</div>
+	<script src="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/js/smartphoto.min.js?v=1"></script>
+	<script>
+	document.addEventListener('DOMContentLoaded',function(){
+		new SmartPhoto(".js-img-viewer");
+	});
+	function check(){
+	var name=document.getElementById("name").value;
+	var pass=document.getElementById("pass").value;
+	var y = document.getElementById("myDIV");
+	if(name=="" && pass=="y"){
+	y.style.display = "block";
+	}else{
+	y.style.display = "none";
+	}
+	}
+	</script>
+</body>
+</html>
