@@ -1,78 +1,129 @@
-<script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" href="https://unpkg.com/smartphoto@1.1.0/css/smartphoto.min.css">
+	<title>SmartPhoto.js</title>
+	<link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+	<div class="wrapper">
+		<h1 class="title">SmartPhoto.js</h1>
 
-   function check(){
-      var name=document.getElementById("name").value;
-   var pass=document.getElementById("pass").value;
-   var y = document.getElementById("myDIV");
+		<div class="masonry" id="a" style="display: none">
+			<div class="brick">
+				<a href="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EwRGJgFUYAU0Lxk?format=jpg&name=orig" class="js-img-viewer" data-caption="s1syamo🍑@s1syamon" data-id="EwRGJgFUYAU0Lxk (1618×2312)" data-group="">
+					<img src="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EwRGJgFUYAU0Lxk?format=jpg&name=orig" width="96" alt="EwRGJgFUYAU0Lxk (1618×2312)" />
+				</a>
+			</div>
+			<div class="brick">
+				<a href="https://slack-imgs.com/?url=https://pbs.twimg.com/profile_images/1257708885101563904/QlE6na9Y_400x400.jpg" class="js-img-viewer" data-caption="橘花 空@Kikka_Sora" data-id="QlE6na9Y_400x400.jpg (400×400)" data-group="">
+					<img src="https://slack-imgs.com/?url=https://pbs.twimg.com/profile_images/1257708885101563904/QlE6na9Y_400x400.jpg" width="96" alt="QlE6na9Y_400x400.jpg (400×400)" />
+				</a>
+			</div>
+			<div class="brick">
+				<a href="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EqKerWxVgAIXqkC?format=jpg&name=orig" class="js-img-viewer" data-caption="" data-id="EqKerWxVgAIXqkC (4096×2666)" data-group="">
+					<img src="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EqKerWxVgAIXqkC?format=jpg&name=orig" width="96" alt="EqKerWxVgAIXqkC (4096×2666)" />
+				</a>
+			</div>
+			<div class="brick">
+				<a href="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EqKesahUUAIXphk?format=jpg&name=orig" class="js-img-viewer" data-caption="" data-id="EqKesahUUAIXphk (4096×2763)" data-group="">
+					<img src="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EqKesahUUAIXphk?format=jpg&name=orig" width="96" alt="EqKesahUUAIXphk (4096×2763)" />
+				</a>
+			</div>
+			<div class="brick">
+				<a href="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EqKeuOxVgAI_BlJ?format=jpg&name=orig" class="js-img-viewer" data-caption="" data-id="EqKeuOxVgAI_BlJ (3646×3935)" data-group="">
+					<img src="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EqKeuOxVgAI_BlJ?format=jpg&name=orig" width="96" alt="EqKeuOxVgAI_BlJ (3646×3935)" />
+				</a>
+			</div>
+			<div class="brick">
+				<a href="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EqKevh8VgAAyWNS?format=jpg&name=orig" class="js-img-viewer" data-caption="" data-id="EqKevh8VgAAyWNS (4096×3142)" data-group="">
+					<img src="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EqKevh8VgAAyWNS?format=jpg&name=orig" width="96" alt="EqKevh8VgAAyWNS (4096×3142)" />
+				</a>
+			</div>
+			<div class="brick">
+				<a href="https://slack-imgs.com/?url=https://pbs.twimg.com/media/ErShO4XUYAA8efV?format=jpg&name=orig" class="js-img-viewer" data-caption="Not Match" data-id="ErShO4XUYAA8efV (2200×3000)" data-group="">
+					<img src="https://slack-imgs.com/?url=https://pbs.twimg.com/media/ErShO4XUYAA8efV?format=jpg&name=orig" width="96" alt="ErShO4XUYAA8efV (2200×3000)" />
+				</a>
+			</div>
+			<div class="brick">
+				<a href="https://slack-imgs.com/?url=https://pbs.twimg.com/media/ErShQh6VoAIljE9?format=jpg&name=orig" class="js-img-viewer" data-caption="" data-id="ErShQh6VoAIljE9 (2456×3916)" data-group="">
+					<img src="https://slack-imgs.com/?url=https://pbs.twimg.com/media/ErShQh6VoAIljE9?format=jpg&name=orig" width="96" alt="ErShQh6VoAIljE9 (2456×3916)" />
+				</a>
+			</div>
+			<div class="brick">
+				<a href="https://slack-imgs.com/?url=https://pbs.twimg.com/media/ErShhOpVQAQ06Ng?format=jpg&name=orig" class="js-img-viewer" data-caption="" data-id="ErShhOpVQAQ06Ng (2200×3000)" data-group="">
+					<img src="https://slack-imgs.com/?url=https://pbs.twimg.com/media/ErShhOpVQAQ06Ng?format=jpg&name=orig" width="96" alt="ErShhOpVQAQ06Ng (2200×3000)" />
+				</a>
+			</div>
+			<div class="brick">
+				<a href="https://slack-imgs.com/?url=https://pbs.twimg.com/media/Ewuzo0-UYAQ4L-t?format=jpg&name=orig" class="js-img-viewer" data-caption="@HandPlug" data-id="Ewuzo0-UYAQ4L-t (1857×2766)" data-group="">
+					<img src="https://slack-imgs.com/?url=https://pbs.twimg.com/media/Ewuzo0-UYAQ4L-t?format=jpg&name=orig" width="96" alt="Ewuzo0-UYAQ4L-t (1857×2766)" />
+				</a>
+			</div>
+			<div class="brick">
+				<a href="https://slack-imgs.com/?url=https://pbs.twimg.com/media/ExiMYM2VEAMG146?format=jpg&name=orig" class="js-img-viewer" data-caption="zxcv🔞FanboxOpen!!@zxcvzxcvzxcc" data-id="ExiMYM2VEAMG146 (1447×2047)" data-group="">
+					<img src="https://slack-imgs.com/?url=https://pbs.twimg.com/media/ExiMYM2VEAMG146?format=jpg&name=orig" width="96" alt="ExiMYM2VEAMG146 (1447×2047)" />
+				</a>
+			</div>
+			<div class="brick">
+				<a href="https://slack-imgs.com/?url=https://pbs.twimg.com/media/ExiMYNJU4AQeqQg?format=jpg&name=orig" class="js-img-viewer" data-caption="" data-id="ExiMYNJU4AQeqQg (1447×2047)" data-group="">
+					<img src="https://slack-imgs.com/?url=https://pbs.twimg.com/media/ExiMYNJU4AQeqQg?format=jpg&name=orig" width="96" alt="ExiMYNJU4AQeqQg (1447×2047)" />
+				</a>
+			</div>
+			<div class="brick">
+				<a href="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EyqX8I_UYAQzVoQ?format=jpg&name=orig" class="js-img-viewer" data-caption="" data-id="EyqX8I_UYAQzVoQ (1447×2047)" data-group="">
+					<img src="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EyqX8I_UYAQzVoQ?format=jpg&name=orig" width="96" alt="EyqX8I_UYAQzVoQ (1447×2047)" />
+				</a>
+			</div>
+			<div class="brick">
+				<a href="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EyqX8I-VEAI17WN?format=jpg&name=orig" class="js-img-viewer" data-caption="" data-id="EyqX8I-VEAI17WN (1447×2047)" data-group="">
+					<img src="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EyqX8I-VEAI17WN?format=jpg&name=orig" width="96" alt="EyqX8I-VEAI17WN (1447×2047)" />
+				</a>
+			</div>
+			<div class="brick">
+				<a href="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EymrtPaVEAMGhtG?format=jpg&name=orig" class="js-img-viewer" data-caption="@inouenanaki" data-id="EymrtPaVEAMGhtG (675×900)" data-group="">
+					<img src="https://slack-imgs.com/?url=https://pbs.twimg.com/media/EymrtPaVEAMGhtG?format=jpg&name=orig" width="96" alt="EymrtPaVEAMGhtG (675×900)" />
+				</a>
+			</div>
+			<div class="brick">
+				<a href="https://slack-imgs.com/?url=https://pbs.twimg.com/media/Eymrvf-UcAEDNqw?format=jpg&name=orig" class="js-img-viewer" data-caption="" data-id="Eymrvf-UcAEDNqw (675×900)" data-group="">
+					<img src="https://slack-imgs.com/?url=https://pbs.twimg.com/media/Eymrvf-UcAEDNqw?format=jpg&name=orig" width="96" alt="Eymrvf-UcAEDNqw (675×900)" />
+				</a>
+			</div>
+		</div>
+	</div>
+	<script src="https://unpkg.com/smartphoto@1.1.0/js/smartphoto.min.js?v=1"></script>
+	<script>
+	document.addEventListener('DOMContentLoaded',function(){
+		const sm = new SmartPhoto(".js-img-viewer", {
+			showAnimation: false
+		});
+		// sm.destroy();
+	});
+	</script>
 
-   if(name=="" && pass=="y"){
+	<script>
+		 function check(){
+				var name=document.getElementById("name").value;
+		 var pass=document.getElementById("pass").value;
+		 if(name=="" && pass=="y"){
+	document.getElementById('a').style.display="";
+		 }else{
+		 alert("用户名或密码错误");
 
-   wd();
-   }else{
+		 }
 
-   }
-   }
+		 }
+	</script>
 
-   function wd()
-   {
+	<form name="f" action="">
+	<center>用户名:<INPUT TYPE="text" NAME="" id="name"><br></center>
+	<center>密码:<INPUT TYPE="password" NAME="" id="pass"><br></center>
+	<center><INPUT TYPE="button" value="登入" onclick="check()"><INPUT TYPE="reset" value="重置"></center>
+	</form>
 
-     var ah1 = "<a href=";
-     var pp2 = "https://slack-imgs.com/?url=";
-     var u3 = "u3";
-     var sc4 = " class='js-smartphoto' data-caption='"
-     var sc5 = "sc5"
-     var si6 = "' data-id='"
-     var si7 = "si7"
-     var sg8 = "' data-group='"
-     var sg9 = ""
-     var i10 = "'><img src='";
-     var w12 = "' width='96'/></a>";
-
-     document.write(ah1+pp2+'https://pbs.twimg.com/media/EwRGJgFUYAU0Lxk?format=jpg&name=orig'+sc4+'s1syamo🍑@s1syamon1618×2312)'+si6+'EwRGJgFUYAU0Lxk (1618×2312)'+sg8+sg9+i10+pp2+'https://pbs.twimg.com/media/EwRGJgFUYAU0Lxk?format=jpg&name=orig'+w12);
-
-     document.write(ah1+pp2+'https://pbs.twimg.com/profile_images/1257708885101563904/QlE6na9Y_400x400.jpg'+sc4+'橘花 空@Kikka_Sora'+si6+'QlE6na9Y_400x400.jpg (400×400)'+sg8+sg9+i10+pp2+'https://pbs.twimg.com/profile_images/1257708885101563904/QlE6na9Y_400x400.jpg'+w12);
-
-     document.write(ah1+pp2+'https://pbs.twimg.com/media/EqKerWxVgAIXqkC?format=jpg&name=orig'+sc4+''+si6+'EqKerWxVgAIXqkC (4096×2666)'+sg8+sg9+i10+pp2+'https://pbs.twimg.com/media/EqKerWxVgAIXqkC?format=jpg&name=orig'+w12);
-
-     document.write(ah1+pp2+'https://pbs.twimg.com/media/EqKesahUUAIXphk?format=jpg&name=orig'+sc4+'EqKesahUUAIXphk (4096×2763)'+si6+'EqKesahUUAIXphk (4096×2763)'+sg8+sg9+i10+pp2+'https://pbs.twimg.com/media/EqKesahUUAIXphk?format=jpg&name=orig'+w12);
-
-     document.write(ah1+pp2+'https://pbs.twimg.com/media/EqKeuOxVgAI_BlJ?format=jpg&name=orig'+sc4+'EqKeuOxVgAI_BlJ (3646×3935)'+si6+'EqKeuOxVgAI_BlJ (3646×3935)'+sg8+sg9+i10+pp2+'https://pbs.twimg.com/media/EqKeuOxVgAI_BlJ?format=jpg&name=orig'+w12);
-
-     document.write(ah1+pp2+'https://pbs.twimg.com/media/EqKevh8VgAAyWNS?format=jpg&name=orig'+sc4+'EqKevh8VgAAyWNS (4096×3142)'+si6+'EqKevh8VgAAyWNS (4096×3142)'+sg8+sg9+i10+pp2+'https://pbs.twimg.com/media/EqKevh8VgAAyWNS?format=jpg&name=orig'+w12);
-
-     document.write(ah1+pp2+'https://pbs.twimg.com/media/ErShO4XUYAA8efV?format=jpg&name=orig'+sc4+''+si6+'ErShhOpVQAQ06Ng (2200×3000)'+sg8+sg9+i10+pp2+'https://pbs.twimg.com/media/ErShO4XUYAA8efV?format=jpg&name=orig'+w12);
-
-     document.write(ah1+pp2+'https://pbs.twimg.com/media/ErShQh6VoAIljE9?format=jpg&name=orig'+sc4+''+si6+'ErShQh6VoAIljE9 (2456×3916)'+sg8+sg9+i10+pp2+'https://pbs.twimg.com/media/ErShQh6VoAIljE9?format=jpg&name=orig'+w12);
-
-     document.write(ah1+pp2+'https://pbs.twimg.com/media/ErShhOpVQAQ06Ng?format=jpg&name=orig'+sc4+''+si6+'ErShhOpVQAQ06Ng (2200×3000)'+sg8+sg9+i10+pp2+'https://pbs.twimg.com/media/ErShhOpVQAQ06Ng?format=jpg&name=orig'+w12);
-
-     document.write(ah1+pp2+'https://pbs.twimg.com/media/Ewuzo0-UYAQ4L-t?format=jpg&name=orig'+sc4+'@HandPlug'+si6+'Ewuzo0-UYAQ4L-t (1857×2766)'+sg8+sg9+i10+pp2+'https://pbs.twimg.com/media/Ewuzo0-UYAQ4L-t?format=jpg&name=orig'+w12);
-
-     document.write(ah1+pp2+'https://pbs.twimg.com/media/ExiMYM2VEAMG146?format=jpg&name=orig'+sc4+'zxcv🔞FanboxOpen!!@zxcvzxcvzxcc'+si6+'ExiMYM2VEAMG146 (1447×2047)'+sg8+sg9+i10+pp2+'https://pbs.twimg.com/media/ExiMYM2VEAMG146?format=jpg&name=orig'+w12);
-
-     document.write(ah1+pp2+'https://pbs.twimg.com/media/ExiMYNJU4AQeqQg?format=jpg&name=orig'+sc4+''+si6+'ExiMYNJU4AQeqQg (1447×2047)'+sg8+sg9+i10+pp2+'https://pbs.twimg.com/media/ExiMYNJU4AQeqQg?format=jpg&name=orig'+w12);
-
-     document.write(ah1+pp2+'https://pbs.twimg.com/media/EyqX8I_UYAQzVoQ?format=jpg&name=orig'+sc4+''+si6+'EyqX8I_UYAQzVoQ (1447×2047)'+sg8+sg9+i10+pp2+'https://pbs.twimg.com/media/EyqX8I_UYAQzVoQ?format=jpg&name=orig'+w12);
-
-     document.write(ah1+pp2+'https://pbs.twimg.com/media/EyqX8I-VEAI17WN?format=jpg&name=orig'+sc4+''+si6+'EyqX8I-VEAI17WN (1447×2047)'+sg8+sg9+i10+pp2+'https://pbs.twimg.com/media/EyqX8I-VEAI17WN?format=jpg&name=orig'+w12);
-
-     document.write(ah1+pp2+'https://pbs.twimg.com/media/EymrtPaVEAMGhtG?format=jpg&name=orig'+sc4+'@inouenanaki'+si6+'EymrtPaVEAMGhtG (675×900)'+sg8+sg9+i10+pp2+'https://pbs.twimg.com/media/EymrtPaVEAMGhtG?format=jpg&name=orig'+w12);
-
-     document.write(ah1+pp2+'https://pbs.twimg.com/media/Eymrvf-UcAEDNqw?format=jpg&name=orig'+sc4+''+si6+'Eymrvf-UcAEDNqw (675×900)'+sg8+sg9+i10+pp2+'https://pbs.twimg.com/media/Eymrvf-UcAEDNqw?format=jpg&name=orig'+w12);
-
-     document.write('<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/css/smartphoto.min.css">')
-
-     document.write('<script src="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/js/smartphoto.min.js"><\/script>')
-
-     document.addEventListener('DOMContentLoaded',function(){
-       new SmartPhoto(".js-smartphoto");
-     });
-   }
-
-</script>
-
-<form name="f" action="">
-<center>用户：<INPUT TYPE="text" NAME="" id="name"><br></center>
-<center>密码：<INPUT TYPE="password" NAME="" id="pass"><br></center>
-<center><INPUT TYPE="button" value="登入" onclick="check()"><INPUT TYPE="reset" value="重置"></center>
-</form>
+</body>
+</html>
