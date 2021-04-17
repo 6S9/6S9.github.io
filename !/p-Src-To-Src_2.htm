@@ -1,0 +1,50 @@
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<div class="slider_nav">
+    <ul>
+      <li><a href="#"><img src="https://cn.bing.com/th?id=OHR.NorfolkPups_ZH-CN0794024596_480x360.jpg" alt="" src_2="https://cn.bing.com/th?id=OHR.PhotographyEmperor_ZH-CN8188172143_360x270.jpg" /></a></li>
+      <li><a href="#"><img src="images/3.jpg" alt="" src_2="images/4.jpg" /></li>
+      <li><a href="#"><img src="images/5.jpg" alt="" src_2="images/6.jpg" /></a></li>
+      <li><a href="#"><img src="images/7.jpg" alt="" src_2="images/8.jpg" /></a></li>
+      <li><a href="#"><img src="images/9.jpg" alt="" src_2="images/10.jpg" /></a></li>
+    </ul>
+</div>
+<script>
+
+</script>
+
+<script type="text/javascript">
+window.onload=function(){
+
+}
+$(document).ready(function(){
+$("button").click(function(){
+
+  //图片导航切换
+
+      var picHref = [];
+      $(".slider_nav ul li").each(function(){
+      picHref.push($(this).find("img").attr("src"));//存放图片原地址
+      });
+      //alert(picHref[0]);
+      $(".slider_nav  ul  li").click(function(){
+          //alert($(this).find("img").attr("src"));
+          var src_2 = $(this).find("img").attr("src_2");//获取点击后新的图片地址
+          $(this).find("img").attr("src",src_2);//添加当前新地址图片
+          //给同级元素替换回原来的图片地址
+          $(this).siblings().each(function(){
+              var index = $(this).index();
+              //alert(index);
+              $(this).find("img").attr("src",picHref[index]);
+          });
+          return false;
+      });
+
+
+});
+});
+</script>
+</head>
+
+<body>
+
+<button type="button">Click me</button>

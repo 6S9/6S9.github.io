@@ -32,3 +32,15 @@ https://imgproxy.net/
 https://www.nasa.gov/sites/default/files/thumbnails/image/pia22228.jpg
 
 https://imgproxy.evilmartians.com/6LMaz_KOMEsQI6DkiUM8632lEgHQYIbyDf4EVc7zEKk/rs:fill:960:540/g:ce/wm:0.5:soea:0:0:0.2/wmu:aHR0cHM6Ly9pbWdwcm94eS5uZXQvd2F0ZXJtYXJrLnN2Zw/plain/https:%2F%2Fwww.nasa.gov%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fpia22228.jpg
+
+```tip
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?b1c5c62f256893710ae912468261bf6b";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+```

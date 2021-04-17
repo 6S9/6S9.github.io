@@ -1,0 +1,37 @@
+<script>
+document.addEventListener('DOMContentLoaded',function(){
+  new SmartPhoto(".js-smartphoto");
+});
+</script>
+
+<script>
+   function check(){
+      var name=document.getElementById("name").value;
+   var pass=document.getElementById("pass").value;
+   var y = document.getElementById("myDIV");
+   if(name=="" && pass=="y"){
+   y.style.display = "block";
+   }else{
+   y.style.display = "none";
+   }
+   }
+</script>
+
+<form name="f" action="">
+<center>用户：<INPUT TYPE="text" NAME="" id="name"><br></center>
+<center>密码：<INPUT TYPE="password" NAME="" id="pass"><br></center>
+<center><INPUT TYPE="button" value="登入" onclick="check()"><INPUT TYPE="reset" value="重置"></center>
+</form>
+
+<div id="myDIV" style="display: none">
+
+<script type="text/javascript">
+
+var ps1 = "https://slack-imgs.com/?url=";
+var ru2 = "https://pbs.twimg.com/media/EySEWvyU8AIRssc?format=jpg&name=orig";
+
+document.write("<a href="+ps1+ru2+" class='js-smartphoto' data-caption='' data-id='' data-group=''><img src="+ps1+ru2+" width='96'/></a>");
+
+</script>
+
+</div>

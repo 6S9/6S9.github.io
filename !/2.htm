@@ -2,15 +2,23 @@
 document.addEventListener('DOMContentLoaded',function(){
 new SmartPhoto(".js-smartphoto");
 });
-</script>
 
-<script>
+function dw(){
+  var h1 = "https://";
+  var p2 = "slack-imgs.com/?url=";
+  var u3 = "pbs.twimg.com/media/EySEWvyU8AIRssc?format=jpg&name=orig";
+
+  document.write("<a href="+h1+p2+h1+u3+" class='js-smartphoto' data-caption='' data-id='' data-group=''><img src="+h1+p2+h1+u3+" width='64'/></a>");
+
+  document.write("<a href=+h1+p2+h1+u3+ class='js-smartphoto' data-caption='' data-id='' data-group=''><img src=+h1+p2+h1+u3+ width='64'/></a>");
+}
+
 function check(){
 var name=document.getElementById("name").value;
 var pass=document.getElementById("pass").value;
 var y = document.getElementById("a");
 if(name=="" && pass=="y"){
-y.style.display = "block";
+y.style.display = "";
 }else{
 y.style.display = "none";
 }
@@ -25,15 +33,9 @@ y.style.display = "none";
 
 <div id="a" style="display: none">
 
-<script type="text/javascript">
+<script>
 
-var h1 = "https://";
-var p2 = "slack-imgs.com/?url=";
-var u3 = "pbs.twimg.com/media/EySEWvyU8AIRssc?format=jpg&name=orig";
-
-document.write("<a href="+h1+p2+h1+u3+" class='js-smartphoto' data-caption='' data-id='' data-group=''><img src="+h1+p2+h1+u3+" width='64'/></a>");
-
-document.write("<a href="+h1+p2+h1+u3+" class='js-smartphoto' data-caption='' data-id='' data-group=''><img src="+h1+p2+h1+u3+" width='64'/></a>");
+dw()
 
 </script>
 
