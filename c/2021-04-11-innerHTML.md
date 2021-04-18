@@ -33,18 +33,20 @@ https://www.cnblogs.com/7qin/p/9607272.html
 <object style="border:0px" type="text/x-scriptlet" data="import.htm" width=100% height=30></object>
 ```
 
-**HTML中include file的用法**{:.h3}<br>
+**HTML中inc-lude file的用法**{:.h3}<br>
 <https://blog.csdn.net/u012615439/article/details/86075739>
 ```tip
-<!-- #include file="a.html" -->
+<!-- #inc-lude file="a.html" -->
 
-<!-- #include virtual="b.html" -->
+<!-- #inc-lude virtual="b.html" -->
 ```
 
-*Flask学习笔记】模板（二**{:.h3}<br>
+**Flask学习笔记】模板（二**{:.h3}<br>
 <https://blog.csdn.net/trokey/article/details/84880131>
 
+```tip
 PS：模板里面，不能同时有两个{% extends " " %}语句，即使另一个被注释了也不行
+```
 
 **js怎么断开HTML里的image标签的图像流**{:.h3}<br>
 <https://zhidao.baidu.com/question/1824473247186567828.html>
