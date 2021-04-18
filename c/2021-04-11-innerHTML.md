@@ -27,7 +27,7 @@ https://www.cnblogs.com/7qin/p/9607272.html
 **DIV中display和visibility属性差别**{:.h3}<br>
 <https://www.cnblogs.com/Chenshuai7/p/5188068.html>
 
-**html文件引入其它html文件的几种方法：include方式**{:.h3}<br>
+**html文件引入其它html文件的几种方法：inc-lude方式**{:.h3}<br>
 <https://www.cnblogs.com/qmx5942701/p/5474063.html>
 ```tip
 <object style="border:0px" type="text/x-scriptlet" data="import.htm" width=100% height=30></object>
@@ -45,7 +45,7 @@ https://www.cnblogs.com/7qin/p/9607272.html
 <https://blog.csdn.net/trokey/article/details/84880131>
 
 ```tip
-PS：模板里面，不能同时有两个{% extends " " %}语句，即使另一个被注释了也不行
+PS：模板里面，不能同时有两个ext-ends " "语句，即使另一个被注释了也不行
 ```
 
 **js怎么断开HTML里的image标签的图像流**{:.h3}<br>
