@@ -1,4 +1,4 @@
-### `1972年2月20`梁宏达
+### `1972年2月20`梁宏d
 ```note
 ```
 <https://zh.wikipedia.org/wiki/%E6%A2%81%E5%AE%8F%E8%BE%BE>
