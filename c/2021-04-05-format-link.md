@@ -11,6 +11,9 @@
 ```tip
 ```
 **FormatLink settings**{:.h3}<br>
+
+\ndocument.write('<a href="'+p+'{{url}}" class="js-smartphoto" data-caption="{{text}}" data-id="{{text}}" data-group=""><img src="'+p+'{{url}}" width="64" alt="{{text}}" title="{{text}}" /></a>');\n
+
 \ndocument.write(ah1+pp2+'{{url}}'+sc4+''+si6+'{{text}}'+sg8+sg9+i10+pp2+'{{url}}'+w12);\n
 
 \n<a href="https://slack-imgs.com/?url={{url}}" class="js-smartphoto" data-caption="{{text}}" data-id="" data-group=""><img src="https://slack-imgs.com/?url={{url}}" width="64" alt="{{text}}" title="{{text}}" /></a>\n
