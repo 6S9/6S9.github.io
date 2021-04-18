@@ -1,7 +1,6 @@
 ```warning
 ### Fate／stay night Heaven's Feel III
 ```
-<https://www.kexiaoguo.com/dianying329/2/>
 
 看来想清楚了 不再骗自己了吗
 
@@ -119,7 +118,7 @@ Nine Lives Blade Works`多图杀猫`
 成为了能够诅咒全世界60亿人口的存在
 
 我到最后都会保护樱
-Dialogue: 0,0:56:48.30,0:56:51.22,Default,,0,0,0,,不管发生什么事 我都会站在她这边
+不管发生什么事 我都会站在她这边
 
 我还以为爷爷会更大一点呢`德田重n`
 
