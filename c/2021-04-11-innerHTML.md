@@ -45,7 +45,7 @@ https://www.cnblogs.com/7qin/p/9607272.html
 <https://blog.csdn.net/trokey/article/details/84880131>
 
 ```tip
-PS：模板里面，不能同时有两个`{% `extends " " %}语句，即使另一个被注释了也不行
+PS：模板里面，不能同时有两个{`百分号` extends " " %}语句，即使另一个被注释了也不行
 ```
 
 **js怎么断开HTML里的image标签的图像流**{:.h3}<br>
