@@ -33,7 +33,7 @@ https://www.cnblogs.com/7qin/p/9607272.html
 <object style="border:0px" type="text/x-scriptlet" data="import.htm" width=100% height=30></object>
 ```
 
-**HTML中inc-lude file的用法**{:.h3}<br>
+**HTML中include file的用法**{:.h3}<br>
 <https://blog.csdn.net/u012615439/article/details/86075739>
 ```tip
 <!-- #inc-lude file="a.html" -->
@@ -45,7 +45,7 @@ https://www.cnblogs.com/7qin/p/9607272.html
 <https://blog.csdn.net/trokey/article/details/84880131>
 
 ```tip
-PS：模板里面，不能同时有两个ext-ends " "语句，即使另一个被注释了也不行
+PS：模板里面，不能同时有两个extends " "语句，即使另一个被注释了也不行
 ```
 
 **js怎么断开HTML里的image标签的图像流**{:.h3}<br>
