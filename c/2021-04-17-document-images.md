@@ -1,3 +1,13 @@
+```tip
+{:.font-head}
+video.js--很赞的H5视频播放库
+[
+https://www.cnblogs.com/webenh/p/5815741.html
+](
+https://www.cnblogs.com/webenh/p/5815741.html
+)
+```
+
 ```note
 document.write() 中如何使用变量
 [

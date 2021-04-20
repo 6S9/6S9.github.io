@@ -1,38 +1,21 @@
-<form name="f" action="">
-<center>用户：<INPUT TYPE="text" NAME="" id="name"><br></center>
-<center>密码：<INPUT TYPE="password" NAME="" id="pass"><br></center>
-<center><INPUT TYPE="button" value="登入" onclick="check()"><INPUT TYPE="reset" value="重置"></center>
-</form>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
 
-<div id="a" style="display: none">
+    <body>
+        <input type='file' accept='text/plain' onchange='openFile(event)'><br>
+        <div id="output"></div>
+    </body>
 
-<script>
-document.addEventListener('DOMContentLoaded',function(){
-new SmartPhoto(".js-smartphoto");
-});
+    <script type="text/javascript">
+    var reader = new FileReader();
 
-function check(){
-var name=document.getElementById("name").value;
-var pass=document.getElementById("pass").value;
-var y = document.getElementById("a");
-if(name=="" && pass=="y"){
-y.style.display = "block";
-}else{
-y.style.display = "none";
-}
-}
+      //将文件以文本形式读入页面
+      reader.readAsText("https://www.voidtools.com/zh-cn/License.txt", "gb2312");
+console.log(reader)
+    </script>
 
-var h1 = 'https://';
-var p2 = 'slack-imgs.com/?url=';
-var u3 = 'pbs.twimg.com/media/EySEWvyU8AIRssc?format=jpg&name=orig';
-
-document.write('<a href="'+h1+p2+h1+u3+'" class="js-smartphoto" data-caption="" data-id="" data-group=""><img src="'+h1+p2+h1+u3+'" width="64" alt="{{text}}" title="{{text}}" /></a>');
-
-document.write('<a href="'+h1+p2+h1+u3+'" class="js-smartphoto" data-caption="" data-id="" data-group=""><img src="'+h1+p2+h1+u3+'" width="64" alt="{{text}}" title="{{text}}" /></a>');
-
-</script>
-
-</div>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/css/smartphoto.min.css">
-<script src="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/js/smartphoto.min.js"></script>
+</html>
