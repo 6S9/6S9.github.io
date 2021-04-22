@@ -1,35 +1,18 @@
-<script type="text/javascript">
-
-let mulitImg = [
-     'http://www.daqianduan.com/wp-content/uploads/2017/03/IMG_0119.jpg',
-     'http://www.daqianduan.com/wp-content/uploads/217/01/1.jpg',
-     'http://www.daqianduan.com/wp-content/uploads/2015/11/jquery.jpg',
-     'http://www.daqianduan.com/wp-content/uploads/2015/10/maid.jpg'
- ];
- let promiseAll = [], img = [], imgTotal = mulitImg.length;
- for(let i = 0 ; i < imgTotal ; i++){
-     promiseAll[i] = new Promise((resolve, reject)=>{
-         img[i] = new Image()
-         img[i].src = mulitImg[i]
-         img[i].onload = function(){
-              //第i张加载完成
-              var a = new Array();
-              a[i] = "img/" + i.toString() + ".gif";
-              var ima = new Array();
-              ima[i] = document.createElement('img');
-ima[i].src = img[i].src;
-ima[i].onerror=function(){this.src="https://www.baidu.com/img/flexible/logo/pc/result.png"};
-image.appendChild(img[i].src);
-resolve(img[i])
-         }
-     })
- }
- Promise.all(promiseAll).then((img)=>{
-     //全部加载完成
- })
-
-</script>
-</head>
-
 <div id="image">
+
+<img src="http://www.daqianduan.com/wp-content/uploads/2017/03/IMG_0119.jpg">
+
+<img src="http://www.daqianduan.com/wp-content/uploads/217/01/1.jpg">
+
+<img src="http://www.daqianduan.com/wp-content/uploads/2015/11/jquery.jpg">
+
+<img src="http://www.daqianduan.com/wp-content/uploads/2015/10/maid.jpg">
+
 </div>
+
+<script language="javascript">
+var noimg=document.getElementsByTagName("img");
+for(i=0; i < noimg.length; i++){
+　　noimg[i].onerror=function(){this.src="http://tb1.bdstatic.com/tb/cms/post/bubble/jiji_03.png"}
+}
+</script>
