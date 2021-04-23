@@ -1,57 +1,32 @@
+<html>
+<head>
+<title>test</title>
 <script type="text/javascript">
+function show() {
+var a = new Array();
+var i = 1;
+for (i = 1; i <= 6; i++) {
+a[i] = "img/" + i.toString() + ".gif";
+}
+var ima = new Array();
+var imb = new Array();
+for (i = 1; i <= 6; i++) {
+var image = document.getElementById("image");
+ima[i] = document.createElement('img');
+ima[i].src = a[i];
+image.appendChild(ima[i]);
+imb[i]= document.createElement("a");
+imb[i].href=a[i];
+image.appendChild(imb[i]);
+}
+}
 
-var img = [],
-    flag = 0,
-    mulitImg = [
-    'http://www.daqianduan.com/wp-content/uploads/2017/03/IMG_0119.jpg',
-    'http://www.daqianduan.com/wp-content/uploads/2017/01/1.jpg',
-    'http://www.daqianduan.com/wp-content/uploads/2015/11/jquery.jpg',
-    'http://www.daqianduan.com/wp-content/uploads/2015/10/maid.jpg'
- ];
- var imgTotal = mulitImg.length;
-
- var a = new Array();
- var j = 1;
- for (j = 1; j <= 6; j++) {
- a[j] = "img/" + j.toString() + ".gif";
- }
- var ima = new Array();
-
- for(var i = 0 ; i < imgTotal ; i++){
-    img[i] = new Image()
-    img[i].src = mulitImg[i]
-    img[i].onerror=function(){this.src="http://tb1.bdstatic.com/tb/cms/post/bubble/jiji_03.png"}
-    img[i].onload = function(){
-       //第i张图片加载完成
-       var image = document.getElementById("image");
-       ima[j] = document.createElement('img');
-       ima[j].src =img[flag].src;
-       image.appendChild(ima[j]);
-       flag++
-       console.log(img[i]);
-       if( flag == imgTotal ){
-          //全部加载完成
-       }
-    }
- }
-
- function show() {
- var a = new Array();
- var i = 1;
- for (i = 1; i <= 6; i++) {
- a[i] = "img/" + i.toString() + ".gif";
- }
- var ima = new Array();
- for (i = 1; i <= 6; i++) {
- var image = document.getElementById("image");
- ima[i] = document.createElement('img');
- ima[i].src = a[i];
- image.appendChild(ima[i]);
- }
- }
+function addA(){		var aNode = document.createElement("A");
+aNode.href = "http://blog.csdn.net/czh500/article/details/51684483";		aNode.title = "囧囧的csdn博客";		aNode.target = "_blank";		var myTextNode = document.createTextNode("我的csdn博客！");		aNode.appendChild(myTextNode);		var brNode = document.createElement("br");
+var br2Node = document.createElement("br");
+var divNode = document.getElementById("myDiv");		divNode.appendChild(aNode);		insertAfter(brNode, aNode);		insertAfter(br2Node, brNode);	}
 
 </script>
 </head>
-
+<body onload="javascript:show()">
 <div id="image">
-</div>

@@ -1,21 +1,68 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title></title>
-    </head>
-
-    <body>
-        <input type='file' accept='text/plain' onchange='openFile(event)'><br>
-        <div id="output"></div>
-    </body>
-
-    <script type="text/javascript">
-    var reader = new FileReader();
-
-      //将文件以文本形式读入页面
-      reader.readAsText("https://www.voidtools.com/zh-cn/License.txt", "gb2312");
-console.log(reader)
-    </script>
-
-</html>
+<div id="js_F" style="left: 134px; z-index:10000; width: 270px; height: 174px; top: 70px;"></div>
+<script type="text/javascript">
+<!--///*--><![CDATA[/*><!--*/
+var js_F = document.getElementById("js_F");
+var imgList = ['images/slideshow/fullsize/shou5.jpg', 'images/slideshow/fullsize/shou6.jpg', 'images/slideshow/fullsize/shou7.jpg', 'images/slideshow/fullsize/shou8.jpg', 'images/slideshow/fullsize/shou9.jpg', 'images/slideshow/fullsize/shou10.jpg', 'images/slideshow/fullsize/shou11.jpg', 'images/slideshow/fullsize/shou12.jpg'];//默认的图片
+//var imgList=<%=imgList%>;从数据库提出数据
+//var imgList=['images/dianpu.bmp','images/dianpu.bmp','images/dianpu.bmp','images/dianpu.bmp','images/dianpu.bmp','images/dianpu.bmp',];
+var imgTemp = new Array();
+for (i=0; i<imgList.length; i++){
+imgTemp[i] = new Image();
+imgTemp[i].src = imgList[i];
+}
+var imgs = new Array();
+var imgID = 0, nextImgID, proveImgID;
+var tf = true; //图片移动方向标志
+var speed1 = 10; speed2 = 3000; //速度
+function imgInit(){
+var content = '';
+for (i=0; i<imgList.length; i++){
+content += '<img src="' + imgList[i] + '" style="left:0;" />\n';
+}
+js_F.innerHTML = content;
+imgs = js_F.getElementsByTagName('img');
+imgs[0].style.zIndex = 20;
+imgs[1].style.zIndex = 15;
+}
+function imgChange(){
+if ((imgID+1)<imgList.length){
+nextImgID = imgID + 1;
+} else if (imgID<imgList.length) {
+nextImgID = 0;
+} else {
+imgID = 0;
+nextImgID = imgID + 1;
+}
+imgs[imgID].style.zIndex = 20;
+imgs[nextImgID].style.zIndex = 15;
+setTimeout('imgShow()',speed2);
+}
+function imgShow(){
+if (tf){ //imgID向左边移动2/3，nextImgID向右边1/3
+if (parseInt(imgs[imgID].style.left)>-180){
+imgs[imgID].style.left = (parseInt(imgs[imgID].style.left)-10) + 'px';
+imgs[nextImgID].style.left = (parseInt(imgs[nextImgID].style.left)+5) + 'px';
+setTimeout('imgShow()',speed1);
+} else {
+tf = !tf;
+imgs[imgID].style.zIndex = 15;
+imgs[nextImgID].style.zIndex = 20;
+setTimeout('imgShow()',speed1);
+}
+} else {
+if (parseInt(imgs[imgID].style.left)<0){
+imgs[imgID].style.left = (parseInt(imgs[imgID].style.left)+10) + 'px';
+imgs[nextImgID].style.left = (parseInt(imgs[nextImgID].style.left)-5) + 'px';
+setTimeout('imgShow()',speed1);
+} else {
+imgs[imgID].style.zIndex = 10;
+tf = !tf;
+imgID++;
+imgChange();
+}
+}
+}
+imgInit();
+imgChange();
+/*]]>*///-->
+</script>

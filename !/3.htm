@@ -1,18 +1,38 @@
-<div id="image">
-
-<img src="http://www.daqianduan.com/wp-content/uploads/2017/03/IMG_0119.jpg">
-
-<img src="http://www.daqianduan.com/wp-content/uploads/217/01/1.jpg">
-
-<img src="http://www.daqianduan.com/wp-content/uploads/2015/11/jquery.jpg">
-
-<img src="http://www.daqianduan.com/wp-content/uploads/2015/10/maid.jpg">
-
+<div>1111<img src="https://www.baidu.com/img/gif_866f6aded1145a1188095fc88f4593d6.gif" /></div>
+<div id="a1">2222
+    <img src="https://www.baidu.com/img/gif_866f6aded1145a1188095fc88f4593d6.gif" />
 </div>
+<script>
+function tihuanimg(id,href){
+    //var allelem=document.all;
+    var allelem=document.getElementById("a1").childNodes;
+    for(i=0;i<allelem.length;i++){
+        var tagname;
+        try{
+            tagname=allelem[i].tagName.toLowerCase();
+        }
+        catch(e){
+            continue;
+        }
+        if(tagname=='img'){
+            if(allelem[i].parentNode.tagName.toLowerCase()=='a') continue;
+            var newa=document.createElement("a");
+            var thiselem=allelem[i];
+            tihuanlink(thiselem,href);
+        }
+    }
 
-<script language="javascript">
-var noimg=document.getElementsByTagName("img");
-for(i=0; i < noimg.length; i++){
-　　noimg[i].onerror=function(){this.src="http://tb1.bdstatic.com/tb/cms/post/bubble/jiji_03.png"}
 }
+function tihuanlink(thiselem,href){
+    var newa=document.createElement("a");
+    newa.href=href;
+    newa.innerHTML=thiselem.outerHTML;
+    var parent=thiselem.parentNode;
+    parent.appendChild(newa)
+    parent.removeChild(thiselem);
+}
+tihuanimg("a1","http://www.baidu.com");
 </script>
+————————————————
+版权声明：本文为CSDN博主「langyu1021」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/langyu1021/article/details/50445109
