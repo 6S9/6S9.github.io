@@ -6,7 +6,7 @@
 
 <div id="image">
 </div>
-<ul id="myList"><li>Coffee</li><li>Tea</li></ul>
+
 <script type="text/javascript">
 
 show();
@@ -32,18 +32,22 @@ ima[i].src = a[i];
 ima[i].width="96";
 imb[i].appendChild(ima[i]);
 image.appendChild(imb[i]);
-
-var node=document.createElement("LI");
-var textnode=document.createTextNode(i+"全"+a.length+"项"+a[i]);
-node.appendChild(textnode);
-document.getElementById("myList").appendChild(node);
-
 }
 }
-
 
 document.addEventListener('DOMContentLoaded',function(){
 new SmartPhoto(".js-smartphoto");
 });
+
+function addElement () {
+
+  let newDiv = document.createElement("div");
+  let newContent = document.createTextNode("全"+a.length+"项");
+  newDiv.appendChild(newContent);
+  let currentDiv = document.getElementById("div1");
+  document.body.insertBefore(newDiv, currentDiv);
+}
+
+addElement();
 
 </script>

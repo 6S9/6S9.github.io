@@ -1,38 +1,52 @@
-<div>1111<img src="https://www.baidu.com/img/gif_866f6aded1145a1188095fc88f4593d6.gif" /></div>
-<div id="a1">2222
-    <img src="https://www.baidu.com/img/gif_866f6aded1145a1188095fc88f4593d6.gif" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/css/smartphoto.min.css">
+<script src="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/js/smartphoto.min.js"></script>
+
+<script type="text/javascript" src="3.txt">
+</script>
+
+<div id="image">
 </div>
-<script>
-function tihuanimg(id,href){
-    //var allelem=document.all;
-    var allelem=document.getElementById("a1").childNodes;
-    for(i=0;i<allelem.length;i++){
-        var tagname;
-        try{
-            tagname=allelem[i].tagName.toLowerCase();
-        }
-        catch(e){
-            continue;
-        }
-        if(tagname=='img'){
-            if(allelem[i].parentNode.tagName.toLowerCase()=='a') continue;
-            var newa=document.createElement("a");
-            var thiselem=allelem[i];
-            tihuanlink(thiselem,href);
-        }
-    }
+<ul id="myList"><li>Coffee</li><li>Tea</li></ul>
+<script type="text/javascript">
+
+show();
+
+function show() {
+
+var i = 0;
+for (i = 0; i <= a.length-1; i++) {
 
 }
-function tihuanlink(thiselem,href){
-    var newa=document.createElement("a");
-    newa.href=href;
-    newa.innerHTML=thiselem.outerHTML;
-    var parent=thiselem.parentNode;
-    parent.appendChild(newa)
-    parent.removeChild(thiselem);
+var ima = new Array();
+var imb = new Array();
+for (i = 0; i <= a.length-1; i++) {
+
+var image = document.getElementById("image");
+
+
+
+ima[i] = document.createElement('img');
+ima[i].src = a[i];
+ima[i].width="96";
+imb[i].appendChild(ima[i]);
+
+imb[i]= document.createElement("a");
+imb[i].href=a[i];
+imb[i].className = "js-smartphoto";
+
+image.appendChild(imb[i]);
+
+var node=document.createElement("LI");
+var textnode=document.createTextNode(i+"全"+a.length+"项"+a[i]);
+node.appendChild(textnode);
+document.getElementById("myList").appendChild(node);
+
 }
-tihuanimg("a1","http://www.baidu.com");
+}
+
+
+document.addEventListener('DOMContentLoaded',function(){
+new SmartPhoto(".js-smartphoto");
+});
+
 </script>
-————————————————
-版权声明：本文为CSDN博主「langyu1021」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/langyu1021/article/details/50445109
