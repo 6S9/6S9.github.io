@@ -1,8 +1,0 @@
-var a = [
-'https://cn.bing.com/th?id=OHR.NorfolkPups_ZH-CN0794024596_UHD.jpg',
-'https://cn.bing.com/th?id=OHR.PhotographyEmperor_ZH-CN8188172143_UHD.jpg',
-'https://cn.bing.com/th?id=OHR.PRookery_ZH-CN2608300981_1920x1080.jpg',
-'https://cn.bing.com/th?id=OHR.RedRobin_ZH-CN4148689161_UHD.jpg',
-'https://cn.bing.com/th?id=OHR.FalklandRockhoppers_ZH-CN5370686595_1920x1080.jpg',
-'https://cn.bing.com/th?id=OHR.Mazezilla_ZH-CN8502282112_UHD.jpg'
-];

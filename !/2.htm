@@ -1,59 +1,29 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/css/smartphoto.min.css">
-<script src="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/js/smartphoto.min.js"></script>
-
-<script type="text/javascript" src="3.txt">
-</script>
-
-<div id="image">
-</div>
-<ul id="myList"><li>{{ site.url }}/js/</li><li>Debug</li></ul>
 <script type="text/javascript">
 
 show();
 
 function show() {
+            var url = "https://66e.github.io/test/7.json"
+            var request = new XMLHttpRequest();
+            request.open("get", url);
+            request.send(null);
+            request.onload = function () {
+                if (request.status == 200) {
+                    var json = JSON.parse(request.responseText);
+                    //console.log(json);
 
-var p = 'https://slack-imgs.com/?url=';
-var i = 0;
-for (i = 0; i <= a.length-1; i++) {
 
-}
-var ima = new Array();
-var imb = new Array();
-for (i = 0; i <= a.length-1; i++) {
 
-var image = document.getElementById("image");
+                    var ol = document.getElementById('ol');
+                    json.person.map(person => {
+                        var li = document.createElement("li");
+                        li.innerHTML = '名字是' + person.name+'图片是'+person.image;
+                        ol.append(li);
+                    })
+                }
+            }
+        }
+    </script>
 
-imb[i]= document.createElement("a");
-imb[i].href=p+a[i];
-imb[i].className = "js-smartphoto";
-
-ima[i] = document.createElement('img');
-ima[i].src = p+a[i];
-ima[i].width="64";
-imb[i].appendChild(ima[i]);
-image.appendChild(imb[i]);
-
-var nod=document.createElement("LI");
-var textnod=document.createTextNode(i+"全"+a.length+"项"+a[i]);
-nod.appendChild(textnod);
-document.getElementById("myList").appendChild(nod);
-
-}
-}
-
-document.addEventListener('DOMContentLoaded',function(){
-new SmartPhoto(".js-smartphoto");
-});
-
-function myFunction()
-{
-var node=document.createElement("LI");
-var textnode=document.createTextNode("全"+a.length+"项");
-node.appendChild(textnode);
-document.getElementById("myList").appendChild(node);
-}
-
-myFunction();
-
-</script>
+    <ol id="ol">
+</ol>

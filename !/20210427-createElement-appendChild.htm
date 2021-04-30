@@ -7,11 +7,20 @@
 <div id="image">
 </div>
 
+<div id="div1">
+</div>
+
 <script type="text/javascript">
 
 show();
 
 function show() {
+
+var a = [
+'http://farm4.staticflickr.com/3864/14420515212_9999c800b4_b.jpg',
+'http://farm8.staticflickr.com/7412/8732133694_0c7e400022_b.jpg',
+'http://farm4.staticflickr.com/3745/8971419780_cb88b22947_b.jpg',
+];
 
 var i = 0;
 for (i = 0; i <= a.length-1; i++) {
@@ -32,22 +41,17 @@ ima[i].src = a[i];
 ima[i].width="96";
 imb[i].appendChild(ima[i]);
 image.appendChild(imb[i]);
+
+let newDiv = document.createElement("div");
+let newContent = document.createTextNode("全"+a.length+"项");
+newDiv.appendChild(newContent);
+let currentDiv = document.getElementById("div1");
+document.body.insertBefore(newDiv, currentDiv);
 }
 }
 
 document.addEventListener('DOMContentLoaded',function(){
 new SmartPhoto(".js-smartphoto");
 });
-
-function addElement () {
-
-  let newDiv = document.createElement("div");
-  let newContent = document.createTextNode("全"+a.length+"项");
-  newDiv.appendChild(newContent);
-  let currentDiv = document.getElementById("div1");
-  document.body.insertBefore(newDiv, currentDiv);
-}
-
-addElement();
 
 </script>

@@ -24,5 +24,17 @@
 **picx`基于 GitHub API 的免费、稳定且高效的图床管理神器`**{:.h3}<br>
 <https://github.com/journey-ad/picx>
 
+```tip
+```
+
+{:.h4}
+使用jsproxy做网页代理`及时行乐@一只冷涵`
+<br>[
+https://www.jsxlo.com/jsproxy/
+](
+https://www.jsxlo.com/jsproxy/
+)
+
+
 {:.font-head}
 {{ page.text }}

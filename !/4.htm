@@ -1,49 +1,8 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/css/smartphoto.min.css">
-<script src="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/js/smartphoto.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
 
-<script type="text/javascript" src="3.txt">
-</script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
-<div id="image">
-</div>
-<ul id="myList"><li>Coffee</li><li>Tea</li></ul>
-<script type="text/javascript">
-
-show();
-
-function show() {
-
-var i = 0;
-for (i = 0; i <= a.length-1; i++) {
-
-}
-var ima = new Array();
-var imb = new Array();
-for (i = 0; i <= a.length-1; i++) {
-
-var image = document.getElementById("image");
-
-imb[i]= document.createElement("a");
-imb[i].href=a[i];
-imb[i].className = "js-smartphoto";
-
-ima[i] = document.createElement('img');
-ima[i].src = a[i];
-ima[i].width="96";
-imb[i].appendChild(ima[i]);
-image.appendChild(imb[i]);
-
-var node=document.createElement("LI");
-var textnode=document.createTextNode(i+"全"+a.length+"项"+a[i]);
-node.appendChild(textnode);
-document.getElementById("myList").appendChild(node);
-
-}
-}
-
-
-document.addEventListener('DOMContentLoaded',function(){
-new SmartPhoto(".js-smartphoto");
-});
-
-</script>
+<a data-fancybox="gallery" href="http://farm4.staticflickr.com/3864/14420515212_9999c800b4_b.jpg"><img src="http://farm4.staticflickr.com/3864/14420515212_9999c800b4_m.jpg"></a>
+<a data-fancybox="gallery" href="http://farm8.staticflickr.com/7412/8732133694_0c7e400022_b.jpg"><img src="http://farm8.staticflickr.com/7412/8732133694_0c7e400022_m.jpg"></a>
+<a data-fancybox="gallery" href="http://farm4.staticflickr.com/3745/8971419780_cb88b22947_b.jpg"><img src="http://farm4.staticflickr.com/3745/8971419780_cb88b22947_m.jpg"></a>

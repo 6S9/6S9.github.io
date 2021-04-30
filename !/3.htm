@@ -1,52 +1,22 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/css/smartphoto.min.css">
-<script src="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/js/smartphoto.min.js"></script>
+<!DOCTYPE html>
+<html>
+<body>
 
-<script type="text/javascript" src="3.txt">
+<h1>用 JSON 字符串创建对象</h1>
+
+<p id="demo"></p>
+
+<script>
+var text = '{ "employees" : [' +
+'{ "firstName":"Bill" , "lastName":"Gates" },' +
+'{ "firstName":"Steve" , "lastName":"Jobs" },' +
+'{ "firstName":"Alan" , "lastName":"Turing" },' +
+'{ "firstName":"" , "lastName":"" }]}';
+
+obj = JSON.parse(text);
+document.getElementById("demo").innerHTML =
+obj.employees[1].firstName + " " + obj.employees[1].lastName;
 </script>
 
-<div id="image">
-</div>
-<ul id="myList"><li>Coffee</li><li>Tea</li></ul>
-<script type="text/javascript">
-
-show();
-
-function show() {
-
-var i = 0;
-for (i = 0; i <= a.length-1; i++) {
-
-}
-var ima = new Array();
-var imb = new Array();
-for (i = 0; i <= a.length-1; i++) {
-
-var image = document.getElementById("image");
-
-
-
-ima[i] = document.createElement('img');
-ima[i].src = a[i];
-ima[i].width="96";
-imb[i].appendChild(ima[i]);
-
-imb[i]= document.createElement("a");
-imb[i].href=a[i];
-imb[i].className = "js-smartphoto";
-
-image.appendChild(imb[i]);
-
-var node=document.createElement("LI");
-var textnode=document.createTextNode(i+"全"+a.length+"项"+a[i]);
-node.appendChild(textnode);
-document.getElementById("myList").appendChild(node);
-
-}
-}
-
-
-document.addEventListener('DOMContentLoaded',function(){
-new SmartPhoto(".js-smartphoto");
-});
-
-</script>
+</body>
+</html>

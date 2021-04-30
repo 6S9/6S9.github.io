@@ -1,0 +1,17 @@
+<p id="demo"></p>
+
+<script type="text/javascript">
+
+            var url = "https://66e.github.io/test/8.json"
+            var request = new XMLHttpRequest();
+            request.open("get", url);
+            request.send(null);
+            request.onload = function () {
+                if (request.status == 200) {
+                    var json = JSON.parse(request.responseText);
+
+obj = JSON.parse(text);
+document.getElementById("demo").innerHTML =
+obj.employees[1].firstName + " " + obj.employees[1].lastName;
+
+</script>

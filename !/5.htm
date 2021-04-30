@@ -1,51 +1,71 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/css/smartphoto.min.css">
 <script src="https://cdn.jsdelivr.net/gh/appleple/SmartPhoto/js/smartphoto.min.js"></script>
 
-<div id="image">
+<div id="image" style="display: none">
 </div>
-<ul id="myList"><li>site.url</li><li>Tea</li></ul>
+<div id="image2" style="display: none">
+</div>
+<div id="d1"></div>
+<ul id="myList"><li>{{ site.url }}/js/</li><li>Debug</li></ul>
 <script type="text/javascript">
 
 show();
 
 function show() {
 
-var a = [
-'https://cn.bing.com/th?id=OHR.NorfolkPups_ZH-CN0794024596_UHD.jpg',
-'https://cn.bing.com/th?id=OHR.PhotographyEmperor_ZH-CN8188172143_UHD.jpg',
-'https://cn.bing.com/th?id=OHR.PRookery_ZH-CN2608300981_1920x1080.jpg',
-'https://cn.bing.com/th?id=OHR.RedRobin_ZH-CN4148689161_UHD.jpg',
-'https://cn.bing.com/th?id=OHR.Red3Robin_ZH-CN4148689161_UHD.jpg',
-'https://cn.bing.com/th?id=OHR.FalklandRockhoppers_ZH-CN5370686595_1920x1080.jpg',
-'https://pbs.twimg.com/media/EwwV2-FUcAI1pKp?format=jpg&name=orig',
-'https://cn.bing.com/th?id=OHR.Mazezilla_ZH-CN8502282112_UHD.jpg'
-];
+  var a = [
+  'https://cn.bing.com/th?id=OHR.NorfolkPups_ZH-CN0794024596_UHD.jpg',
+  'https://cn.bing.com/th?id=OHR.PhotographyEmperor_ZH-CN8188172143_UHD.jpg',
+  'https://cn.bing.com/th?id=OHR.PRookery_ZH-CN2608300981_1920x1080.jpg',
+  'https://cn.bing.com/th?id=OHR.RedRobin_ZH-CN4148689161_UHD.jpg',
+  'https://cn.bing.com/th?id=OHR.Red3Robin_ZH-CN4148689161_UHD.jpg',
+  'https://cn.bing.com/th?id=OHR.FalklandRockhoppers_ZH-CN5370686595_1920x1080.jpg',
+  'https://pbs.twimg.com/media/EzOqo-IVoAEVh-Z?format=jpg&name=orig',
+  'https://cn.bing.com/th?id=OHR.Mazezilla_ZH-CN8502282112_UHD.jpg'
+  ];
 
+var p = 'https://slack-imgs.com/?url=';
+var d = document.getElementById("d1");
 var i = 0;
 for (i = 0; i <= a.length-1; i++) {
 
 }
 var ima = new Array();
 var imb = new Array();
+var imc = new Array();
 for (i = 0; i <= a.length-1; i++) {
+
+d.innerHTML+='<a href="'+a[i]+'" class="js-smartphoto"><img src="'+a[i]+'" width="64"></a>';
 
 var image = document.getElementById("image");
 
 imb[i]= document.createElement("a");
-imb[i].href=a[i];
+imb[i].href=p+a[i];
 imb[i].className = "js-smartphoto";
+
+imc[i] = document.createElement('img');
+imc[i].src = a[i];
+//alert(imc[i].offsetWidth);
 
 ima[i] = document.createElement('img');
 ima[i].src = a[i];
-ima[i].onerror=function(){this.src="https://cn.bing.com/th?id=OHR.PrairieCrocus_ZH-CN8496150014_UHD.jpg"};
 ima[i].width="64";
+imc[i].onload = function(){
+    // 打印
+    console.table(imc[i].src);
+};
 imb[i].appendChild(ima[i]);
 image.appendChild(imb[i]);
+image2.appendChild(imc[i]);
 
-var node=document.createElement("LI");
-var textnode=document.createTextNode(i+"全"+a.length+"项"+a[i]);
-node.appendChild(textnode);
-document.getElementById("myList").appendChild(node);
+
+
+var nod=document.createElement("LI");
+var textnod=document.createTextNode(i+"全"+a.length+"项"+a[i]+imc[i].offsetWidth);
+nod.appendChild(textnod);
+document.getElementById("myList").appendChild(nod);
+
+
 
 }
 }
@@ -64,4 +84,19 @@ document.getElementById("myList").appendChild(node);
 
 myFunction();
 
+function check()
+{
+alert(document.imc[2].offsetWidth);
+}
+
+function myfn(){
+        var d = document.getElementById("d1");
+//        var input = document.getElementById("i1");
+//        for(var j=0;j<8;j++){
+            d.innerHTML+='"<a href="'+ima[i].src+'" class="js-smartphoto"><img src="'+ima[i].src+'" width="64"></a>"';
+//        }
+    }
+
 </script>
+
+<INPUT TYPE="button" value="登入" onclick="myfn()">
