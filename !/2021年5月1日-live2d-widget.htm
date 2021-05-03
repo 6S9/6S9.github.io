@@ -1,0 +1,119 @@
+<div id="page_end_html">
+        <!--<link rel="stylesheet" type="text/css" id="skin" href="https://blog-static.cnblogs.com/files/ygunoil/cool.css"></link>-->
+<script src="https://cdn.jsdelivr.net/npm/live2d-widget@3.0.4/lib/L2Dwidget.min.js"></script>
+<script style="border: none" type="text/javascript">
+	L2Dwidget.init();
+</script>
+<script language="javascript" type="text/javascript">
+// 生成目录索引列表
+// ref: http://www.cnblogs.com/wangqiguo/p/4355032.html
+// modified by: zzq
+function GenerateContentList()
+{
+    var mainContent = $('#cnblogs_post_body');
+    //var h2_list = $('#cnblogs_post_body h2');//如果你的章节标题不是h2,只需要将这里的h2换掉即可
+    var h2_list =[...new Set( [...$('#cnblogs_post_body h1'),...$('#cnblogs_post_body h2'),...$('#cnblogs_post_body h4'),,...$('#cnblogs_post_body strong')])]
+    if(mainContent.length < 1)
+        return;
+
+    if(h2_list.length>0)
+    {
+        var content = '<a name="_labelTop"></a>';
+        content += '<div id="navCategory" style="color:#152e97;">';
+        content += '<p style="font-size:18px;"><b>目录</b></p>';
+        content += '<ul>';
+        for(var i=0; i<h2_list.length-1; i++)
+        {
+            //var go_to_top = '<div style="text-align: right;"><a href="#_labelTop" style="color:#f68a33">回到顶部</a><a name="_label' + i + '"></a></div>';
+          //  var go_to_top='';
+            var li2_anchor = '<a name="_label'+ i +'"></a>';
+            $(h2_list[i]).before(li2_anchor);
+            var h3_list = $(h2_list[i]).nextAll("h3");
+            var li3_content = '';
+            for(var j=0; j<h3_list.length-1; j++)
+            {
+                var tmp = $(h3_list[j]).prevAll('h2').first();
+                if(!tmp.is(h2_list[i]))
+                    break;
+                var li3_anchor = '<a name="_label' + i + '_' + j + '"></a>';
+                $(h3_list[j]).before(li3_anchor);
+                li3_content += '<li><a href="#_label' + i + '_' + j + '">' + $(h3_list[j]).text() + '</a></li>';
+            }
+
+            var li2_content = '';
+            if(li3_content.length > 0)
+                li2_content = '<li><a href="#_label' + i + '">' + $(h2_list[i]).text() + '</a><ul>' + li3_content + '</ul></li>';
+            else
+                li2_content = '<li><a href="#_label' + i + '">' + $(h2_list[i]).text() + '</a></li>';
+            content += li2_content;
+        }
+        content += '</ul>';
+        content += '</div>';
+        //content += '<hr style="height:1px;border:none;border-top:1px dashed #0066CC;"/>';
+        if($('#cnblogs_post_body').length != 0 )
+        {
+            $($('#cnblogs_post_body')[0]).prepend(content);
+        }
+    }
+}
+
+GenerateContentList();
+function changeSkin(skinCode){
+   localStorage.setItem("skin",skinCode);
+   updateSkin(skinCode);
+  // location.reload();
+}
+function skin1() {
+ if(!document.getElementById("skin")) {
+   const link = document.createElement("link");
+   link.href = `https://blog-static.cnblogs.com/files/ygunoil/cool9.css`;
+   link.rel = "stylesheet";
+   link.id = "skin";
+   document.body.appendChild(link);
+  return;
+  }
+   document.getElementById("skin").href=`https://blog-static.cnblogs.com/files/ygunoil/cool9.css`;
+}
+function skin2() {
+  if(!document.getElementById("skin")) {
+   const link = document.createElement("link");
+   link.href = `https://blog-static.cnblogs.com/files/ygunoil/fresh12.css`;
+   link.rel = "stylesheet";
+   link.id = "skin";
+   document.body.appendChild(link);
+  return;
+  }
+    document.getElementById("skin").href=`https://blog-static.cnblogs.com/files/ygunoil/fresh12.css`;
+}
+function updateSkin(skinCode){
+     switch(skinCode){
+        case 1:
+          skin1();
+           break;
+        case 2:
+           skin2();
+           break;
+       default:
+          break;
+   }
+}
+updateSkin( +localStorage.getItem("skin") || 1)
+
+function addTarget() {
+  const a_list = Array.from(document.querySelectorAll("a"));
+ const navCategory = document.getElementById("navCategory");
+
+  if(!a_list.length) {return};
+  a_list.forEach(a => {
+      a.setAttribute("target", "_blank");
+ })
+if(!navCategory ) {return}
+ const a_del_list = navCategory .querySelectorAll("a");
+ if(!a_del_list .length) {return};
+  a_del_list .forEach(a => {
+      a.removeAttribute("target");
+ })
+}
+addTarget();
+</script>
+    </div>

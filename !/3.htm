@@ -1,22 +1,24 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+<title>JavaScript - read JSON from URL</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+
 <body>
+    <div class="mypanel"></div>
 
-<h1>用 JSON 字符串创建对象</h1>
+    <script>
+    $.getJSON('http://time.jsontest.com', function(data) {
 
-<p id="demo"></p>
+        var text = `Date: ${data.date}<br>
+                    Time: ${data.time}<br>
+                    Unix time: ${data.milliseconds_since_epoch}`
 
-<script>
-var text = '{ "employees" : [' +
-'{ "firstName":"Bill" , "lastName":"Gates" },' +
-'{ "firstName":"Steve" , "lastName":"Jobs" },' +
-'{ "firstName":"Alan" , "lastName":"Turing" },' +
-'{ "firstName":"" , "lastName":"" }]}';
 
-obj = JSON.parse(text);
-document.getElementById("demo").innerHTML =
-obj.employees[1].firstName + " " + obj.employees[1].lastName;
-</script>
+        $(".mypanel").html(text);
+    });
+    </script>
 
 </body>
 </html>

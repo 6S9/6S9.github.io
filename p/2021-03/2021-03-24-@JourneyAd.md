@@ -28,6 +28,14 @@
 ```
 
 {:.h4}
+ygunoil
+<br>[
+http://www.gaojunnan.top/
+](
+http://www.gaojunnan.top/
+)
+
+{:.h4}
 使用jsproxy做网页代理`及时行乐@一只冷涵`
 <br>[
 https://www.jsxlo.com/jsproxy/
@@ -35,6 +43,14 @@ https://www.jsxlo.com/jsproxy/
 https://www.jsxlo.com/jsproxy/
 )
 
+
+{:.h4}
+超能小紫`mokeyjay`
+<br>[
+https://www.mokeyjay.com/
+](
+https://www.mokeyjay.com/
+)
 
 {:.font-head}
 {{ page.text }}

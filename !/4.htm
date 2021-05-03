@@ -1,8 +1,24 @@
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>JavaScript - read JSON from URL</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<body>
+    <div class="mypanel"></div>
 
-<a data-fancybox="gallery" href="http://farm4.staticflickr.com/3864/14420515212_9999c800b4_b.jpg"><img src="http://farm4.staticflickr.com/3864/14420515212_9999c800b4_m.jpg"></a>
-<a data-fancybox="gallery" href="http://farm8.staticflickr.com/7412/8732133694_0c7e400022_b.jpg"><img src="http://farm8.staticflickr.com/7412/8732133694_0c7e400022_m.jpg"></a>
-<a data-fancybox="gallery" href="http://farm4.staticflickr.com/3745/8971419780_cb88b22947_b.jpg"><img src="http://farm4.staticflickr.com/3745/8971419780_cb88b22947_m.jpg"></a>
+<script type="text/javascript">
+    $.getJSON('http://time.jsontest.com', function(data2) {
+
+        var text3 = `Date: ${data2.date}<br>
+                    Time: ${data2.time}<br>
+                    Unix time: ${data2.milliseconds_since_epoch}`
+
+
+        $(".mypanel").html(text3);
+    });
+    </script>
+
+</body>
+</html>

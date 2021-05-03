@@ -1,4 +1,5 @@
 ```tip
+盲目乐观
 ```
 **面对传染病，他们曾在战时新闻审查制度下盲目乐观**{:.h3}<br>
 <https://www.163.com/dy/article/G6RQEHD50541HNW1.html>

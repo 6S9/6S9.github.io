@@ -25,6 +25,9 @@ https://img.shields.io/badge/えみぬ銘菓%20%40fbox__emi-EoYlV3mVQAA6qEA%20(1
 
 **字符串拼接的两种方法**{:.h4}<br>
 <https://www.cnblogs.com/yangguoe/p/9879707.html>
+```tip
+ htmlSpan += '<span class="on">·</span>';
+```
 
 **html字符串拼接该怎么操作**{:.h5}<br>
 <https://zhidao.baidu.com/question/1500728636877343059.html>
