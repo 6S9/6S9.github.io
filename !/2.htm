@@ -1,4 +1,9 @@
-<div id="d1"></div>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<div id="wrapper"></div>
 
 <script type="text/javascript">
 
@@ -62,37 +67,41 @@ var text = '{"ar":['+
 
 obj = JSON.parse(text);
 
-var img = [];
+var imgd = [];
 console.log("Jstringify"+JSON.stringify(obj.ar[1].u7).replace(/\"/g, ""));
 console.table(obj.ar);
-var d = document.getElementById("d1");
+
 var p="";
 
 for(var i = 0 ; i < obj.ar.length ; i++){
 
-    img[i] = new Image()
-    img[i].src = JSON.stringify(obj.ar[i].u7).replace(/\"/g, "")
-    img[i].onload = function(){
-      console.log(img[3].width);
+    imgd[i] = new Image();
+    imgd[i].src = JSON.stringify(obj.ar[i].u7).replace(/\"/g, "");
+    imgd[i].onload = function(){
+
       for(var j = 0 ; j < obj.ar.length ; j++){
-      if (img[j].width > 0 && img[j].height > 0) {
-        console.log("if"+img[j].width);
-        obj.ar[j].w4 = img[j].width;
-        obj.ar[j].h5 = img[j].height;
+      if (imgd[j].width > 0 && imgd[j].height > 0) {
+
+        obj.ar[j].w4 = imgd[j].width;
+        obj.ar[j].h5 = imgd[j].height;
         p="";
 
-      } else if (img[j].width == "" && img[j].height == ""){
+      } else if (imgd[j].width == "" && imgd[j].height == ""){
         obj.ar[j].w4 = 0;
         obj.ar[j].h5 = 0;
         p="https://slack-imgs.com/?url=";
         }
-        d.innerHTML+='<a data-fancybox="gallery" href="'+p+obj.ar[j].u7+
+
+        var d = [];
+        d[j]= document.getElementById("b"+j);
+        d[j].innerHTML='<a data-fancybox="gallery" href="'+p+obj.ar[j].u7+
         '"><img src="'+p+obj.ar[j].p2+'" width="64"></a>';
       }
-
-      console.log(obj.ar);
-
     }
+    var myEle = document.createElement("span");
+    myEle.id = "b"+i;
+    var wrapper = document.getElementById("wrapper");
+    wrapper.appendChild(myEle);
   }
 
 </script>

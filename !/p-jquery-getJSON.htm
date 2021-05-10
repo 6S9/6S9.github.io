@@ -1,0 +1,34 @@
+<script src="https://code.jquery.com/jquery-3.6.0.min.js">
+</script>
+<script>
+$(document).ready(function(){
+	$("button").click(function(){
+		$.getJSON("https://www.andyibanez.com/fairesepages.github.io/silvianna-iap.json",function(result){
+			$.each(result, function(i, field){
+				$("div").append(field + "<hr>");
+			});
+		});
+	});
+});
+</script>
+
+<button>获取 JSON 数据</button>
+<div></div>
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" rel="stylesheet">
+
+<div id="demo1">
+    <h4>
+        Click Me!
+    </h4>
+</div>
+
+<script>
+    $("#demo1").click(function() {
+        $(this).addClass("rubberBand animated");
+
+        setTimeout( function(){
+            $("#demo1").removeClass("rubberBand animated");
+        }, 1000);
+    });
+</script>

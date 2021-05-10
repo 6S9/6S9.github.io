@@ -3,37 +3,107 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
 <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
-<p id="demo"></p>
+<div id="e1"></div>
 
-<div id="d1"></div>
+<script type="text/javascript">
 
-<script>
-var text = '{"ar":[' +
-'{"t1":"sakura","p2":"http://farm4.staticflickr.com/3864/14420515212_9999c800b4_m.jpg","i3":"static","u4":"http://farm4.staticflickr.com/3864/14420515212_9999c800b4_b.jpg" },' +
-'{"t1":"trees","p2":"http://farm8.staticflickr.com/7412/8732133694_0c7e400022_m.jpg","i3":"flickr","u4":"http://farm8.staticflickr.com/7412/8732133694_0c7e400022_b.jpg" },' +
+var text = '{"ar":['+
 
-'{"t1":"trees","p2":"https://pbs.twimg.com/media/Et1QZOaXcAUALhC?format=jpg&name=thumb","i3":"flickr","u4":"https://pbs.twimg.com/media/Et1QZOaXcAUALhC?format=jpg&name=orig" },' +
+'{"t1":"sakura","p2":"'+
+'http://farm4.staticflickr.com/3864/14420d515212_9999c800b4_m.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'http://farm4.staticflickr.com/3864/14420s515212_9999c800b4_b.jpg'
++'","a8":""}'
 
-'{"t1":"water","p2":"http://farm4.staticflickr.com/3745/8971419780_cb88b22947_m.jpg","i3":"staticflickr","u4":"http://farm4.staticflickr.com/3745/8971419780_cb88b22947_b.jpg" },' +
-'{"t1":"flower","p2":"https://source.unsplash.com/ty4X72BSsXY/416x278","i3":"unsplash","u4":"https://source.unsplash.com/ty4X72BSsXY/1279x853" },' +
-'{"t1":"","i2":"","p3":"","u4":"" }]}';
++','+
+
+'{"t1":"sakura","p2":"'+
+'http://farm4.staticflickr.com/3864/14420515212_9999c800b4_m.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'http://farm4.staticflickr.com/3864/14420515212_9999c800b4_b.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"","p2":"'+
+'https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=thumb'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig'
++'","a8":""}'
+
++','+
+
+'{"t1":"trees","p2":"'+
+'http://farm8.staticflickr.com/7412/8732133694_0c7e400022_m.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'http://farm8.staticflickr.com/7412/8732133694_0c7e400022_b.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"water","p2":"'+
+'http://farm4.staticflickr.com/3745/8971419780_cb88b22947_m.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'http://farm4.staticflickr.com/3745/8971419780_cb88b22947_b.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"flower","p2":"'+
+'https://source.unsplash.com/ty4X72BSsXY/416x278'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://source.unsplash.com/ty4X72BSsXY/1279x853'
++'","a8":""}'
+
++','+
+
+'{"t1":"flower","p2":"'+
+'https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=thumb'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig'
++'","a8":""}'
+
++']}';
 
 obj = JSON.parse(text);
 
-var d = document.getElementById("d1");
-var d2 = document.getElementById("demo");
-var i = 0;
-for (i = 0; i <= obj.ar.length-1; i++) {
+var imgd = [];
+console.log("Jstringify"+JSON.stringify(obj.ar[1].u7).replace(/\"/g, ""));
+console.table(obj.ar);
 
-d.innerHTML+='<a data-fancybox="gallery" href="'+obj.ar[i].u4+'"><img src="'+obj.ar[i].p2+'" width="64"></a>';
-d2.innerHTML+='全'+(obj.ar.length-1)+'项'+obj.ar[i].t1 + " " + obj.ar[i].p2 + " " + obj.ar[i].i3 + " " + obj.ar[i].u4;
-}
+var p="";
 
-</script>
+for(var i = 0 ; i < obj.ar.length ; i++){
 
-<script language="javascript">
-var noimg=document.getElementsByTagName("img");
-for(j=0; j < noimg.length; j++){
-　　noimg[j].onerror=function(){this.src="https://slack-imgs.com/?url="+this.src}
-}
+    imgd[i] = new Image()
+    imgd[i].src = JSON.stringify(obj.ar[i].u7).replace(/\"/g, "")
+    imgd[i].onload = function(){
+
+      for(var j = 0 ; j < obj.ar.length ; j++){
+      if (imgd[j].width > 0 && imgd[j].height > 0) {
+
+        obj.ar[j].w4 = imgd[j].width;
+        obj.ar[j].h5 = imgd[j].height;
+        p="";
+
+      } else if (imgd[j].width == "" && imgd[j].height == ""){
+        obj.ar[j].w4 = 0;
+        obj.ar[j].h5 = 0;
+        p="https://slack-imgs.com/?url=";
+        }
+
+
+        var d = [];
+        d[j]= document.getElementById("f"+j);
+        d[j].innerHTML='<a data-fancybox="gallery" href="'+p+obj.ar[j].u7+
+        '"><img src="'+p+obj.ar[j].p2+'" width="64"></a>';
+      }
+
+      console.log(obj.ar);
+
+    }
+    var e = document.getElementById("e1");
+    e.innerHTML+='<span id=f'+i+'></span>';
+  }
+
 </script>

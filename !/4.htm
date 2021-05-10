@@ -1,24 +1,99 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>JavaScript - read JSON from URL</title>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-</head>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
 
-<body>
-    <div class="mypanel"></div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
-<script type="text/javascript">
-    $.getJSON('http://time.jsontest.com', function(data2) {
+<div id="d1"></div>
+<p id="demo"></p>
 
-        var text3 = `Date: ${data2.date}<br>
-                    Time: ${data2.time}<br>
-                    Unix time: ${data2.milliseconds_since_epoch}`
+<!--'{"t1":"","p2":"","t3":"","w4":"","h5":"","t6":"","u7":"","a8":""},' +-->
 
+<script>
+var text = '{"ar":['+
 
-        $(".mypanel").html(text3);
-    });
-    </script>
+'{"t1":"sakura","p2":"'+
+'http://farm4.staticflickr.com/3864/14420515212_9999c800b4_m.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'http://farm4.staticflickr.com/3864/14420515212_9999c800b4_b.jpg'
++'","a8":""}'
 
-</body>
-</html>
++','+
+
+'{"t1":"","p2":"'+
+'https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=thumb'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig'
++'","a8":""}'
+
++','+
+
+'{"t1":"trees","p2":"'+
+'http://farm8.staticflickr.com/7412/8732133694_0c7e400022_m.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'http://farm8.staticflickr.com/7412/8732133694_0c7e400022_b.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"water","p2":"'+
+'http://farm4.staticflickr.com/3745/8971419780_cb88b22947_m.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'http://farm4.staticflickr.com/3745/8971419780_cb88b22947_b.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"flower","p2":"'+
+'https://source.unsplash.com/ty4X72BSsXY/416x278'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://source.unsplash.com/ty4X72BSsXY/1279x853'
++'","a8":""}'
+
++']}';
+
+obj = JSON.parse(text);
+
+var img = [];
+
+var str = JSON.stringify(obj.ar[2].u7);
+console.log(""+str);
+
+for(var i = 0 ; i < obj.ar.length ; i++){
+
+  MakimuraDetect(obj.ar[i].u7,i)
+
+}
+
+var d = document.getElementById("d1");
+
+function MakimuraDetect(imgurl,i){
+
+  var ImgObj = new Image(); //判断图片是否存在
+  ImgObj.src = imgurl;
+  //没有图片，则返回-1
+  ImgObj.onload = function(){
+  if (ImgObj.width > 0 && ImgObj.height > 0) {
+    obj.ar[i].w4 = ImgObj.width;
+    obj.ar[i].h5 = ImgObj.height;
+    return true;
+  } else {
+    obj.ar[i].w4 = 0;
+    obj.ar[i].h5 = 0;
+    return false;
+  }
+}
+}
+
+console.log("ar[2].w4"+obj.ar[2].w4);
+console.table(obj.ar);
+
+document.getElementById("demo").innerHTML =
+"全"+obj.ar.length+"-1项";
+
+function SaebaAction(){
+
+d.innerHTML+='<a data-fancybox="gallery" href="'+obj.ar[i].u7+'"><img src="'+obj.ar[i].p2+'" width="64"></a>';
+
+}
+
+</script>
