@@ -1,0 +1,215 @@
+<form name="f" action="">
+<center>用户名:<INPUT TYPE="text" NAME="" id="name"><br></center>
+<center>密码:<INPUT TYPE="password" NAME="" id="pass"><br></center>
+<center><INPUT TYPE="button" value="登入" onclick="check()"><INPUT TYPE="reset" value="重置"></center>
+  <INPUT TYPE="reset" value="重" onclick="window.document.f.submit()">
+</form>
+
+<div id="wrapper" style="display: none"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<script type="text/javascript">
+
+var text = '{"ar":['+
+
+'{"t1":"trees","p2":"'+
+'https://static8.porn-images-xxx.com/upload/20210409/910/931635/p=700/2.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://static8.porn-images-xxx.com/upload/20210409/910/931635/2.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"sakura","p2":"'+
+'https://static8.porn-images-xxx.com/upload/20210409/910/931635/p=700/34.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://static8.porn-images-xxx.com/upload/20210409/910/931635/34.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"sakura","p2":"'+
+'https://static8.porn-images-xxx.com/upload/20210409/910/931635/p=700/40.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://static8.porn-images-xxx.com/upload/20210409/910/931635/40.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"","p2":"'+
+'https://static8.porn-images-xxx.com/upload/20210409/910/931635/p=700/44.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://static8.porn-images-xxx.com/upload/20210409/910/931635/44.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"","p2":"'+
+'https://static8.porn-images-xxx.com/upload/20210509/914/935503/p=700/2.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://static8.porn-images-xxx.com/upload/20210509/914/935503/2.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"","p2":"'+
+'https://static8.porn-images-xxx.com/upload/20210509/914/935503/p=700/11.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://static8.porn-images-xxx.com/upload/20210509/914/935503/11.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"","p2":"'+
+'https://static8.porn-images-xxx.com/upload/20210509/914/935503/p=700/86.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://static8.porn-images-xxx.com/upload/20210509/914/935503/86.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"","p2":"'+
+'https://static8.porn-images-xxx.com/upload/20210509/914/935503/p=700/93.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://static8.porn-images-xxx.com/upload/20210509/914/935503/93.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"","p2":"'+
+'https://static8.porn-images-xxx.com/upload/20210509/914/935503/p=700/99.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://static8.porn-images-xxx.com/upload/20210509/914/935503/99.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"","p2":"'+
+'https://static8.porn-images-xxx.com/upload/20210509/914/935503/p=700/103.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://static8.porn-images-xxx.com/upload/20210509/914/935503/103.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"","p2":"'+
+'https://static8.porn-images-xxx.com/upload/20210418/911/932800/p=700/44.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://static8.porn-images-xxx.com/upload/20210418/911/932800/44.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"","p2":"'+
+'https://static8.porn-images-xxx.com/upload/20210418/911/932800/p=700/45.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://static8.porn-images-xxx.com/upload/20210418/911/932800/45.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"","p2":"'+
+'https://static8.porn-images-xxx.com/upload/20210418/911/932800/p=700/46.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://static8.porn-images-xxx.com/upload/20210418/911/932800/46.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"","p2":"'+
+'https://static8.porn-images-xxx.com/upload/20210418/911/932800/p=700/90.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://static8.porn-images-xxx.com/upload/20210418/911/932800/90.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"","p2":"'+
+'https://static8.porn-images-xxx.com/upload/20210418/911/932800/p=700/95.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://static8.porn-images-xxx.com/upload/20210418/911/932800/95.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"","p2":"'+
+'https://static8.porn-images-xxx.com/upload/20210418/911/932800/p=700/97.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://static8.porn-images-xxx.com/upload/20210418/911/932800/97.jpg'
++'","a8":""}'
+
++','+
+
+'{"t1":"","p2":"'+
+'https://static8.porn-images-xxx.com/upload/20210418/911/932800/p=700/99.jpg'
++'","t3":"","w4":"","h5":"","t6":"","u7":"'+
+'https://static8.porn-images-xxx.com/upload/20210418/911/932800/99.jpg'
++'","a8":""}'
+
++']}';
+
+obj = JSON.parse(text);
+
+var imgd = [];
+console.log("Jstringify"+JSON.stringify(obj.ar[1].u7).replace(/\"/g, ""));
+console.table(obj.ar);
+
+var p="";
+
+for(var i = 0 ; i < obj.ar.length ; i++){
+
+    imgd[i] = new Image();
+    imgd[i].src = JSON.stringify(obj.ar[i].u7).replace(/\"/g, "");
+    imgd[i].onload = function(){
+
+      for(var j = 0 ; j < obj.ar.length ; j++){
+      if (imgd[j].width > 0 && imgd[j].height > 0) {
+
+        obj.ar[j].w4 = imgd[j].width;
+        obj.ar[j].h5 = imgd[j].height;
+        p="";
+
+      } else if (imgd[j].width == "" && imgd[j].height == ""){
+        obj.ar[j].w4 = 0;
+        obj.ar[j].h5 = 0;
+        p="https://slack-imgs.com/?url=";
+        }
+
+        var d = [];
+        d[j]= document.getElementById("b"+j);
+        d[j].innerHTML='<a data-fancybox="gallery" href="'+p+obj.ar[j].u7+
+        '"><img src="'+p+obj.ar[j].p2+'" width="64"></a>';
+      }
+
+      console.log(obj.ar);
+
+    }
+  }
+
+for(var k = 0 ; k < obj.ar.length ; k++){
+  createChild();
+  }
+
+  function check(){
+    var name=document.getElementById("name").value;
+    var pass=document.getElementById("pass").value;
+    var y = document.getElementById("wrapper");
+  if(name=="" && pass==String.fromCharCode(window.atob("MTIx"))){
+    y.style.display = "";
+    }else{
+      location.reload();
+      }
+      }
+
+  function createChild() {
+     let myEle = document.createElement("span");
+     myEle.id = "b"+k;
+
+     let wrapper = document.getElementById("wrapper");
+     wrapper.appendChild(myEle);
+  }
+</script>

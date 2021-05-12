@@ -1,0 +1,24 @@
+<button onclick="myFunction()">点我1</button>
+<button onclick="myFunction()">点我2</button>
+
+<p id="demo"></p>
+
+<script>
+
+function myFunction1() {
+    var str = "RUNOOB";
+    var enc = window.btoa(str);
+
+    var res = "编码字符串: " + enc;
+    document.getElementById("demo").innerHTML = "原始字符串: " + str + "<br>" + res;
+}
+
+function myFunction2() {
+    var str = "RUNOOB";
+    var enc = window.btoa(str);
+    var dec = window.atob(enc);
+
+    var res = "编码字符串为: " + enc + "<br>" + "解码后字符串为: " + dec;
+    document.getElementById("demo").innerHTML = res;
+}
+</script>

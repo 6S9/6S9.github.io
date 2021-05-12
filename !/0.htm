@@ -1,108 +1,25 @@
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-
-<div id="wrapper"></div>
-
 <script type="text/javascript">
 
-var text = '{"ar":['+
+function Clear(str1,str2){
+  if (str1 > str2){
+    shorter = str2;
+    longer = str1;
+  }
+  else {
+    shorter = str1;
+    longer = str2;
+  }
+  for (var a = shorter.length;a > 0;a--){
+    for (var b = 0;a+b < shorter.length;b++){
+      String1 = shorter.substring(b,a+b)
 
-'{"t1":"sakura","p2":"'+
-'http://farm4.staticflickr.com/3864/14420d515212_9999c800b4_m.jpg'
-+'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-'http://farm4.staticflickr.com/3864/14420s515212_9999c800b4_b.jpg'
-+'","a8":""}'
-
-+','+
-
-'{"t1":"sakura","p2":"'+
-'http://farm4.staticflickr.com/3864/14420515212_9999c800b4_m.jpg'
-+'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-'http://farm4.staticflickr.com/3864/14420515212_9999c800b4_b.jpg'
-+'","a8":""}'
-
-+','+
-
-'{"t1":"","p2":"'+
-'https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=thumb'
-+'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-'https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig'
-+'","a8":""}'
-
-+','+
-
-'{"t1":"trees","p2":"'+
-'http://farm8.staticflickr.com/7412/8732133694_0c7e400022_m.jpg'
-+'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-'http://farm8.staticflickr.com/7412/8732133694_0c7e400022_b.jpg'
-+'","a8":""}'
-
-+','+
-
-'{"t1":"water","p2":"'+
-'http://farm4.staticflickr.com/3745/8971419780_cb88b22947_m.jpg'
-+'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-'http://farm4.staticflickr.com/3745/8971419780_cb88b22947_b.jpg'
-+'","a8":""}'
-
-+','+
-
-'{"t1":"flower","p2":"'+
-'https://source.unsplash.com/ty4X72BSsXY/416x278'
-+'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-'https://source.unsplash.com/ty4X72BSsXY/1279x853'
-+'","a8":""}'
-
-+','+
-
-'{"t1":"flower","p2":"'+
-'https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=thumb'
-+'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-'https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig'
-+'","a8":""}'
-
-+']}';
-
-obj = JSON.parse(text);
-
-var imgd = [];
-console.log("Jstringify"+JSON.stringify(obj.ar[1].u7).replace(/\"/g, ""));
-console.table(obj.ar);
-
-var p="";
-
-for(var i = 0 ; i < obj.ar.length ; i++){
-
-    imgd[i] = new Image();
-    imgd[i].src = JSON.stringify(obj.ar[i].u7).replace(/\"/g, "");
-    imgd[i].onload = function(){
-
-      for(var j = 0 ; j < obj.ar.length ; j++){
-      if (imgd[j].width > 0 && imgd[j].height > 0) {
-
-        obj.ar[j].w4 = imgd[j].width;
-        obj.ar[j].h5 = imgd[j].height;
-        p="";
-
-      } else if (imgd[j].width == "" && imgd[j].height == ""){
-        obj.ar[j].w4 = 0;
-        obj.ar[j].h5 = 0;
-        p="https://slack-imgs.com/?url=";
-        }
-
-        var d = [];
-        d[j]= document.getElementById("b"+j);
-        d[j].innerHTML='<a data-fancybox="gallery" href="'+p+obj.ar[j].u7+
-        '"><img src="'+p+obj.ar[j].p2+'" width="64"></a>';
+      if (longer.indexOf(String1) >= 0){
+        targetstring = String1;
+        return targetstring;
       }
     }
-    var myEle = []
-    myEle[i] = document.createElement("span");
-    myEle[i].id = "b"+i;
-    var wrapper = document.getElementById("wrapper");
-    wrapper.appendChild(myEle[i]);
   }
+}
+console.log(Clear("https://static2.hentai-cosplays.com/upload/20201010/181/185048/p=700/1.jpg", "https://static2.hentai-cosplays.com/upload/20201010/181/185048/p=700/47.jpg"))
 
 </script>
