@@ -1,28 +1,15 @@
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
 <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
-<div id="wrapper"></div>
-<div id="d"></div>
+<div id="Div1"></div>
 
 <script type="text/javascript">
 
-embedArrJ();
+PushDataLoop();
 
-console.log("ObjAr长"+oal);
-
-for(var i = 0 ; i < oal ; i++){
-
-behaviourS(i);
-
-supportK(i);
-
-  }
-
-console.table(obj.ar);
-
-function embedArrJ() {
+function PushDataLoop() {
   var text = '{"ar":['+
 
   '{"t1":"sakura","p2":"'+
@@ -42,9 +29,9 @@ function embedArrJ() {
   +','+
 
   '{"t1":"","p2":"'+
-  'https://pbs.twimg.com/media/EzOqo-IVoAEVh-Z?format=jpg&name=thumb'
+  'https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=thumb'
   +'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-  'https://pbs.twimg.com/media/EzOqo-IVoAEVh-Z?format=jpg&name=orig'
+  'https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig'
   +'","a8":""}'
 
   +','+
@@ -82,41 +69,39 @@ function embedArrJ() {
   +']}';
 
   obj = JSON.parse(text);
-  oal = obj.ar.length;
+
+  let promiseAll = [], img = [];
+  for(let i = 0 ; i < obj.ar.length ; i++){
+     promiseAll[i] = new Promise((resolve, reject)=>{
+         img[i] = new Image();
+         img[i].src = obj.ar[i].u7;
+         img[i].onload = function(){
+           for(let j = 0 ; j < obj.ar.length ; j++){
+             if (img[j].width > 0 && img[j].height > 0) {
+               p="";
+               } else {
+                 p="https://slack-imgs.com/?url=";
+                 }
+                 document.getElementById("s"+j).innerHTML='<a data-fancybox="gallery" href="'+p+obj.ar[j].u7+
+                 '"><img src="'+p+obj.ar[j].p2+'" width="64"></a>';
+             }
+              //第i张加载完成
+              resolve(img[i])
+         }
+     })
+     let myEle = document.createElement("span");
+     myEle.id = "s"+i;
+
+     let wrapper = document.getElementById("Div1");
+     wrapper.appendChild(myEle);
+ }
+ Promise.all(promiseAll).then((img)=>{
+     //全部加载完成
+ })
 }
 
-function detectM(imgurl) {
-  var ImgObj = new Image();
-  ImgObj.src = imgurl;    //没有图片，则返回-1
-  ImgObj.onload = function(){
-    console.log("DmIw"+ImgObj.width);
-    if (ImgObj.width > 0 && ImgObj.height > 0) {
-      return true;
-      } else if (ImgObj.width == "" && ImgObj.height == ""){
-        return false;
-        }
-        }
-        }
+function EncryptAuth() {
 
-function behaviourS(i) {
-console.log("Dobj"+Boolean(detectM(obj.ar[i].u7)));
-  if (detectM(obj.ar[i].u7)==true) {
-    p="";
-  } else {
-    p="https://slack-imgs.com/?url=";
-    }
-
-    d = document.getElementById("d");
-    d.innerHTML+='<a data-fancybox="gallery" href="'+p+obj.ar[i].u7+
-    '"><img src="'+p+obj.ar[i].p2+'" width="64"></a>';
-  }
-
-function supportK(i) {
-  let myEle = document.createElement("span");
-  myEle.id = "b"+i;
-
-  let wrapper = document.getElementById("wrapper");
-  wrapper.appendChild(myEle);
 }
 
 </script>

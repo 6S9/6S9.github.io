@@ -1,28 +1,8 @@
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-
-<div id="wrapper"></div>
-<div id="d"></div>
-
 <script type="text/javascript">
 
-embedArrJ();
+pdL();
 
-console.log("ObjAr长"+oal);
-
-for(var i = 0 ; i < oal ; i++){
-
-behaviourS(i);
-
-supportK(i);
-
-  }
-
-console.table(obj.ar);
-
-function embedArrJ() {
+function pdL() {
   var text = '{"ar":['+
 
   '{"t1":"sakura","p2":"'+
@@ -42,9 +22,9 @@ function embedArrJ() {
   +','+
 
   '{"t1":"","p2":"'+
-  'https://pbs.twimg.com/media/EzOqo-IVoAEVh-Z?format=jpg&name=thumb'
+  'https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=thumb'
   +'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-  'https://pbs.twimg.com/media/EzOqo-IVoAEVh-Z?format=jpg&name=orig'
+  'https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig'
   +'","a8":""}'
 
   +','+
@@ -82,41 +62,48 @@ function embedArrJ() {
   +']}';
 
   obj = JSON.parse(text);
-  oal = obj.ar.length;
+
+for(var i = 0 ; i < obj.ar.length ; i++){
+  behaVior(obj.ar[i].u7);
+  }
 }
 
-function detectM(imgurl) {
-  var ImgObj = new Image();
-  ImgObj.src = imgurl;    //没有图片，则返回-1
-  ImgObj.onload = function(){
-    console.log("DmIw"+ImgObj.width);
-    if (ImgObj.width > 0 && ImgObj.height > 0) {
-      return true;
-      } else if (ImgObj.width == "" && ImgObj.height == ""){
-        return false;
-        }
-        }
-        }
+function behaVior(imgurl) {
+  // 记录当前时间戳
+var start_time = new Date().getTime();
 
-function behaviourS(i) {
-console.log("Dobj"+Boolean(detectM(obj.ar[i].u7)));
-  if (detectM(obj.ar[i].u7)==true) {
-    p="";
-  } else {
-    p="https://slack-imgs.com/?url=";
+// 图片地址
+var img_url = imgurl+'?'+start_time;
+
+// 创建对象
+var img = new Image();
+
+// 改变图片的src
+img.src = img_url;
+
+// 定时执行获取宽高
+var check = function(){
+    // 只要任何一方大于0
+    // 表示已经服务器已经返回宽高
+    if(img.width>0 || img.height>0){
+        var diff = new Date().getTime() - start_time;
+        document.body.innerHTML += 'from:check : width:'
+        +img.width+',height:'+img.height+', time:'+diff+'ms<hr>';
+        clearInterval(set);
     }
+};
 
-    d = document.getElementById("d");
-    d.innerHTML+='<a data-fancybox="gallery" href="'+p+obj.ar[i].u7+
-    '"><img src="'+p+obj.ar[i].p2+'" width="64"></a>';
-  }
+var set = setInterval(check,40);
 
-function supportK(i) {
-  let myEle = document.createElement("span");
-  myEle.id = "b"+i;
+// 加载完成获取宽高
+img.onload = function(){
+    var diff = new Date().getTime() - start_time;
+    document.body.innerHTML += 'from:onload : width:'
+    +img.width+',height:'+img.height+', time:'+diff+'ms<hr>';
+};
+}
 
-  let wrapper = document.getElementById("wrapper");
-  wrapper.appendChild(myEle);
+function eA() {
 }
 
 </script>

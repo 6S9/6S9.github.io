@@ -22,6 +22,9 @@ MD文件中包含大括号百分号Ruby代码推送后无法更新GP。
 
 目录字母大写改小写无法访问，改为第三名称目录推送可访问，亦可再改为小写。
 
+md使用Html注释，JS注释之后的代码无效。
+模板替换为async（_includes\common\rest\content.liquid），需Head级可改（_includes\extra\head.html）
+
 二级子目录(TestLong)MD文件名包含表情或汉字，点击后菜单不悬停。
 
 一级目录(Test)MD文件名可包含表情或汉字。

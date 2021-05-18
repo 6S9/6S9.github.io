@@ -3,69 +3,35 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
 <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
+First name:<br>
+<input type="text" id="input1" size="80" value="
+https://static2.hentai-cosplays.com/upload/20201010/181/185048/p=700/47.jpg
+">
 <div id="wrapper"></div>
 
 <script type="text/javascript">
 
-var text = '{"ar":['+
+var inp1=document.getElementById("input1").value; //Input 1
+var sbs=inp1.split('/'); //Split By Slash
+var ARl=sbs.length; //ARray Length
+var jfn=sbs[ARl-1]; //Jpg File Name
+var uin=parseInt(jfn); //Ultimate Image Number
+var pt2="p=160x200";
+console.log(sbs[0]+"/"+sbs[1]+"/"+sbs[2]+"/"+sbs[3]+"/"+sbs[4]+"/"+sbs[5]+"/"+sbs[6]+"/"+pt2+"/"+sbs[8]);
 
-'{"t1":"sakura","p2":"'+
-'http://farm4.staticflickr.com/3864/14420d515212_9999c800b4_m.jpg'
-+'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-'http://farm4.staticflickr.com/3864/14420s515212_9999c800b4_b.jpg'
-+'","a8":""}'
-
-+','+
-
-'{"t1":"sakura","p2":"'+
-'http://farm4.staticflickr.com/3864/14420515212_9999c800b4_m.jpg'
-+'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-'http://farm4.staticflickr.com/3864/14420515212_9999c800b4_b.jpg'
-+'","a8":""}'
-
-+','+
-
-'{"t1":"","p2":"'+
-'https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=thumb'
-+'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-'https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig'
-+'","a8":""}'
-
-+','+
-
-'{"t1":"trees","p2":"'+
-'http://farm8.staticflickr.com/7412/8732133694_0c7e400022_m.jpg'
-+'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-'http://farm8.staticflickr.com/7412/8732133694_0c7e400022_b.jpg'
-+'","a8":""}'
-
-+','+
-
-'{"t1":"water","p2":"'+
-'http://farm4.staticflickr.com/3745/8971419780_cb88b22947_m.jpg'
-+'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-'http://farm4.staticflickr.com/3745/8971419780_cb88b22947_b.jpg'
-+'","a8":""}'
-
-+','+
-
-'{"t1":"flower","p2":"'+
-'https://source.unsplash.com/ty4X72BSsXY/416x278'
-+'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-'https://source.unsplash.com/ty4X72BSsXY/1279x853'
-+'","a8":""}'
-
-+','+
-
-'{"t1":"flower","p2":"'+
-'https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=thumb'
-+'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-'https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig'
-+'","a8":""}'
-
-+']}';
+var text = '{"ar":[]}';
 
 obj = JSON.parse(text);
+
+for(var l = 1 ; l < uin+1 ; l++){
+
+obj.ar.push({"t1":"",
+"p2":sbs[0]+"/"+sbs[1]+"/"+sbs[2]+"/"+sbs[3]+"/"+sbs[4]+"/"+sbs[5]+"/"+sbs[6]+"/"+pt2+"/"
++l+".jpg","t3":"","w4":"","h5":"","t6":"",
+"u7":sbs[0]+"/"+sbs[1]+"/"+sbs[2]+"/"+sbs[3]+"/"+sbs[4]+"/"+sbs[5]+"/"+sbs[6]+"/"
++l+".jpg","a8":""})
+
+}
 
 var imgd = [];
 console.log("Jstringify"+JSON.stringify(obj.ar[1].u7).replace(/\"/g, ""));
@@ -97,11 +63,21 @@ for(var i = 0 ; i < obj.ar.length ; i++){
         d[j].innerHTML='<a data-fancybox="gallery" href="'+p+obj.ar[j].u7+
         '"><img src="'+p+obj.ar[j].p2+'" width="64"></a>';
       }
+
+      console.log(obj.ar);
+
     }
-    var myEle = document.createElement("span");
-    myEle.id = "b"+i;
-    var wrapper = document.getElementById("wrapper");
-    wrapper.appendChild(myEle);
   }
 
+for(var k = 0 ; k < obj.ar.length ; k++){
+  createChild();
+  }
+
+  function createChild() {
+     let myEle = document.createElement("span");
+     myEle.id = "b"+k;
+
+     let wrapper = document.getElementById("wrapper");
+     wrapper.appendChild(myEle);
+  }
 </script>

@@ -3,32 +3,20 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
 <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
-First name:<br>
-<input type="text" id="input1" size="80" value="
-https://static.hentai-cosplays.com/upload/20160201/7/7150/p=700/12.jpg
-">
 <div id="wrapper"></div>
 
 <script type="text/javascript">
-
-var inp1=document.getElementById("input1").value; //Input 1
-var sbs=inp1.split('/'); //Split By Slash
-var ARl=sbs.length; //ARray Length
-var jfn=sbs[ARl-1]; //Jpg File Name
-var uin=parseInt(jfn); //Ultimate Image Number
-var pt2="p=160x200";
-console.log(sbs[0]+"/"+sbs[1]+"/"+sbs[2]+"/"+sbs[3]+"/"+sbs[4]+"/"+sbs[5]+"/"+sbs[6]+"/"+pt2+"/"+sbs[8]);
 
 var text = '{"ar":[]}';
 
 obj = JSON.parse(text);
 
-for(var l = 1 ; l < uin+1 ; l++){
+for(var l = 1 ; l < 13 ; l++){
 
 obj.ar.push({"t1":"",
-"p2":sbs[0]+"/"+sbs[1]+"/"+sbs[2]+"/"+sbs[3]+"/"+sbs[4]+"/"+sbs[5]+"/"+sbs[6]+"/"+pt2+"/"
+"p2":"https://static.hentai-cosplays.com/upload/20160201/7/7150/p=700/"
 +l+".jpg","t3":"","w4":"","h5":"","t6":"",
-"u7":sbs[0]+"/"+sbs[1]+"/"+sbs[2]+"/"+sbs[3]+"/"+sbs[4]+"/"+sbs[5]+"/"+sbs[6]+"/"
+"u7":"https://static.hentai-cosplays.com/upload/20160201/7/7150/"
 +l+".jpg","a8":""})
 
 }

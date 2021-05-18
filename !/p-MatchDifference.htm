@@ -1,0 +1,99 @@
+<script type="text/javascript">
+
+function gener(){
+
+  var tl=document.getElementById("tl").value;
+  var tr=document.getElementById("tr").value;
+  var t3=document.getElementById("t3").value;
+  document.getElementById("t3").value = findLongestCommonStr(tl, tr) +"*"+ findLCStR(tl, tr);
+
+}
+
+function findLongestCommonStr(s1, s2) {
+    var commonStr = '', L1 = s1.length, L2 = s2.length;
+    // 比较s1,s2的长度，看谁长谁短
+    var shortStr = L1>L2 ? s2 : s1;
+    var longStr = L1>L2 ? s1 : s2;
+    // 短的字符串的长度
+    var strLen = shortStr.length;
+
+    // 遍历短的字符串，从大到小递减
+    for (let j = strLen; j > 0; j--) {
+        // 不同的长度有总共有i个可能，从做到右遍历
+        for (let i = 0; i <= strLen - j; i++) {
+            // 截取出短字符串的部分字符串
+            commonStr = shortStr.substr(i, j);
+            // 为了便于观测运行的过程，打印看一下会直观很多
+            console.log('commonStr:',commonStr,'i:',i,'j:',j);
+
+            // 放在长字符串里看看有没有匹配的，如果有直接返回
+            if (longStr.indexOf(commonStr) >= 0) return commonStr
+        }
+    }
+    // 没有的话返回空字符串
+    return ''
+}
+
+function findLCStR(s1, s2) {
+    var commonStr = '', L1 = s1.length, L2 = s2.length;
+    // 比较s1,s2的长度，看谁长谁短
+    var shortStr = L1>L2 ? s2 : s1;
+    var longStr = L1>L2 ? s1 : s2;
+    // 短的字符串的长度
+    var strLen = shortStr.length;
+
+    // 遍历短的字符串，从大到小递减
+    for (let j = strLen; j > 0; j--) {
+        // 不同的长度有总共有i个可能，从做到右遍历
+        for (let i = 0; i <= strLen - j; i++) {
+            // 截取出短字符串的部分字符串
+            commonStr = shortStr.substr(i-j, j);
+            // 为了便于观测运行的过程，打印看一下会直观很多
+            console.log('commonStr:',commonStr,'i:',i,'j:',j);
+
+            // 放在长字符串里看看有没有匹配的，如果有直接返回
+            if (longStr.indexOf(commonStr) >= 0) return commonStr
+        }
+    }
+    // 没有的话返回空字符串
+    return ''
+}
+
+function resizInpu(){
+
+  document.getElementById("t4").size=longStr;
+
+}
+
+console.log(findLongestCommonStr("qwer--", "qtrrwqw-")); //qw
+
+// 下面的打印的结果，函数执行的过程，i是从哪里开始截取，j是截取的长度
+// commonStr: qwer-- i: 0 j: 6
+// commonStr: qwer- i: 0 j: 5
+// commonStr: wer-- i: 1 j: 5
+// commonStr: qwer  i: 0 j: 4
+// commonStr: wer-  i: 1 j: 4
+// commonStr: er--  i: 2 j: 4
+// commonStr: qwe   i: 0 j: 3
+// commonStr: wer   i: 1 j: 3
+// commonStr: er-   i: 2 j: 3
+// commonStr: r--   i: 3 j: 3
+// commonStr: qw    i: 0 j: 2
+
+</script>
+
+First name:<br>
+<input type="text" id="tl" size="100" value="
+https://static.hentai-cosplays.com/upload/20160201/7/7150/p=700/1.jpg
+">
+<br>
+Last name:<br>
+<input type="text" id="tr" size="100" value="
+https://static.hentai-cosplays.com/upload/20160201/7/7150/p=700/12.jpg
+">
+<br><br>
+<input type="submit" value="generate" onclick="gener()">
+
+First name: <input type="text" id="t3" size="100" />
+Last name: <input type="text" id="t4" />
+<input type="submit" value="Submit" onclick="resizInpu()" />

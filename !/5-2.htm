@@ -14,7 +14,7 @@ console.log("ObjAr长"+oal);
 
 for(var i = 0 ; i < oal ; i++){
 
-behaviourS(i);
+detectM(obj.ar[i].u7);
 
 supportK(i);
 
@@ -86,17 +86,38 @@ function embedArrJ() {
 }
 
 function detectM(imgurl) {
-  var ImgObj = new Image();
-  ImgObj.src = imgurl;    //没有图片，则返回-1
-  ImgObj.onload = function(){
-    console.log("DmIw"+ImgObj.width);
-    if (ImgObj.width > 0 && ImgObj.height > 0) {
-      return true;
-      } else if (ImgObj.width == "" && ImgObj.height == ""){
-        return false;
-        }
-        }
-        }
+  // 记录当前时间戳
+var start_time = new Date().getTime();
+
+// 图片地址
+var img_url = imgurl+'?'+start_time;
+
+// 创建对象
+var img = new Image();
+
+// 改变图片的src
+img.src = img_url;
+
+// 定时执行获取宽高
+var check = function(){
+    // 只要任何一方大于0
+    // 表示已经服务器已经返回宽高
+    if(img.width>0 || img.height>0){
+        var diff = new Date().getTime() - start_time;
+        document.body.innerHTML += 'from:check : width:'
+        +img.width+',height:'+img.height+', time:'+diff+'ms<hr>';
+        clearInterval(set);
+    }
+};
+
+var set = setInterval(check,40);
+
+// 加载完成获取宽高
+img.onload = function(){
+    var diff = new Date().getTime() - start_time;
+    document.body.innerHTML += 'from:onload : width:'+img.width+',height:'+img.height+', time:'+diff+'ms';
+};
+  }
 
 function behaviourS(i) {
 console.log("Dobj"+Boolean(detectM(obj.ar[i].u7)));
