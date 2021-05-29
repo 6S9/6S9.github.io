@@ -1,0 +1,20 @@
+<textarea  id="txtArea" cols="50" rows="10">
+  http://farm4.staticflickr.com/3864/14420515212_9999c800b4_b.jpg
+  https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig
+  http://farm8.staticflickr.com/7412/8732133694_0c7e400022_b.jpg
+
+  http://farm4.staticflickr.com/3745/8971419780_cb88b22947_b.jpg
+  https://source.unsplash.com/ty4X72BSsXY/1279x853
+  https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig
+</textarea>
+
+<script type="text/javascript">
+
+textToArray();
+
+function textToArray(){
+  var area = document.getElementById("txtArea");
+  var lines = area.value.replace(/\r\n/g,"\n").split("\n").filter(line => line);
+}
+
+</script>

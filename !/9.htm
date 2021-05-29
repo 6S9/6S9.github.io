@@ -1,1 +1,34 @@
-<div class="home-banner"><div class="video-poster" style="background-image: url(&quot;https://lf9-static.bytednsdoc.com/obj/eden-cn/uhbfnupkbps/video/earth_v4.jpeg&quot;); display: none;"></div><video src="https://lf9-static.bytednsdoc.com/obj/eden-cn/uhbfnupkbps/video/earth_v4.mp4" muted="" loop="" playsinline="" preload="auto"></video></div>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<textarea id="ta1" rows="5" cols="70">
+http://farm4.staticflickr.com/3864/14420515212_9999c800b4_b.jpg
+https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig
+http://farm8.staticflickr.com/7412/8732133694_0c7e400022_b.jpg
+http://farm4.staticflickr.com/3745/8971419780_cb88b22947_b.jpg
+https://source.unsplash.com/ty4X72BSsXY/1279x853
+https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig
+</textarea>
+
+<div id="Div1"></div>
+
+<script type="text/javascript">
+
+var t=document.getElementById('ta1').childNodes[0].nodeValue;
+var tU=t.split(/[\s\n]/)
+tU.forEach((item,index)=>{
+      if(!item){
+          tU.splice(index,1);//删除空项
+      }
+})
+console.log(tU[3])
+
+for(var i = 0 ; i < tU.length ; i++){
+  document.getElementById("Div1").innerHTML+='<a data-fancybox="gallery" href="'
+  +tU[i]+'"><img src="'+tU[i]+'" width="64"></a>';
+
+  }
+
+</script>

@@ -27,6 +27,7 @@ Behavior();
 
 console.log(uA);
 console.log(uD);
+console.log(uA[1]);
 
 function SplitText() {
   var t1=document.getElementById('ta1').innerHTML;
@@ -61,18 +62,21 @@ var check = function(){
     if(img.width>0 || img.height>0){
         var diff = new Date().getTime() - start_time;
 
+        var c=uA.indexOf(cU);
+        console.log(uA.indexOf(cU)+" "+cU);
 
-        uA.forEach(function(item, index, arr) {
-    if(item == cU) {
-      var ctD = arr.splice(index, 1);
-        uD.push(ctD);
-    }
-});
+        var ctD = uA.splice(c,1);
+        uD.push(ctD[0]);
+        document.getElementById("Div1").innerHTML+='<a data-fancybox="gallery" href="'
+        +cU+'"><img src="'+cU+'" width="64"></a>';
+
+console.log("ctD"+ctD[0]);
 
         document.body.innerHTML += 'from:check : width:'
         +img.width+',height:'+img.height+', time:'+diff+'ms<br>'+img.src+'<hr>';
         clearInterval(set);
     }
+
 };
 
 var set = setInterval(check,40);

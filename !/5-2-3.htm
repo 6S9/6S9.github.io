@@ -1,0 +1,44 @@
+<script type="text/javascript">
+function getCount()
+{
+    var range = document.getElementById("area").createTextRange();
+    var rect = range.getClientRects();
+    alert(rect.length)
+}
+</script>
+
+<select>
+  <option>Volvo</option>
+  <option>Saab</option>
+  <option>Mercedes</option>
+  <option>Audi</option>
+</select>
+
+<noscript>Your browser does not support JavaScript!</noscript>
+
+<textarea  id="area" cols="50" rows="10">
+就是这样的
+</textarea>
+<p>
+<input type="button" onClick="getCount()" value="输出">
+
+<select>
+  <option value ="volvo">Volvo</option>
+  <option value ="saab">Saab</option>
+  <option value="opel">Opel</option>
+  <option value="audi">Audi</option>
+</select>
+
+<code>一段电脑代码 print("Hello World")</code>
+
+<select>
+  <optgroup label="Swedish Cars">
+    <option value ="volvo">Volvo</option>
+    <option value ="saab">Saab</option>
+  </optgroup>
+
+  <optgroup label="German Cars">
+    <option value ="mercedes">Mercedes</option>
+    <option value ="audi">Audi</option>
+  </optgroup>
+</select>

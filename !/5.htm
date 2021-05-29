@@ -3,120 +3,102 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
 <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
-<div id="wrapper"></div>
-<div id="d"></div>
+<div id="Div1"></div>
+
+<p id="ta1" style="display: ">
+http://farm4.staticflickr.com/3864/14420515212_9999c800b4_b.jpg
+https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig
+
+http://farm8.staticflickr.com/7412/8732133694_0c7e400022_b.jpg
+https://pbs.twimg.com/media/EyspdqaUcAUtjb-?format=jpg&name=orig
+https://pbs.twimg.com/media/Et1QZOaXcAUALhC?format=jpg&name=orig
+
+http://farm4.staticflickr.com/3745/8971419780_cb88b22947_b.jpg
+https://source.unsplash.com/ty4X72BSsXY/1279x853
+https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig
+https://pbs.twimg.com/media/EySV3ImVgAkEEQN?format=jpg&name=orig
+</p>
 
 <script type="text/javascript">
 
-embedArrJ();
+SplitText();
 
-console.log("ObjAr长"+oal);
+Behavior();
 
-for(var i = 0 ; i < oal ; i++){
+console.log(uA.length);
+console.log("ud1 "+uD[1]);
+console.log(uD.length);
 
-behaviourS(i);
 
-supportK(i);
-
-  }
-
-console.table(obj.ar);
-
-function embedArrJ() {
-  var text = '{"ar":['+
-
-  '{"t1":"sakura","p2":"'+
-  'http://farm4.staticflickr.com/3864/14420d515212_9999c800b4_m.jpg'
-  +'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-  'http://farm4.staticflickr.com/3864/14420s515212_9999c800b4_b.jpg'
-  +'","a8":""}'
-
-  +','+
-
-  '{"t1":"sakura","p2":"'+
-  'http://farm4.staticflickr.com/3864/14420515212_9999c800b4_m.jpg'
-  +'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-  'http://farm4.staticflickr.com/3864/14420515212_9999c800b4_b.jpg'
-  +'","a8":""}'
-
-  +','+
-
-  '{"t1":"","p2":"'+
-  'https://pbs.twimg.com/media/EzOqo-IVoAEVh-Z?format=jpg&name=thumb'
-  +'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-  'https://pbs.twimg.com/media/EzOqo-IVoAEVh-Z?format=jpg&name=orig'
-  +'","a8":""}'
-
-  +','+
-
-  '{"t1":"trees","p2":"'+
-  'http://farm8.staticflickr.com/7412/8732133694_0c7e400022_m.jpg'
-  +'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-  'http://farm8.staticflickr.com/7412/8732133694_0c7e400022_b.jpg'
-  +'","a8":""}'
-
-  +','+
-
-  '{"t1":"water","p2":"'+
-  'http://farm4.staticflickr.com/3745/8971419780_cb88b22947_m.jpg'
-  +'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-  'http://farm4.staticflickr.com/3745/8971419780_cb88b22947_b.jpg'
-  +'","a8":""}'
-
-  +','+
-
-  '{"t1":"flower","p2":"'+
-  'https://source.unsplash.com/ty4X72BSsXY/416x278'
-  +'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-  'https://source.unsplash.com/ty4X72BSsXY/1279x853'
-  +'","a8":""}'
-
-  +','+
-
-  '{"t1":"flower","p2":"'+
-  'https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=thumb'
-  +'","t3":"","w4":"","h5":"","t6":"","u7":"'+
-  'https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig'
-  +'","a8":""}'
-
-  +']}';
-
-  obj = JSON.parse(text);
-  oal = obj.ar.length;
+function SplitText() {
+  var t1=document.getElementById('ta1').innerHTML;
+  uA=t1.split(/[\s\n]/)
+  uA.forEach((item,index)=>{
+    if(!item){
+      uA.splice(index,1);
+      }
+      })
 }
 
-function detectM(imgurl) {
-  var ImgObj = new Image();
-  ImgObj.src = imgurl;    //没有图片，则返回-1
-  ImgObj.onload = function(){
-    console.log("DmIw"+ImgObj.width);
-    if (ImgObj.width > 0 && ImgObj.height > 0) {
-      return true;
-      } else if (ImgObj.width == "" && ImgObj.height == ""){
-        return false;
-        }
-        }
-        }
+function Behavior() {
+  for(let i = 0 ; i < uA.length ; i++){
+    IdentifyMethod(uA[i]);
+    }
+}
 
-function behaviourS(i) {
-console.log("Dobj"+Boolean(detectM(obj.ar[i].u7)));
-  if (detectM(obj.ar[i].u7)==true) {
-    p="";
-  } else {
-    p="https://slack-imgs.com/?url=";
+function Behavior2() {
+  for(let i = 0 ; i < uD.length ; i++){
+    document.getElementById("Div1").innerHTML+='<a data-fancybox="gallery" href="'
+    +uD[i]+'"><img src="'+uD[i]+'" width="64"></a>';
+    }
+}
+
+function IdentifyMethod(cU) {
+
+var start_time = new Date().getTime();
+
+var img_url = cU+'?'+start_time;
+
+var img = new Image();
+
+img.src = img_url;
+
+uD = [];
+
+var check = function(){
+
+    if(img.width>0 || img.height>0){
+        var diff = new Date().getTime() - start_time;
+
+        var c=uA.indexOf(cU);
+        console.log(uA.indexOf(cU)+" "+cU);
+
+        uA.splice(c,1);
+
+        console.log("uAl"+uA.length);
+        console.log("uDl"+uD.length);
+        console.log("ua0 "+uA[0]);
+        console.log("ua1 "+uA[1]);
+        console.log("ua2 "+uA[2]);
+        console.log("ua3 "+uA[3]);
+        console.log("ua4 "+uA[4]);
+        console.log("ua5 "+uA[5]);
+        console.log("ua6 "+uA[6]);
+
+        document.body.innerHTML += 'from:check : width:'
+        +img.width+',height:'+img.height+', time:'+diff+'ms<br>'+img.src+'<hr>';
+        clearInterval(set);
     }
 
-    d = document.getElementById("d");
-    d.innerHTML+='<a data-fancybox="gallery" href="'+p+obj.ar[i].u7+
-    '"><img src="'+p+obj.ar[i].p2+'" width="64"></a>';
-  }
+};
 
-function supportK(i) {
-  let myEle = document.createElement("span");
-  myEle.id = "b"+i;
+var set = setInterval(check,40);
 
-  let wrapper = document.getElementById("wrapper");
-  wrapper.appendChild(myEle);
+img.onload = function(){
+    var diff = new Date().getTime() - start_time;
+    document.body.innerHTML += 'from:onload : width:'
+    +img.width+',height:'+img.height+', time:'+diff+'ms<hr>';
+};
 }
 
 </script>

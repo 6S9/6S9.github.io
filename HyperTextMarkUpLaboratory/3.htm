@@ -1,0 +1,20 @@
+<script src="http://blog.phpdr.net/wp-content/uploads/2012/06/imgReady.js"></script>
+
+First name:<br>
+<input type="text" id="i1" size="80" value="
+http://blog.phpdr.net/wp-content/uploads/2012/06/test.jpg
+">
+
+<script type="text/javascript">
+
+f1();
+
+function f1() {
+  var i1=document.getElementById("i1").value;
+
+  imgReady(i1, function () {
+    alert('size ready: width=' + this.width + '; height=' + this.height);
+});
+}
+
+</script>

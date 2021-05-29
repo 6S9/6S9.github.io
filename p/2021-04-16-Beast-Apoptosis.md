@@ -43,6 +43,23 @@ https://baijiahao.baidu.com/s?id=1657566862531013952
 https://baijiahao.baidu.com/s?id=1657566862531013952
 )
 
+{:.font-head}
+印度zf要求社交媒体删除所有涉及“印度变异病毒”的文章
+<br>[
+https://baijiahao.baidu.com/s?id=1700502537605418298&wfr=spider&for=pc
+](
+https://baijiahao.baidu.com/s?id=1700502537605418298&wfr=spider&for=pc
+)
+
+怒草权限狗他j
+　就是印度变异病毒
+
+yehebaish　
+　己所不欲勿施于人
+
+古越残j
+　己所不欲勿施于人
+
 {:.h3}
 严防境外输入！曾光：只要g外存在传染源，zg随时受到威胁
 [

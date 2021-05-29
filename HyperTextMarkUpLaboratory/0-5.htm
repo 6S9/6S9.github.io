@@ -1,0 +1,84 @@
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://imagesloaded.desandro.com/styles.css">
+<script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded/imagesloaded.pkgd.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<textarea  id="txtArea" cols="50" rows="10">
+http://farm4.staticflickr.com/3864/14420515212_9999c800b4_b.jpg
+https://pbs.twimg.com/media/EyspdqaUcAUtjb-?format=jpg&name=orig
+http://farm8.staticflickr.com/7412/8732133694_0c7e400022_b.jpg
+
+http://farm4.staticflickr.com/3745/8971419780_cb88b22947_b.jpg
+https://source.unsplash.com/ty4X72BSsXY/1279x853
+https://pbs.twimg.com/media/EyspdqaUcAUtjb-?format=jpg&name=orig
+</textarea>
+<select id="so1">
+  <option selected='selected' value =''></option>
+  <option value ="https://slack-imgs.com/?url=">s</option>
+</select>
+<script type="text/javascript">
+
+textToArray();
+
+f1();
+f3();
+
+function textToArray(){
+  var area = document.getElementById("txtArea");
+  lines = area.value.replace(/\r\n/g,"\n").split("\n").filter(line => line);
+}
+
+function f1() {
+  for ( var i = 0; i < lines.length; i++ ) {
+    f2(lines[i],i);
+  }
+  console.log( lines );
+}
+
+function f2(src,i) {
+  var so = document.getElementById("so1").value;
+  var img = new Image();
+  img.src = src;
+  var imgLoad = imagesLoaded( img );
+  d = 0;
+  imgLoad.on( 'progress', function( instance, image ) {
+  var result = image.isLoaded ? 'loaded' : 'broken';
+  d=d+1
+  myv( i+'image is ' + result + ' for ' + image.img.src );
+});
+}
+
+function f3() {
+  var imgLoad = imagesLoaded('#container');
+imgLoad.on( 'always', function() {
+  console.log( imgLoad.images.length + ' images loaded' );
+  // detect which image is broken
+  var img=[];
+  for ( var i = 0, len = imgLoad.images.length; i < len; i++ ) {
+
+    img[i]= new Image();
+    img[i].src = lines[i];
+    var image = imgLoad.images[i];
+    var result = image.isLoaded ? 'loaded' : 'broken';
+    console.log( 'image is ' + result + ' for ' + image.img.src );
+  }
+});
+}
+
+function myv(v)
+{
+  document.getElementById("demo").innerHTML+=v+'<hr>';
+}
+</script>
+
+<button id="add">Add images</button>
+<button id="reset">Reset</button>
+
+<div id="status">
+<progress max="7" value="0"></progress>
+</div>
+
+<div id="image-container"></div>
+
+<p id="demo"></p>

@@ -21,14 +21,14 @@ https://pbs.twimg.com/media/EySV3ImVgAkEEQN?format=jpg&name=orig
 
 <script type="text/javascript">
 
-SplitText();
-
 Behavior();
 
-console.log(uA);
-console.log(uD);
+console.log(uA.length);
+console.log("ud1 "+uD[1]);
+console.log(uD.length);
 
-function SplitText() {
+
+function SplitText(t1) {
   var t1=document.getElementById('ta1').innerHTML;
   uA=t1.split(/[\s\n]/)
   uA.forEach((item,index)=>{
@@ -36,11 +36,23 @@ function SplitText() {
       uA.splice(index,1);
       }
       })
+      return uA[2];
 }
 
 function Behavior() {
-  for(let i = 0 ; i < uA.length ; i++){
-    IdentifyMethod(uA[i]);
+  var a=[];
+  for(let i = 0 ; i < 7 ; i++){
+    a[i]=IdentifyMethod(uA[i]);
+    }
+
+    console.log("a "+a);
+}
+
+function Behavior2() {
+  var p="https://slack-imgs.com/?url=";
+  for(let i = 0 ; i < 7 ; i++){
+    document.getElementById("Div1").innerHTML+='<a data-fancybox="gallery" href="'
+    +p+uA[i]+'"><img src="'+p+uA[i]+'" width="64"></a>';
     }
 }
 
@@ -61,18 +73,30 @@ var check = function(){
     if(img.width>0 || img.height>0){
         var diff = new Date().getTime() - start_time;
 
+        var c=uA.indexOf(cU);
+        console.log(uA.indexOf(cU)+" "+cU);
 
-        uA.forEach(function(item, index, arr) {
-    if(item == cU) {
-      var ctD = arr.splice(index, 1);
-        uD.push(ctD);
-    }
-});
+        uA.splice(c,1);
+//uD[1] = uA[1];
+        console.log("uAl"+uA.length);
+        console.log("uDl"+uD.length);
+        console.log("ua0 "+uA[0]);
+        console.log("ua1 "+uA[1]);
+        console.log("ua2 "+uA[2]);
+        console.log("ua3 "+uA[3]);
+        console.log("ua4 "+uA[4]);
+        console.log("ua5 "+uA[5]);
+        for(let i = 0 ; i < uA.length ; i++){
+          uD[i] = uA[i];
+          }
 
         document.body.innerHTML += 'from:check : width:'
         +img.width+',height:'+img.height+', time:'+diff+'ms<br>'+img.src+'<hr>';
         clearInterval(set);
     }
+    var p="https://slack-imgs.com/?url=";
+
+//      console.table(uD);
 };
 
 var set = setInterval(check,40);
@@ -82,6 +106,7 @@ img.onload = function(){
     document.body.innerHTML += 'from:onload : width:'
     +img.width+',height:'+img.height+', time:'+diff+'ms<hr>';
 };
+return uD[2];
 }
 
 </script>

@@ -1,0 +1,22 @@
+<script style="display: none" type="text/javascript">
+function getCount()
+{
+    var range = document.getElementById("area").createTextRange();
+    var rect = range.getClientRects();
+    alert(rect.length)
+}
+</script>
+<textarea id="area" cols="50" rows="10">
+就是这样的
+</textarea>
+<p>
+<input type="button" onClick="getCount()" value="输出">
+
+<select style="display: none">
+  <option value ="volvo">Volvo</option>
+  <option value ="saab">Saab</option>
+  <option value="opel">Opel</option>
+  <option value="audi">Audi</option>
+</select>
+
+<code>一段电脑代码 print("Hello World")</code>

@@ -1,0 +1,127 @@
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<html>
+<head>
+  <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+  <link rel="stylesheet" href="https://imagesloaded.desandro.com/styles.css">
+</head>
+
+<body>
+  <h1>imagesLoaded, progress with jQuery</h1>
+
+  <div class="buttons">
+    <button id="add">Add images</button>
+    <button id="reset">Reset</button>
+  </div>
+  <div id="status">
+    <progress max="7" value="0"></progress>
+  </div>
+  <div id="image-container"></div>
+
+  <textarea  id="txtArea" cols="50" rows="10">
+    http://farm4.staticflickr.com/3864/14420515212_9999c800b4_b.jpg
+    https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig
+    http://farm8.staticflickr.com/7412/8732133694_0c7e400022_b.jpg
+
+    http://farm4.staticflickr.com/3745/8971419780_cb88b22947_b.jpg
+    https://source.unsplash.com/ty4X72BSsXY/1279x853
+    https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig
+  </textarea>
+
+</body>
+</html>
+
+<script type="text/javascript">
+
+textToArray();
+
+var $container = $('#image-container');
+var $status = $('#status');
+var $progress = $('progress');
+
+var supportsProgress = $progress[0] &&
+  // IE does not support progress
+  $progress[0].toString().indexOf('Unknown') === -1;
+
+var loadedImageCount, imageCount;
+
+$('#add').click( function() {
+  // add new images
+  var items = getItems();
+  $container.prepend( $(items) );
+  // use ImagesLoaded
+  $container.imagesLoaded()
+    .progress( onProgress )
+    .always( onAlways );
+  // reset progress counter
+  imageCount = $container.find('img').length;
+  resetProgress();
+  updateProgress( 0 );
+});
+
+// reset container
+$('#reset').click( function() {
+  $container.empty();
+});
+
+// -----  ----- //
+
+function textToArray(){
+  var area = document.getElementById("txtArea");
+  lines = area.value.replace(/\r\n/g,"\n").split("\n").filter(line => line);
+}
+
+// return doc fragment with
+function getItems() {
+  var items = '';
+  for ( var i = 0; i < lines.length; i++ ) {
+    items += getImageItem(lines[i]);
+  }
+  return items;
+}
+
+// return an <li> with a <img> in it
+function getImageItem(src) {
+  var item = '<a data-fancybox="gallery" href="';
+  var src = item += src + '"><li class="is-loading"><img src="' + src + '" /></li></a>';
+  return item;
+}
+
+// -----  ----- //
+
+function resetProgress() {
+  $status.css({ opacity: 1 });
+  loadedImageCount = 0;
+  if ( supportsProgress ) {
+    $progress.attr( 'max', imageCount );
+  }
+}
+
+function updateProgress( value ) {
+  if ( supportsProgress ) {
+    $progress.attr( 'value', value );
+  } else {
+    // if you don't support progress elem
+    $status.text( value + ' / ' + imageCount );
+  }
+}
+
+// triggered after each item is loaded
+function onProgress( imgLoad, image ) {
+  // change class if the image is loaded or broken
+  var $item = $( image.img ).parent();
+  $item.removeClass('is-loading');
+  if ( !image.isLoaded ) {
+    $item.addClass('is-broken');
+  }
+  // update progress element
+  loadedImageCount++;
+  updateProgress( loadedImageCount );
+}
+
+// hide status when done
+function onAlways() {
+  $status.css({ opacity: 0 });
+}
+</script>

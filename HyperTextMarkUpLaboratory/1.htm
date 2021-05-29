@@ -1,8 +1,3 @@
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-
 <div id="Div1"></div>
 
 <p id="ta1" style="display: ">
@@ -16,52 +11,70 @@ https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig
 
 <script type="text/javascript">
 
-SplitText();
-
-Behavior();
+behavior1();
 
 function SplitText() {
   var t1=document.getElementById('ta1').innerHTML;
-  uA=t1.split(/[\s\n]/)
-  uA.forEach((item,index)=>{
+  ua=t1.split(/[\s\n]/)
+  ua.forEach((item,index)=>{
     if(!item){
-      uA.splice(index,1);
+      ua.splice(index,1);
       }
       })
 }
 
-function Behavior() {
-  for(let i = 0 ; i < uA.length ; i++){
-    IdentifyMethod(uA[i]);
+function behavior1() {
+  SplitText();
+  let ug = [], up = [];
+  for(var i = 0 ; i < ua.length ; i++){
+    var c = method(ua[i]);
+    if (c > 0 && c > 0) {
+      ug.push(ua[i]);
+      } else {
+        up.push(ua[i]);
+        }
+    }
+    console.log(ug);
+      console.log(up);
+}
+
+function behavior2() {
+  for(var i = 0 ; i < ua.length ; i++){
     }
 }
 
-function IdentifyMethod(cU) {
+function method(u) {
+  var start_time = new Date().getTime();
 
-var start_time = new Date().getTime();
+// 图片地址
+var img_url = u+'?'+start_time;
 
-var img_url = cU+'?'+start_time;
-
+// 创建对象
 var img = new Image();
 
+// 改变图片的src
 img.src = img_url;
 
+// 定时执行获取宽高
 var check = function(){
+    // 只要任何一方大于0
+    // 表示已经服务器已经返回宽高
     if(img.width>0 || img.height>0){
         var diff = new Date().getTime() - start_time;
         document.body.innerHTML += 'from:check : width:'
-        +img.width+',height:'+img.height+', time:'+diff+'ms<hr>';
+        +img.width+',height:'+img.height+', time:'+diff+'ms';
         clearInterval(set);
     }
 };
 
 var set = setInterval(check,40);
 
+// 加载完成获取宽高
 img.onload = function(){
     var diff = new Date().getTime() - start_time;
-    document.body.innerHTML += 'from:onload : width:'
-    +img.width+',height:'+img.height+', time:'+diff+'ms<hr>';
+    document.body.innerHTML += 'from:onload : width:'+img.width+',height:'+img.height+', time:'+diff+'ms';
 };
+    return img.height;
 }
 
 </script>
