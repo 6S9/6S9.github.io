@@ -24,9 +24,12 @@ textToArray();
 f1();
 f3();
 
+console.log( lc );
+
 function textToArray(){
   var area = document.getElementById("txtArea");
   lines = area.value.replace(/\r\n/g,"\n").split("\n").filter(line => line);
+  lc=[];
 }
 
 function f1() {
@@ -43,20 +46,17 @@ function f2(src,i) {
   var imgLoad = imagesLoaded( img );
   d = 0;
   imgLoad.on( 'progress', function( instance, image ) {
+    lc[i]=image.isLoaded;
   var result = image.isLoaded ? 'loaded' : 'broken';
   d=d+1
   myv( i+'image is ' + result + ' for ' + image.img.src );
-  if(image.isLoaded!==true){
-  lines[i]='https://slack-imgs.com/?url='+lines[i];
-  console.log( lines );
-}
 });
 }
 
 function f3() {
-  var imgLoad = imagesLoaded('proxy');
+  var imgLoad = imagesLoaded('#container');
 imgLoad.on( 'always', function() {
-  console.log( this.img.naturalWidth + ' images loaded' );
+  console.log( imgLoad.images.length + ' images loaded' );
   // detect which image is broken
   var img=[];
   for ( var i = 0, len = imgLoad.images.length; i < len; i++ ) {

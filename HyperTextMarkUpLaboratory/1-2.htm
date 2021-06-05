@@ -32,11 +32,7 @@ textToArray();
 
 f1();
 
-setTimeout( function(){
-  f3();
-}, 50 );
 console.log( lc );
-
 
 /* jshint browser: true, unused: true, undef: true */
 /* globals imagesLoaded: false */
@@ -154,36 +150,46 @@ function textToArray(){
 
 function f1() {
   for ( var i = 0; i < lines.length; i++ ) {
-    f2(lines[i],i);
+    f2(i);
   }
 
 }
 
-function f2(src,i) {
-  p = document.getElementById('so1').value;
+function f2(i) {
+  var p = document.getElementById('so1').value;
   var img = new Image();
-  img.src = src;
+  img.src = lines[i];
   var imgLoad = imagesLoaded( img );
   console.log( lc.length );
-  lc[i]=p+src;
+  lc[i]=p+lines[i];
   imgLoad.on( 'progress', function( instance, image ) {
-
-    lc[i]=src;
+    d = 0;
+    lc[i]=lines[i];
   var result = image.isLoaded ? 'loaded' : 'broken';
   d=d+1
   myv( i+'image is ' + result + ' for ' + image.img.src );
 });
 
-
+imgLoad.on( 'done', function( instance ) {
+  f3();
+  console.log('DONE  - all images have been successfully loaded');
+});
 
 }
 
 function f3() {
 
   var container = document.querySelector('#image-container');
-  // add new images
+  var statusElem = document.querySelector('#status');
+  var progressElem = document.querySelector('progress');
 
+  var supportsProgress = progressElem &&
+    // IE does not support progress
+    progressElem.toString().indexOf('Unknown') === -1;
+
+  var loadedImageCount, imageCount;
   var fragment = getItemsFragment();
+  console.dir(container.firstChild);
   container.insertBefore( fragment, container.firstChild );
   // use ImagesLoaded
   var imgLoad = imagesLoaded( container );

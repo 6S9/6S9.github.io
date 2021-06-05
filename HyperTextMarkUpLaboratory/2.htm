@@ -1,50 +1,196 @@
-<script src="http://blog.phpdr.net/wp-content/uploads/2012/06/imgReady.js"></script>
+<link rel="stylesheet" href="https://imagesloaded.desandro.com/styles.css">
+<script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded/imagesloaded.pkgd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
-<p id="ta1" style="display: ">
+<textarea  id="txtArea" cols="50" rows="10">
 http://farm4.staticflickr.com/3864/14420515212_9999c800b4_b.jpg
-https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig
+https://pbs.twimg.com/media/EyspdqaUcAUtjb-?format=jpg&name=orig
 http://farm8.staticflickr.com/7412/8732133694_0c7e400022_b.jpg
+
 http://farm4.staticflickr.com/3745/8971419780_cb88b22947_b.jpg
 https://source.unsplash.com/ty4X72BSsXY/1279x853
-https://pbs.twimg.com/media/Ev8-m-BVgAITNwN?format=jpg&name=orig
-</p>
+https://pbs.twimg.com/media/EyspdqaUcAUtjb-?format=jpg&name=orig
+</textarea>
+<select id="so1">
+  <option selected='selected' value =''></option>
+  <option value ="https://slack-imgs.com/?url=">s</option>
+</select>
 
-<div id="d1"></div>
-
-First name:<br>
-<input type="text" id="i1" size="80" value="
-http://blog.phpdr.net/wp-content/uploads/2012/06/test.jpg
-">
+<button id="add">Add images</button>
+<button id="reset">Reset</button>
+<div id="status">
+<progress max="7" value="0"></progress>
+</div>
+<div id="image-container"></div>
 
 <script type="text/javascript">
 
-SplitText();
+textToArray();
 
 f1();
+f3();
 
-function SplitText() {
-  var t1=document.getElementById('ta1').innerHTML;
-  ua=t1.split(/[\s\n]/)
-  ua.forEach((item,index)=>{
-    if(!item){
-      ua.splice(index,1);
+console.log( lc );
+
+/* jshint browser: true, unused: true, undef: true */
+/* globals imagesLoaded: false */
+
+
+var container = document.querySelector('#image-container');
+var statusElem = document.querySelector('#status');
+var progressElem = document.querySelector('progress');
+
+var supportsProgress = progressElem &&
+  // IE does not support progress
+  progressElem.toString().indexOf('Unknown') === -1;
+
+var loadedImageCount, imageCount;
+
+document.querySelector('#add').onclick = function() {
+  // add new images
+  var fragment = getItemsFragment();
+  container.insertBefore( fragment, container.firstChild );
+  // use ImagesLoaded
+  var imgLoad = imagesLoaded( container );
+  imgLoad.on( 'progress', onProgress );
+  imgLoad.on( 'always', onAlways );
+  // reset progress counter
+  imageCount = imgLoad.images.length;
+  resetProgress();
+  updateProgress( 0 );
+};
+
+// reset container
+document.querySelector('#reset').onclick = function() {
+  empty( container );
+};
+
+// -----  ----- //
+
+function resetProgress() {
+  statusElem.style.opacity = 1;
+  loadedImageCount = 0;
+  if ( supportsProgress ) {
+    progressElem.setAttribute( 'max', imageCount );
+  }
+}
+
+function updateProgress( value ) {
+  if ( supportsProgress ) {
+    progressElem.setAttribute( 'value', value );
+  } else {
+    // if you don't support progress elem
+    setText( statusElem, value + ' / ' + imageCount );
+  }
+}
+
+// triggered after each item is loaded
+function onProgress( imgLoad, image ) {
+  // change class if the image is loaded or broken
+  image.img.parentNode.className = image.isLoaded ? '' : 'is-broken';
+  // update progress element
+  loadedImageCount++;
+  updateProgress( loadedImageCount );
+}
+
+// hide status when done
+function onAlways() {
+  statusElem.style.opacity = 0;
+}
+
+// -----  ----- //
+
+// return doc fragment with
+function getItemsFragment() {
+  var fragment = document.createDocumentFragment();
+  for ( var i = 0; i < lines.length; i++ ) {
+    var item = getImageItem(lines[i],i);
+    fragment.appendChild( item );
+  }
+  return fragment;
+}
+
+// return an <li> with a <img> in it
+function getImageItem(u,i) {
+  var item = document.createElement('a');
+  var li = document.createElement('li');
+  item.className = 'is-loading';
+  var img = document.createElement('img');
+  if (lc[i]==true) {
+    img.src = u;
+    } else {
+      img.src = 'https://slack-imgs.com/?url=' + u;
       }
-      })
+      item.appendChild( li );
+      li.appendChild( img );
+  return item;
+}
+
+// ----- set text helper ----- //
+
+var docElem = document.documentElement;
+var textSetter = docElem.textContent !== undefined ? 'textContent' : 'innerText';
+
+function setText( elem, value ) {
+  elem[ textSetter ] = value;
+}
+
+function empty( elem ) {
+  while ( elem.firstChild ) {
+    elem.removeChild( elem.firstChild );
+  }
+}
+
+function textToArray(){
+  var area = document.getElementById("txtArea");
+  lines = area.value.replace(/\r\n/g,"\n").split("\n").filter(line => line);
+  lc=[];
 }
 
 function f1() {
-  p="https://slack-imgs.com/?url=";
-  for(var i = 0 ; i < ua.length ; i++){
-    imgReady(ua[i], function () {
-      if(this.width>0 || this.height>0){
-        document.getElementById("d1").innerHTML+='<a data-fancybox="gallery" href="'
-        +ua[i]+'"><img src="'+ua[i]+'" width="96"></a>';
-        } else {
-          document.getElementById("d1").innerHTML+='<a data-fancybox="gallery" href="'
-          +p+ua[i]+'"><img src="'+p+ua[i]+'" width="64"></a>';
-          }
+  for ( var i = 0; i < lines.length; i++ ) {
+    f2(lines[i],i);
+  }
+  console.log( lines );
+}
 
+function f2(src,i) {
+  var so = document.getElementById("so1").value;
+  var img = new Image();
+  img.src = src;
+  var imgLoad = imagesLoaded( img );
+  d = 0;
+  imgLoad.on( 'progress', function( instance, image ) {
+    lc[i]=image.isLoaded;
+  var result = image.isLoaded ? 'loaded' : 'broken';
+  d=d+1
+  myv( i+'image is ' + result + ' for ' + image.img.src );
 });
 }
+
+function f3() {
+  var imgLoad = imagesLoaded('#container');
+imgLoad.on( 'always', function() {
+  console.log( imgLoad.images.length + ' images loaded' );
+  // detect which image is broken
+  var img=[];
+  for ( var i = 0, len = imgLoad.images.length; i < len; i++ ) {
+
+    img[i]= new Image();
+    img[i].src = lines[i];
+    var image = imgLoad.images[i];
+    var result = image.isLoaded ? 'loaded' : 'broken';
+    console.log( 'image is ' + result + ' for ' + image.img.src );
+  }
+});
+}
+
+function myv(v)
+{
+  document.getElementById("demo").innerHTML+=v+'<hr>';
 }
 </script>
+
+<p id="demo"></p>

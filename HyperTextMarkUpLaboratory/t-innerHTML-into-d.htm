@@ -1,0 +1,26 @@
+<div class="inner" id="inner">
+     <div class="incoming" id="incoming">
+         <div class="them" id="them">Lorem
+         </div>
+     </div>
+     <div class="outgoing" id="outgoing">
+         <div class="me" id="me">Lorem ipsum
+     </div>
+     </div>
+ </div>
+
+ <textarea class="input" id="input" placeholder="Message.."></textarea>
+    <a class="waves-effect waves-light" id="send-btn" >Send</a>
+
+<script type="text/javascript">
+
+var sendButton= document.getElementById('send-btn');
+var innerDiv= document.getElementById('inner');
+sendButton.addEventListener('click', function(){
+
+    innerDiv.innerHTML=innerDiv.innerHTML+'<div class="outgoing" id="outgoing">'+document.getElementById('input').value+
+    '<div class="me" id="me"></div></div>';
+
+});
+
+</script>

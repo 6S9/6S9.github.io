@@ -1,6 +1,34 @@
 ```note
 ```
 
+{:.font-head}
+how-to-use-docsify
+<br>[
+https://github.com/Snailclimb/docsify-demo/blob/master/docs/how-to-use-docsify.md
+](
+https://github.com/Snailclimb/docsify-demo/blob/master/docs/how-to-use-docsify.md
+)
+
+{:.font-head}
+快速开始
+<br>[
+https://docsify.js.org/#/zh-cn/quickstart
+](
+https://docsify.js.org/#/zh-cn/quickstart
+)
+
+{:.font-head}
+一个神奇的文档网站生成器。
+<br>[
+https://github.com/docsifyjs/docs-zh
+](
+https://github.com/docsifyjs/docs-zh
+)
+
+```tip
+docsify 可以快速帮你生成文档网站。不同于 GitBook、Hexo 的地方是它不会生成静态的 .html 文件，所有转换工作都是在运行时。如果你想要开始使用它，只需要创建一个 index.html 就可以开始编写文档并直接部署在 GitHub Pages。
+```
+
 {:.h4}
 入坑 docsify，一款神奇的文档生成利器！
 <br>[

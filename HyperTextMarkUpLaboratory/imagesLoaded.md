@@ -8,6 +8,10 @@
 ](
 
 )
+```tip
+console.log( a.elements[0].naturalHeight );
+console.log( a.images[0].isLoaded );
+```
 
 {:.font-head}
 Get the real width and height of an image with JavaScript? (in Safari/Chrome)

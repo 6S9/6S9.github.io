@@ -14,9 +14,8 @@ https://source.unsplash.com/ty4X72BSsXY/1279x853
 https://pbs.twimg.com/media/EyspdqaUcAUtjb-?format=jpg&name=orig
 </textarea>
 <select id="so1">
-  <option value =''>d</option>
-  <option selected='selected' value = 'https://slack-imgs.com/?url='>a</option>
-  <option value = ''>f</option>
+  <option selected='selected' value =''></option>
+  <option value ="https://slack-imgs.com/?url=">s</option>
 </select>
 
 <button id="add">Add images</button>
@@ -31,12 +30,9 @@ https://pbs.twimg.com/media/EyspdqaUcAUtjb-?format=jpg&name=orig
 textToArray();
 
 f1();
+f3();
 
-setTimeout( function(){
-  f3();
-}, 50 );
 console.log( lc );
-
 
 /* jshint browser: true, unused: true, undef: true */
 /* globals imagesLoaded: false */
@@ -110,7 +106,7 @@ function onAlways() {
 function getItemsFragment() {
   var fragment = document.createDocumentFragment();
   for ( var i = 0; i < lines.length; i++ ) {
-    var item = getImageItem(lc[i],i);
+    var item = getImageItem(lines[i],i);
     fragment.appendChild( item );
   }
   return fragment;
@@ -118,16 +114,15 @@ function getItemsFragment() {
 
 // return an <li> with a <img> in it
 function getImageItem(u,i) {
-  var item = document.createElement('a');
-  item.setAttribute('data-fancybox','gallery');
-  var li = document.createElement('li');
-  li.className = 'is-loading';
+  var item = document.createElement('li');
+  item.className = 'is-loading';
   var img = document.createElement('img');
-
+  if (lc[i]==true) {
     img.src = u;
-    item.href=u;
-      item.appendChild( li );
-      li.appendChild( img );
+    } else {
+      img.src = 'https://slack-imgs.com/?url=' + u;
+      }
+  item.appendChild( img );
   return item;
 }
 
@@ -156,43 +151,38 @@ function f1() {
   for ( var i = 0; i < lines.length; i++ ) {
     f2(lines[i],i);
   }
-
+  console.log( lines );
 }
 
 function f2(src,i) {
-  p = document.getElementById('so1').value;
+  var so = document.getElementById("so1").value;
   var img = new Image();
   img.src = src;
   var imgLoad = imagesLoaded( img );
-  console.log( lc.length );
-  lc[i]=p+src;
+  d = 0;
   imgLoad.on( 'progress', function( instance, image ) {
-
-    lc[i]=src;
+    lc[i]=image.isLoaded;
   var result = image.isLoaded ? 'loaded' : 'broken';
   d=d+1
   myv( i+'image is ' + result + ' for ' + image.img.src );
 });
-
-
-
 }
 
 function f3() {
+  var imgLoad = imagesLoaded('#container');
+imgLoad.on( 'always', function() {
+  console.log( imgLoad.images.length + ' images loaded' );
+  // detect which image is broken
+  var img=[];
+  for ( var i = 0, len = imgLoad.images.length; i < len; i++ ) {
 
-  var container = document.querySelector('#image-container');
-  // add new images
-
-  var fragment = getItemsFragment();
-  container.insertBefore( fragment, container.firstChild );
-  // use ImagesLoaded
-  var imgLoad = imagesLoaded( container );
-  imgLoad.on( 'progress', onProgress );
-  imgLoad.on( 'always', onAlways );
-  // reset progress counter
-  imageCount = imgLoad.images.length;
-  resetProgress();
-  updateProgress( 0 );
+    img[i]= new Image();
+    img[i].src = lines[i];
+    var image = imgLoad.images[i];
+    var result = image.isLoaded ? 'loaded' : 'broken';
+    console.log( 'image is ' + result + ' for ' + image.img.src );
+  }
+});
 }
 
 function myv(v)

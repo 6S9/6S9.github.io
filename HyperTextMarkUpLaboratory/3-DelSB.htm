@@ -32,11 +32,7 @@ textToArray();
 
 f1();
 
-setTimeout( function(){
-  f3();
-}, 50 );
 console.log( lc );
-
 
 /* jshint browser: true, unused: true, undef: true */
 /* globals imagesLoaded: false */
@@ -110,7 +106,7 @@ function onAlways() {
 function getItemsFragment() {
   var fragment = document.createDocumentFragment();
   for ( var i = 0; i < lines.length; i++ ) {
-    var item = getImageItem(lc[i],i);
+    var item = getImageItem(lines[i],i);
     fragment.appendChild( item );
   }
   return fragment;
@@ -118,14 +114,19 @@ function getItemsFragment() {
 
 // return an <li> with a <img> in it
 function getImageItem(u,i) {
+  var p = document.getElementById('so1').value;
   var item = document.createElement('a');
   item.setAttribute('data-fancybox','gallery');
   var li = document.createElement('li');
   li.className = 'is-loading';
   var img = document.createElement('img');
-
+  if (lc[i]==true) {
     img.src = u;
     item.href=u;
+    } else {
+      img.src = p + u;
+      item.href = p + u;
+      }
       item.appendChild( li );
       li.appendChild( img );
   return item;
@@ -153,36 +154,46 @@ function textToArray(){
 }
 
 function f1() {
+  var b=[];
   for ( var i = 0; i < lines.length; i++ ) {
-    f2(lines[i],i);
+    b[i]=f2(lines[i],i);
+    console.log(b );
   }
+  if (b.length==lines.length) {
+    f3();
+    }
 
 }
 
 function f2(src,i) {
-  p = document.getElementById('so1').value;
   var img = new Image();
   img.src = src;
   var imgLoad = imagesLoaded( img );
-  console.log( lc.length );
-  lc[i]=p+src;
-  imgLoad.on( 'progress', function( instance, image ) {
-
-    lc[i]=src;
+  d = 0;
+  var a;
+  a=imgLoad.on( 'progress', function( instance, image ) {
+    lc[i]=image.isLoaded;
   var result = image.isLoaded ? 'loaded' : 'broken';
   d=d+1
   myv( i+'image is ' + result + ' for ' + image.img.src );
+  console.log( a.elements[0].naturalHeight);
+  console.log(a.images[0].isLoaded);
+  return result;
 });
-
-
-
+console.log(a.images);
+return a.images;
 }
 
 function f3() {
-
   var container = document.querySelector('#image-container');
-  // add new images
+  var statusElem = document.querySelector('#status');
+  var progressElem = document.querySelector('progress');
 
+  var supportsProgress = progressElem &&
+    // IE does not support progress
+    progressElem.toString().indexOf('Unknown') === -1;
+
+  var loadedImageCount, imageCount;
   var fragment = getItemsFragment();
   container.insertBefore( fragment, container.firstChild );
   // use ImagesLoaded

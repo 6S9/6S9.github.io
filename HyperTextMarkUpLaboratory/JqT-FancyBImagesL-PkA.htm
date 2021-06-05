@@ -1,28 +1,43 @@
+<link rel="stylesheet" href="https://imagesloaded.desandro.com/styles.css">
+<script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded/imagesloaded.pkgd.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
 <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-<html>
-<head>
-  <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.js"></script>
-  <link rel="stylesheet" href="https://imagesloaded.desandro.com/styles.css">
-</head>
 
-<body>
-  <h1>imagesLoaded, progress with vanilla JS</h1>
+<textarea  id="txtArea" cols="50" rows="10">
+http://farm4.staticflickr.com/3864/14420515212_9999c800b4_b.jpg
+https://pbs.twimg.com/media/EyspdqaUcAUtjb-?format=jpg&name=orig
+http://farm8.staticflickr.com/7412/8732133694_0c7e400022_b.jpg
 
-<div class="buttons">
-  <button id="add">Add images</button>
-  <button id="reset">Reset</button>
-</div>
+http://farm4.staticflickr.com/3745/8971419780_cb88b22947_b.jpg
+https://source.unsplash.com/ty4X72BSsXY/1279x853
+https://pbs.twimg.com/media/EyspdqaUcAUtjb-?format=jpg&name=orig
+</textarea>
+<select id="so1">
+  <option value =''>d</option>
+  <option selected='selected' value = 'https://slack-imgs.com/?url='>a</option>
+  <option value = ''>f</option>
+</select>
+
+<button id="add">Add images</button>
+<button id="reset">Reset</button>
 <div id="status">
-  <progress max="7" value="0"></progress>
+<progress max="7" value="0"></progress>
 </div>
 <div id="image-container"></div>
 
-</body>
-</html>
-
 <script type="text/javascript">
+
+textToArray();
+
+f1();
+
+setTimeout( function(){
+  f3();
+}, 50 );
+
+console.log( lc );
+
 /* jshint browser: true, unused: true, undef: true */
 /* globals imagesLoaded: false */
 
@@ -94,35 +109,30 @@ function onAlways() {
 // return doc fragment with
 function getItemsFragment() {
   var fragment = document.createDocumentFragment();
-  for ( var i = 0; i < 7; i++ ) {
-    var item = getImageItem();
+  for ( var i = 0; i < lines.length; i++ ) {
+    var item = getImageItem(lines[i],i);
     fragment.appendChild( item );
   }
   return fragment;
 }
 
 // return an <li> with a <img> in it
-function getImageItem() {
-  var item = document.createElement('li');
-  item.className = 'is-loading';
-  var a = document.createElement('a');
-
+function getImageItem(u,i) {
+  var p = document.getElementById('so1').value;
+  var item = document.createElement('a');
+  item.setAttribute('data-fancybox','gallery');
+  var li = document.createElement('li');
+  li.className = 'is-loading';
   var img = document.createElement('img');
-  var size = Math.random() * 3 + 1;
-  var width = Math.random() * 110 + 100;
-  width = Math.round( width * size );
-  var height = Math.round( 140 * size );
-  var rando = Math.ceil( Math.random() * 1000 );
-  // 10% chance of broken image src
-  // random parameter to prevent cached images
-  img.src = rando < 100 ? '//foo/broken-' + rando + '.jpg' :
-    // use lorempixel for great random images
-    'https://picsum.photos/' + width + '/' + height + '/';
-  item.appendChild( a );
-  a.appendChild( img );
-  a.href='https://picsum.photos/' + width + '/' + height + '/';
-  var attr=document.createAttribute('data-fancybox'); //创建属性节点
-    attr.value='gallery';
+  if (lc[i]==true) {
+    img.src = u;
+    item.href=u;
+    } else {
+      img.src = p + u;
+      item.href = p + u;
+      }
+      item.appendChild( li );
+      li.appendChild( img );
   return item;
 }
 
@@ -141,4 +151,51 @@ function empty( elem ) {
   }
 }
 
+function textToArray(){
+  var area = document.getElementById("txtArea");
+  lines = area.value.replace(/\r\n/g,"\n").split("\n").filter(line => line);
+  lc=[];
+}
+
+function f1() {
+  for ( var i = 0; i < lines.length; i++ ) {
+    f2(lines[i],i);
+  }
+  console.log( lines );
+}
+
+function f2(src,i) {
+  var img = new Image();
+  img.src = src;
+  var imgLoad = imagesLoaded( img );
+  d = 0;
+  imgLoad.on( 'progress', function( instance, image ) {
+    lc[i]=image.isLoaded;
+  var result = image.isLoaded ? 'loaded' : 'broken';
+  d=d+1
+  myv( i+'image is ' + result + ' for ' + image.img.src );
+});
+}
+
+function f3() {
+  var container = document.querySelector('#image-container');
+  // add new images
+  var fragment = getItemsFragment();
+  container.insertBefore( fragment, container.firstChild );
+  // use ImagesLoaded
+  var imgLoad = imagesLoaded( container );
+  imgLoad.on( 'progress', onProgress );
+  imgLoad.on( 'always', onAlways );
+  // reset progress counter
+  imageCount = imgLoad.images.length;
+  resetProgress();
+  updateProgress( 0 );
+}
+
+function myv(v)
+{
+  document.getElementById("demo").innerHTML+=v+'<hr>';
+}
 </script>
+
+<p id="demo"></p>
