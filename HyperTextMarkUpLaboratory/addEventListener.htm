@@ -1,0 +1,29 @@
+<script type="text/javascript">
+
+var imgSrc, imgW, imgH;
+function myFunction(image){
+    var img = new Image();
+    img.src = image;
+    img.onload = function() {
+        return {
+            src:image,
+            width:this.width,
+            height:this.height};
+        }
+    return img;
+}
+var x = myFunction('http://farm4.staticflickr.com/3864/14420515212_9999c800b4_b.jpg');
+    //Waiting for the image loaded. Otherwise, system returned 0 as both width and height.
+x.addEventListener('load',function(){
+    imgSrc = x.src;
+    imgW = x.width;
+    imgH = x.height;
+});
+x.addEventListener('load',function(){
+    console.log(imgW+'x'+imgH);//276x110
+});
+console.log(imgW);//undefined.
+console.log(imgH);//undefined.
+console.log(imgSrc);//undefined.
+
+</script>

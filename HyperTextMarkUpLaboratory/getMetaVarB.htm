@@ -1,0 +1,23 @@
+<img id="myImg" src="compman.gif" style="width:500px;height:98px;">
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+<script type="text/javascript">
+
+function getMeta(varA, varB) {
+    if (typeof varB !== 'undefined') {
+       alert(varA + ' width ' + varB + ' height');
+    } else {
+       var img = new Image();
+       img.src = varA;
+       img.onload = function() {
+           getMeta(this.width, this.height);
+       }
+    }
+}
+
+
+
+getMeta("http://snook.ca/files/mootools_83_snookca.png");
+
+</script>

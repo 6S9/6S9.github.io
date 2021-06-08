@@ -1,0 +1,18 @@
+<img id="myImg" src="compman.gif" style="width:500px;height:98px;">
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+<script type="text/javascript">
+
+myFunction('http://farm4.staticflickr.com/3864/14420515212_9999c800b4_b.jpg');
+
+function myFunction(u) {
+  document.getElementById("myImg").src=u;
+  var w = document.querySelector("img").naturalHeight;
+  var h = document.querySelector("img").naturalWidth;
+  var x = document.getElementById("myImg").naturalWidth;
+  document.getElementById("demo").innerHTML = x;
+  console.log(w+'x'+h);
+}
+
+</script>

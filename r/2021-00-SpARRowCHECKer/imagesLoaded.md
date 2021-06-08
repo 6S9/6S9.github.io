@@ -9,8 +9,9 @@
 
 )
 ```tip
-console.log( a.elements[0].naturalHeight );
-console.log( a.images[0].isLoaded );
+console.log( image.img.naturalHeight );
+console.log( imgLoad.elements[0].naturalHeight );
+console.log( imgLoad.images[0].isLoaded );
 ```
 
 {:.font-head}

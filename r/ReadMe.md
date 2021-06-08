@@ -2,10 +2,12 @@
 sort: 1
 ---
 
-# 月読🌙つきよみ
+# Recent上月Previous
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
+
+{% include list.liquid all=true %}
 ```
 
 {% include list.liquid all=true %}
