@@ -1,0 +1,238 @@
+<link rel="stylesheet" href="https://imagesloaded.desandro.com/styles.css">
+<script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded/imagesloaded.pkgd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<div id="Div0">
+<center>
+	<form name="f1" action="">
+	用户：<input type="text" name="" id="n1" >
+	<br/>
+  密码：<input type="password" name="" id="p1">
+  <br/>
+	<input type="button" value="确认" onclick="EncryptAuth()"/>
+	<input type="reset"/>
+	</form>
+</center>
+</div>
+
+<div id="Div1" style="display: none">
+
+<select id="so1">
+  <option value =''></option>
+  <option selected='selected' value = 'https://slack-imgs.com/?url='>ApiS</option>
+  <option value = 'https://image.thum.io/get/maxAge/12/width/1200/'>ApiT</option>
+</select>
+
+<select id="so2">
+  <option value ='50'>50 milli</option>
+  <option selected='selected' value = '100'>100 MSEL</option>
+  <option value = '200'>200</option>
+  <option value = '300'>300</option>
+</select>
+
+<button id="add">Add images</button>
+<button id="reset">Reset</button>
+<div id="status">
+<progress max="7" value="0"></progress>
+</div>
+<div id="image-container"></div>
+
+<textarea  id="txtArea" cols="75" rows="10">
+https://static8.porn-images-xxx.com/upload/20210521/916/936997/10.jpg
+https://static8.porn-images-xxx.com/upload/20210521/916/936997/11.jpg
+https://static8.porn-images-xxx.com/upload/20210521/916/936997/13.jpg
+https://static8.porn-images-xxx.com/upload/20210521/916/936997/21.jpg
+</textarea>
+
+https://ja.porn-images-xxx.com/image/enamel-dark-nurse-a-fetish-cosplay-image-summary-that-is-only-for-sperm-pulling-out-vol6/
+
+<p id="demo"></p>
+
+</div>
+
+<script type="text/javascript">
+
+textToArray();
+
+f1();
+
+console.log( lcw );
+console.log( lch );
+
+/* jshint browser: true, unused: true, undef: true */
+/* globals imagesLoaded: false */
+
+var container = document.querySelector('#image-container');
+var statusElem = document.querySelector('#status');
+var progressElem = document.querySelector('progress');
+
+var supportsProgress = progressElem &&
+  // IE does not support progress
+  progressElem.toString().indexOf('Unknown') === -1;
+
+var loadedImageCount, imageCount;
+
+document.querySelector('#add').onclick = function() {
+  // add new images
+  var fragment = getItemsFragment();
+  container.insertBefore( fragment, container.firstChild );
+  // use ImagesLoaded
+  var imgLoad = imagesLoaded( container );
+  imgLoad.on( 'progress', onProgress );
+  imgLoad.on( 'always', onAlways );
+  // reset progress counter
+  imageCount = imgLoad.images.length;
+  resetProgress();
+  updateProgress( 0 );
+};
+
+// reset container
+document.querySelector('#reset').onclick = function() {
+  empty( container );
+};
+
+// -----  ----- //
+
+function EncryptAuth() {
+  var name=document.getElementById("n1").value;
+  var pass=document.getElementById("p1").value;
+  if(name==!/[^\s]/.test(new Date().getTime()) && pass==String.fromCharCode(window.atob("MTIx"))){
+    document.getElementById("Div1").style.display=""
+  }else{
+  }
+}
+
+function textToArray(){
+  var area = document.getElementById("txtArea");
+  lines = area.value.replace(/\r\n/g,"\n").split("\n").filter(line => line);
+  lcw=[],lch=[];
+}
+
+function f1() {
+  var p = document.getElementById('so2').value;
+
+  for ( var j = 0; j < lines.length; j++ ) {
+    f2(lines[j],j);
+  }
+
+  console.log( lines );
+
+  setTimeout( function(){
+    f3();
+  }, p );
+}
+
+function f2(src,j) {
+  var img = new Image();
+  img.src = src;
+  var imgLoad = imagesLoaded( img );
+  d = 0;
+  imgLoad.on( 'progress', function( instance, image ) {
+    lcw[j]=[image.img.naturalWidth];
+    lch[j]=[image.img.naturalHeight];
+  var result = image.isLoaded ? 'loaded' : 'broken';
+  d=d+1
+  myv( j+'image is ' + result + ' for ' + image.img.src );
+});
+}
+
+function f3() {
+
+  var fragment = getItemsFragment();
+  container.insertBefore( fragment, container.firstChild );
+  // use ImagesLoaded
+  var imgLoad = imagesLoaded( container );
+  imgLoad.on( 'progress', onProgress );
+  imgLoad.on( 'always', onAlways );
+  // reset progress counter
+  imageCount = imgLoad.images.length;
+  resetProgress();
+  updateProgress( 0 );
+}
+
+function myv(v)
+{
+  document.getElementById("demo").innerHTML+=v+'<hr>';
+}
+
+function resetProgress() {
+  statusElem.style.opacity = 1;
+  loadedImageCount = 0;
+  if ( supportsProgress ) {
+    progressElem.setAttribute( 'max', imageCount );
+  }
+}
+
+function updateProgress( value ) {
+  if ( supportsProgress ) {
+    progressElem.setAttribute( 'value', value );
+  } else {
+    // if you don't support progress elem
+    setText( statusElem, value + ' / ' + imageCount );
+  }
+}
+
+// triggered after each item is loaded
+function onProgress( imgLoad, image ) {
+  // change class if the image is loaded or broken
+  image.img.parentNode.className = image.isLoaded ? '' : 'is-broken';
+  // update progress element
+  loadedImageCount++;
+  updateProgress( loadedImageCount );
+}
+
+// hide status when done
+function onAlways() {
+  statusElem.style.opacity = 0;
+}
+
+// -----  ----- //
+
+// return doc fragment with
+function getItemsFragment() {
+  var fragment = document.createDocumentFragment();
+  for ( var i = 0; i < lines.length; i++ ) {
+    var item = getImageItem(lines[i],i);
+    fragment.appendChild( item );
+  }
+  return fragment;
+}
+
+// return an <li> with a <img> in it
+function getImageItem(u,i) {
+  var p = document.getElementById('so1').value;
+  var item = document.createElement('a');
+  item.setAttribute('data-fancybox','gallery');
+  var li = document.createElement('li');
+  li.className = 'is-loading';
+  var img = document.createElement('img');
+  if (lcw[i] > 0 && lch[i] > 0) {
+    img.src = u;
+    item.href=u;
+    } else {
+      img.src = p + u;
+      item.href = p + u;
+      }
+      item.appendChild( li );
+      li.appendChild( img );
+  return item;
+}
+
+// ----- set text helper ----- //
+
+var docElem = document.documentElement;
+var textSetter = docElem.textContent !== undefined ? 'textContent' : 'innerText';
+
+function setText( elem, value ) {
+  elem[ textSetter ] = value;
+}
+
+function empty( elem ) {
+  while ( elem.firstChild ) {
+    elem.removeChild( elem.firstChild );
+  }
+}
+
+</script>
