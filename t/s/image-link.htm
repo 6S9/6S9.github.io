@@ -1,0 +1,41 @@
+<form action="#" method="post">
+    <label for="imgURL">image URL:</label>
+    <input type="url" id="imgURL" />
+    <label for="pageURL">page URL:</label>
+    <input type="url" id="pageURL" />
+    <button id="imgAdd">add image</button>
+</form>
+
+<script type="text/javascript">
+
+function protocolCheck(link) {
+    var proto = ['http:', 'https:'];
+
+    for (var i = 0, len = proto.length; i < len; i++) {
+        if (link.indexOf(proto[i]) === 0) {
+            return link;
+        }
+    }
+
+    return document.location.protocol + '//' + link;
+}
+
+function createImage(e, src, href) {
+    e.preventDefault();
+    var parent = this.parentNode;
+    src = protocolCheck(document.getElementById('imgURL').value);
+    href = protocolCheck(document.getElementById('pageURL').value);
+
+    var img = document.createElement('img'),
+        a = document.createElement('a');
+    img.src = src;
+    a.href = href;
+    a.appendChild(img);
+    parent.parentNode.insertBefore(a, parent.nextSibling);
+}
+
+var addButton = document.getElementById('imgAdd');
+
+addButton.onclick = createImage;
+
+</script>
