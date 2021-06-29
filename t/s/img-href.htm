@@ -1,0 +1,36 @@
+<script type="text/javascript">
+
+var __urlRegex = /(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig;
+var __imgRegex = /\.(?:jpe?g|gif|png)$/i;
+
+function parseURL($string){
+
+    var exp = __urlRegex;
+    return $string.replace(exp,function(match){
+            __imgRegex.lastIndex=0;
+            if(__imgRegex.test(match)){
+                return '<img src="'+match+'" class="thumb" />';
+            }
+            else{
+                return '<a href="'+match+'" target="_blank">'+match+'</a>';
+            }
+        }
+    );
+}
+
+setTimeout(function(){
+    document.body.innerHTML = parseURL(document.body.innerHTML);
+},1500);
+
+</script>
+
+http://google.com/
+
+This is a kitten http://s3.amazonaws.com/rapgenius/filepicker%2FvCleswcKTpuRXKptjOPo_kitten.jpg
+with a sibling which is also a kitten http://s3.amazonaws.com/rapgenius/filepicker%2FvCleswcKTpuRXKptjOPo_kitten.jpg
+and a sister which is also a kitten http://s3.amazonaws.com/rapgenius/filepicker%2FvCleswcKTpuRXKptjOPo_kitten.jpg
+and lots of kittens
+http://s3.amazonaws.com/rapgenius/filepicker%2FvCleswcKTpuRXKptjOPo_kitten.jpg
+http://s3.amazonaws.com/rapgenius/filepicker%2FvCleswcKTpuRXKptjOPo_kitten.jpg
+http://s3.amazonaws.com/rapgenius/filepicker%2FvCleswcKTpuRXKptjOPo_kitten.jpg
+http://s3.amazonaws.com/rapgenius/filepicker%2FvCleswcKTpuRXKptjOPo_kitten.jpg

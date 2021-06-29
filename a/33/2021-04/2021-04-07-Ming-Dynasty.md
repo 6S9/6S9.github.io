@@ -63,3 +63,13 @@
 ![](http://p5.itc.cn/images01/20200723/d84cde2fdf934013abb5ef87972a83b8.png)
 
 ![](http://p2.itc.cn/images01/20200723/7a12e328e89c43df8e9744531ef5c38c.png)
+
+{:.font-head}
+嘴上全是主义，背后全是生意
+<br>[
+https://new.qq.com/omn/20210428/20210428A0FHA300.html
+](
+https://new.qq.com/omn/20210428/20210428A0FHA300.html
+)
+
+![](http://inews.gtimg.com/newsapp_bt/0/13469389725/)
