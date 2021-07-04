@@ -8,8 +8,10 @@ https://stackoverflow.com/questions/18920671/detect-url-links-and-replace-image-
 ](
 https://stackoverflow.com/questions/18920671/detect-url-links-and-replace-image-with-img-tag-and-links-with-a-href
 )
-
-{:.h4}
+```note
+var __urlRegex = /(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig;
+var __imgRegex = /\.(?:jpe?g|gif|png)$/i;
+```
 
 <br>[
 http://jsfiddle.net/Victornpb/VSRFX/4/
