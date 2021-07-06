@@ -2,7 +2,7 @@
 ```tip
 ```
 **劳斯莱斯Lossless**{:.h3}<br>
-<https://www.lanzous.com/b823333>
+https://lanzoui.com/b823333
 
 **G-Cache**{:.h3}<br>
 <https://www.lanzous.com/b844443>

@@ -8,6 +8,9 @@
 ```note
 ```
 
+如何用链接替换普通URL
+https://qa.1r1g.com/sf/ask/2637911/
+
 Regex to match URL's not ending in jpg or png
 https://stackoverflow.com/questions/25274463/regex-to-match-urls-not-ending-in-jpg-or-png
 
@@ -27,6 +30,11 @@ https://stackoverflow.com/questions/21505434/javascript-expressions-and-replacem
 
 PYTHON 正则表达式的中括号[]和竖线 | 的详细讲解
 https://blog.csdn.net/nixiang_888/article/details/106469305
+
+正则的深奥由实战而来，它总会有意想不到的无穷组合方式
+
+Regular expressions
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
 
 {:.h4}
 Replace multiple strings at once
