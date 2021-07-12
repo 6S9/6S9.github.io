@@ -1,25 +1,17 @@
-### 2021-07-　
-
-```note
-```
-
-{:.font-head}
-
-```tip
-```
-
-{:.h4}
-
-<table id="tbc" style="white-space: pre-wrap">
+<table id="tbc" style="white-space:pre">
 </table>
 <button onclick="toggleb()">toggle</button>
-<pre id="prr" style="display: none">
-<!-- 🍅<br>　<hr>🍑 -->
+<button onclick="previewh()">preview</button>
+<br>
+<textarea rows="5" cols="80" id="tau">
+https://static4.hentai-cosplays.com/upload/20210421/223/227538/p=700/3.jpg
+https://static.hentai-cosplays.com/upload/20160201/7/7150/p=700/12.jpg
+https://static2.hentai-cosplays.com/upload/20201010/181/185048/p=700/47.jpg
+</textarea>
+<br>
+<!-- 🍅<br>　<hr>🍑 --><textarea rows="20" cols="90" id="tar">
 
-
-
-<!-- 🍅<br>　<hr>🍑 -->
-</pre>
+</textarea><!-- 🍅<br>　<hr>🍑 -->
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
 
@@ -27,10 +19,6 @@
 <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">
-
-setTimeout(function(){
-  tbc.innerHTML = parseURL(prr.innerHTML);
-},0);
 
 var __urlRegex = /(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig;
 var __imgRegex = /\.(?:jpe?g|gif|png)$/i;
@@ -51,8 +39,29 @@ function parseURL($string){
     );
 }
 
+function textToArray(){
+  var textArea = document.getElementById("tau");
+  var arrayFromTextArea = textArea.value.split(String.fromCharCode(10));
+  for ( var i = 0; i < arrayFromTextArea.length; i++ ) {
+    generateu(arrayFromTextArea[i]);
+  }
+}
+
+function generateu(upl) {
+  var sbs=upl.split('p=700/');
+  var uin=parseInt(sbs[1]);
+  for (var j = 1; j <= uin; j++) {
+    tar.innerHTML += sbs[0]+j+'.jpg\n';
+  }
+}
+
+function previewh() {
+  textToArray();
+  tbc.innerHTML = parseURL(tar.value);
+}
+
 function toggleb() {
-  var x = document.getElementById("prr");
+  var x = document.getElementById("tar");
   if (x.style.display === "none") {
     x.style.display = "";
   } else {

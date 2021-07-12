@@ -1,25 +1,11 @@
-### 2021-07-　
-
-```note
-```
-
-{:.font-head}
-
-```tip
-```
-
-{:.h4}
-
 <table id="tbc" style="white-space: pre-wrap">
 </table>
 <button onclick="toggleb()">toggle</button>
-<pre id="prr" style="display: none">
-<!-- 🍅<br>　<hr>🍑 -->
+<button onclick="previewh()">preview</button>
+<br>
+<!-- 🍅<br>　<hr>🍑 --><textarea rows="30" cols="100" id="tar">
 
-
-
-<!-- 🍅<br>　<hr>🍑 -->
-</pre>
+</textarea><!-- 🍅<br>　<hr>🍑 -->
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
 
@@ -27,10 +13,6 @@
 <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">
-
-setTimeout(function(){
-  tbc.innerHTML = parseURL(prr.innerHTML);
-},0);
 
 var __urlRegex = /(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig;
 var __imgRegex = /\.(?:jpe?g|gif|png)$/i;
@@ -51,8 +33,12 @@ function parseURL($string){
     );
 }
 
+function previewh() {
+  tbc.innerHTML = parseURL(tar.value);
+}
+
 function toggleb() {
-  var x = document.getElementById("prr");
+  var x = document.getElementById("tar");
   if (x.style.display === "none") {
     x.style.display = "";
   } else {
