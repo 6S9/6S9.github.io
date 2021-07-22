@@ -45,6 +45,15 @@ https://stackoverflow.com/questions/2299604/javascript-convert-textarea-into-an-
 var textArea = document.getElementById("textAreaId");
 var arrayFromTextArea = textArea.value.split(String.fromCharCode(10));
 
+HTML 颜色名
+https://www.w3school.com.cn/html/html_colornames.asp
+
+CornflowerBlue
+　#6495ED
+
+DodgerBlue
+　#1E90FF
+
 <!-- 🍅<br>　<hr>🍑 -->
 </pre>
 
