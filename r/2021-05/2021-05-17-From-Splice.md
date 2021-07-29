@@ -103,6 +103,9 @@ https://blog.csdn.net/qq_42677329/article/details/88918741
 https://blog.csdn.net/qq_42677329/article/details/88918741
 )
 
+```note
+```
+
 {:.font-head}
 关于HTML设置访问密码
 <br>[
@@ -111,10 +114,8 @@ https://www.bbsmax.com/A/kmzLnl8K5G/
 https://www.bbsmax.com/A/kmzLnl8K5G/
 )
 
-{:.h4}
-html简单登录页面制作
-<br>[
-https://blog.csdn.net/qq_42677329/article/details/88918741
-](
-https://blog.csdn.net/qq_42677329/article/details/88918741
-)
+```note
+<center>用户名:<INPUT TYPE="text" NAME="" id="name"><br></center>
+<center>密码:<INPUT TYPE="password" NAME="" id="pass"><br></center>
+<center><INPUT TYPE="button" value="登入" onclick="check()"><INPUT TYPE="reset" value="重置"></center>
+```
