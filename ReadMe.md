@@ -27,6 +27,10 @@
 **GoofyPlay**{:.h3}<br>
 <https://www.lanzous.com/b844444>
 
+**XiphFlac**{:.h3}<br>
+<https://xiph.org/flac/changelog.html>
+<https://ftp.osuosl.org/pub/xiph/releases/flac/>
+
 **GitterCCC**{:.h3}<br>
 <https://gitter.im/c_/cc>
 
