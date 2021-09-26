@@ -1,4 +1,4 @@
-### 2021-07-　
+### 2021-07-　07
 
 ```note
 ```
@@ -28,6 +28,13 @@ https://stackoverflow.com/questions/8627902/how-to-add-a-new-line-in-textarea-el
 Creating a textarea with auto-resize
 https://stackoverflow.com/questions/454202/creating-a-textarea-with-auto-resize
 
+彻底搞懂word-break、word-wrap、white-space - Dream_It_Possible - 博客园
+https://www.cnblogs.com/dfyg-xiaoxiao/p/9640422.html
+white-space
+https://codepen.io/YGYOOO/pen/jvyrWK
+
+2021/9/23下午3:03:37
+
 为什么div里面\n不能起到换行作用呢？
 https://www.zhihu.com/question/273749104
 
@@ -53,6 +60,14 @@ CornflowerBlue
 
 DodgerBlue
 　#1E90FF
+
+How to wrap the text in HTML textarea | Develop Paper
+https://developpaper.com/question/how-to-wrap-the-text-in-html-textarea/
+
+white-space: pre-line;
+word-wrap: break-word;
+
+2021/9/23下午2:17:53
 
 <!-- 🍅<br>　<hr>🍑 -->
 </pre>
