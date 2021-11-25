@@ -1,122 +1,26 @@
-<center>用户：<INPUT TYPE="text" NAME="" id="name"><br></center>
-<center>密码：<INPUT TYPE="password" NAME="" id="pass"><br></center>
-<center><INPUT TYPE="button" value="登入" onclick="check()"><INPUT TYPE="reset" value="重置"></center>
-<div id="mdm">
+<div class="list" id="g_playlist">
+<div class="listhd">
+<div class="listhdc">
+<h4>播放列表(<span class="j-flag">12</span>)</h4>
+<a href="javascript:;" class="addall" data-action="likeall"><span class="ico ico-add"></span>收藏全部</a><span class="line"></span>
+<a href="javascript:;" class="clear" data-action="clear"><span class="ico icn-del"></span>清除</a>
+<p class="lytit f-ff0 f-thide j-flag">The First Time I Saw You, I Thought You Were a Star</p>
+<span class="close" data-action="close">关闭</span>
 </div>
-<div id="mdc">
 </div>
-<button onclick="toggleb()">toggle</button>
-<button onclick="loadparse()">loadparse</button>
-
-<select id="rso">
-  <option value = '1'>No Reduce</option>
-  <option value = '2' selected='selected'>Reduce Last</option>
-</select>
-
-<select id="hsp">
-  <option value = '' selected='selected'>原寸</option>
-  <option value = 'p=700/'>700</option>
-  <option value = 'p=305/'>305</option>
-  <option value = 'p=160x200/'>160x200</option>
-</select>
-<br>
-
-<!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
-<textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
-
-https://static5.hentai-cosplays.com/upload/20211111/246/251186/p=700/11.jpg
-https://static5.hentai-cosplays.com/upload/20211111/246/251187/p=700/16.jpg
-https://static5.hentai-cosplays.com/upload/20211019/242/247515/p=700/18.jpg
-https://static5.hentai-cosplays.com/upload/20211019/242/247568/p=700/23.jpg
-
-</textarea>
-<!-- 🍀<br>🍑　🍅<hr>🌸 -->
-
-<br>
-<textarea rows="30" cols="100" id="tar" oninput="loadparse()">
-
-</textarea>
-
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">
-
-var __urlRegex = /(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig;
-var __imgRegex = /\.(?:jpe?g|gif|png)$/i;
-
-textToArray();
-loadparse();
-
-function parseURL($string){
-
-    var exp = __urlRegex;
-    return $string.replace(exp,function(match){
-            __imgRegex.lastIndex=0;
-            if(__imgRegex.test(match)){
-                return '<a data-fancybox="gallery" href="' + match + '"><img src="' + match
-                 + '" height = "64"></a>';
-            }
-            else{
-                return '<p><a href="' + match + '" target="_blank">' + match + '</a></p>';
-            }
-        }
-    );
-}
-
-function textToArray(){
-  var textArea = document.getElementById("tau");
-  var arrayFromTextArea = textArea.value.split(String.fromCharCode(10));
-  for ( var i = 0; i < arrayFromTextArea.length; i++ ) {
-    var d = document.createElement('img');
-d.src = arrayFromTextArea[i];
-d.height = "64";
-
-document.getElementById("mdm").appendChild(d);
-d.onclick = mf(arrayFromTextArea[i]);
-  }
-}
-
-function generateu(url) {
-  var SegmentArr = url.split('/');
-  var GeneratCount = SegmentArr.slice(-1).join().split('.').shift();
-  var Extens = SegmentArr.slice(-1).join().split('.').pop();
-  var SegmentCount = SegmentArr.length;
-  var ReduceSegments = document.getElementById('rso').value;
-  var HentaiSizeP = document.getElementById('hsp').value;
-  var TopHalf = SegmentArr.slice(0,SegmentCount - ReduceSegments).join('/');
-
-  for (var j = 1; j <= GeneratCount; j++) {
-    tar.innerHTML += TopHalf + '/' + HentaiSizeP + j + '.' + Extens + '\n';
-  }
-}
-
-function loadparse() {
-  mdc.innerHTML = parseURL(tar.value);
-}
-
-function mf(n) {
-  tau.value = n;
-}
-
-function check(){
-  var name=document.getElementById("name").value;
-  var pass=document.getElementById("pass").value;
-  if(name==!/[^\s]/.test(new Date().getTime()) && pass==String.fromCharCode(window.atob("MTIx"))){
-    document.getElementById("dmb").style.display=""
-  }else{
-  }
-}
-
-function toggleb() {
-  var x = document.getElementById("tar");
-  if (x.style.display === "none") {
-    x.style.display = "";
-  } else {
-    x.style.display = "none";
-  }
-}
-
-</script>
+<div class="listbd">
+<img class="imgbg j-flag" id="auto-id-rcddJ8Zb0iTUCQkV" src="//music.163.com/api/img/blur/109951165992634604" style="top: -360px;">
+<div class="msk"></div>
+<div class="listbdc j-flag" id="auto-id-7GsysKkDRlMF0DoB"><ul class="f-cb"><li data-id="1838042226" data-action="play"><div class="col col-1"></div><div class="col col-2">有些情绪只适合收藏</div><div class="col col-3"><div class="icns"><i class="ico icn-del" title="删除" data-id="1838042226" data-action="delete">删除</i><i class="ico ico-dl" title="下载" data-id="1838042226" data-action="download">下载</i><i class="ico ico-share" title="分享" data-id="1838042226" data-action="share">分享</i><i class="j-t ico ico-add" title="收藏" data-id="1838042226" data-action="like">收藏</i></div></div><div class="col col-4"><span title="福合埕在逃牛肉丸"><a class="" href="/artist?id=33002266" hidefocus="true">福合埕在逃牛肉丸</a></span></div><div class="col col-5">02:24</div><div class="col col-6"><a href="/playlist?id=4885272746&amp;_hash=songlist-1838042226" class="ico ico-src" title="来自歌单" data-action="link">来源</a></div></li><li data-id="1890756154" data-action="play"><div class="col col-1"></div><div class="col col-2">it's 6pm but I miss u already.</div><div class="col col-3"><div class="icns"><i class="ico icn-del" title="删除" data-id="1890756154" data-action="delete">删除</i><i class="ico ico-dl" title="下载" data-id="1890756154" data-action="download">下载</i><i class="ico ico-share" title="分享" data-id="1890756154" data-action="share">分享</i><i class="j-t ico ico-add" title="收藏" data-id="1890756154" data-action="like">收藏</i></div></div><div class="col col-4"><span title="bbbluelee/Furyl/Siren/NeonMusic/EVO MUSIC"><a class="" href="/artist?id=13791519" hidefocus="true">bbbluelee</a>/<a class="" href="/artist?id=29597116" hidefocus="true">Furyl</a>/<a class="" href="/artist?id=33527748" hidefocus="true">Siren</a>/<a class="" href="/artist?id=37337313" hidefocus="true">NeonMusic</a>/<a class="" href="/artist?id=46886194" hidefocus="true">EVO&nbsp;MUSIC</a></span></div><div class="col col-5">03:18</div><div class="col col-6"><a href="/playlist?id=4885272746&amp;_hash=songlist-1890756154" class="ico ico-src" title="来自歌单" data-action="link">来源</a></div></li><li data-id="1888365485" data-action="play"><div class="col col-1"></div><div class="col col-2">i d l e.</div><div class="col col-3"><div class="icns"><i class="ico icn-del" title="删除" data-id="1888365485" data-action="delete">删除</i><i class="ico ico-dl" title="下载" data-id="1888365485" data-action="download">下载</i><i class="ico ico-share" title="分享" data-id="1888365485" data-action="share">分享</i><i class="j-t ico ico-add" title="收藏" data-id="1888365485" data-action="like">收藏</i></div></div><div class="col col-4"><span title="cherrymint"><a class="" href="/artist?id=46962342" hidefocus="true">cherrymint</a></span></div><div class="col col-5">01:32</div><div class="col col-6"><a href="/playlist?id=4885272746&amp;_hash=songlist-1888365485" class="ico ico-src" title="来自歌单" data-action="link">来源</a></div></li><li data-id="461080519" data-action="play"><div class="col col-1"></div><div class="col col-2">if only</div><div class="col col-3"><div class="icns"><i class="ico icn-del" title="删除" data-id="461080519" data-action="delete">删除</i><i class="ico ico-dl" title="下载" data-id="461080519" data-action="download">下载</i><i class="ico ico-share" title="分享" data-id="461080519" data-action="share">分享</i><i class="j-t ico ico-add" title="收藏" data-id="461080519" data-action="like">收藏</i></div></div><div class="col col-4"><span title="Rook1e"><a class="" href="/artist?id=12175279" hidefocus="true">Rook1e</a></span></div><div class="col col-5">01:07</div><div class="col col-6"><a href="/playlist?id=4885272746&amp;_hash=songlist-461080519" class="ico ico-src" title="来自歌单" data-action="link">来源</a></div></li><li data-id="500324098" data-action="play"><div class="col col-1"></div><div class="col col-2">6</div><div class="col col-3"><div class="icns"><i class="ico icn-del" title="删除" data-id="500324098" data-action="delete">删除</i><i class="ico ico-dl" title="下载" data-id="500324098" data-action="download">下载</i><i class="ico ico-share" title="分享" data-id="500324098" data-action="share">分享</i><i class="j-t ico ico-add" title="收藏" data-id="500324098" data-action="like">收藏</i></div></div><div class="col col-4"><span title="furino"><a class="" href="/artist?id=12583027" hidefocus="true">furino</a></span></div><div class="col col-5">01:56</div><div class="col col-6"><a href="/playlist?id=4885272746&amp;_hash=songlist-500324098" class="ico ico-src" title="来自歌单" data-action="link">来源</a></div></li><li data-id="28273697" data-action="play"><div class="col col-1"></div><div class="col col-2">calles feat. tuamie</div><div class="col col-3"><div class="icns"><i class="ico icn-del" title="删除" data-id="28273697" data-action="delete">删除</i><i class="ico ico-dl" title="下载" data-id="28273697" data-action="download">下载</i><i class="ico ico-share" title="分享" data-id="28273697" data-action="share">分享</i><i class="j-t ico ico-add" title="收藏" data-id="28273697" data-action="like">收藏</i></div></div><div class="col col-4"><span title="Wun Two"><a class="" href="/artist?id=778016" hidefocus="true">Wun&nbsp;Two</a></span></div><div class="col col-5">02:32</div><div class="col col-6"><a href="/playlist?id=4885272746&amp;_hash=songlist-28273697" class="ico ico-src" title="来自歌单" data-action="link">来源</a></div></li><li data-id="447279522" data-action="play"><div class="col col-1"></div><div class="col col-2">am i just one big meme</div><div class="col col-3"><div class="icns"><i class="ico icn-del" title="删除" data-id="447279522" data-action="delete">删除</i><i class="ico ico-dl" title="下载" data-id="447279522" data-action="download">下载</i><i class="ico ico-share" title="分享" data-id="447279522" data-action="share">分享</i><i class="j-t ico ico-add" title="收藏" data-id="447279522" data-action="like">收藏</i></div></div><div class="col col-4"><span title="Emune"><a class="" href="/artist?id=12043027" hidefocus="true">Emune</a></span></div><div class="col col-5">02:19</div><div class="col col-6"><a href="/playlist?id=4885272746&amp;_hash=songlist-447279522" class="ico ico-src" title="来自歌单" data-action="link">来源</a></div></li><li data-id="1463080849" data-action="play"><div class="col col-1"></div><div class="col col-2">dull tones</div><div class="col col-3"><div class="icns"><i class="ico icn-del" title="删除" data-id="1463080849" data-action="delete">删除</i><i class="ico ico-dl" title="下载" data-id="1463080849" data-action="download">下载</i><i class="ico ico-share" title="分享" data-id="1463080849" data-action="share">分享</i><i class="j-t ico ico-add" title="收藏" data-id="1463080849" data-action="like">收藏</i></div></div><div class="col col-4"><span title="cin"><a class="" href="/artist?id=35724941" hidefocus="true">cin</a></span></div><div class="col col-5">01:12</div><div class="col col-6"><a href="/playlist?id=4885272746&amp;_hash=songlist-1463080849" class="ico ico-src" title="来自歌单" data-action="link">来源</a></div></li><li data-id="479219479" data-action="play"><div class="col col-1"></div><div class="col col-2">thirteen</div><div class="col col-3"><div class="icns"><i class="ico icn-del" title="删除" data-id="479219479" data-action="delete">删除</i><i class="ico ico-dl" title="下载" data-id="479219479" data-action="download">下载</i><i class="ico ico-share" title="分享" data-id="479219479" data-action="share">分享</i><i class="j-t ico ico-add" title="收藏" data-id="479219479" data-action="like">收藏</i></div></div><div class="col col-4"><span title="nohidea./idealism"><a class="" href="/artist?id=12278356" hidefocus="true">nohidea.</a>/<a class="" href="/artist?id=12023371" hidefocus="true">idealism</a></span></div><div class="col col-5">02:18</div><div class="col col-6"><a href="/playlist?id=4885272746&amp;_hash=songlist-479219479" class="ico ico-src" title="来自歌单" data-action="link">来源</a></div></li><li data-id="417860009" data-action="play"><div class="col col-1"></div><div class="col col-2">everything</div><div class="col col-3"><div class="icns"><i class="ico icn-del" title="删除" data-id="417860009" data-action="delete">删除</i><i class="ico ico-dl" title="下载" data-id="417860009" data-action="download">下载</i><i class="ico ico-share" title="分享" data-id="417860009" data-action="share">分享</i><i class="j-t ico ico-add" title="收藏" data-id="417860009" data-action="like">收藏</i></div></div><div class="col col-4"><span title="Eevee"><a class="" href="/artist?id=12053135" hidefocus="true">Eevee</a></span></div><div class="col col-5">01:52</div><div class="col col-6"><a href="/playlist?id=4885272746&amp;_hash=songlist-417860009" class="ico ico-src" title="来自歌单" data-action="link">来源</a></div></li><li data-id="1833793345" data-action="play"><div class="col col-1"></div><div class="col col-2">when it rains</div><div class="col col-3"><div class="icns"><i class="ico icn-del" title="删除" data-id="1833793345" data-action="delete">删除</i><i class="ico ico-dl" title="下载" data-id="1833793345" data-action="download">下载</i><i class="ico ico-share" title="分享" data-id="1833793345" data-action="share">分享</i><i class="j-t ico ico-add" title="收藏" data-id="1833793345" data-action="like">收藏</i></div></div><div class="col col-4"><span title="ocha"><a class="" href="/artist?id=34860797" hidefocus="true">ocha</a></span></div><div class="col col-5">03:00</div><div class="col col-6"><a href="javascript:;" class="ico ico-src ico-src-dis" title="暂无来源" data-action="link">来源</a></div></li><li class="z-sel" data-id="1375935121" data-action="play"><div class="col col-1"><div class="playicn"></div></div><div class="col col-2">The First Time I Saw You, I Thought You Were a Star</div><div class="col col-3"><div class="icns"><i class="ico icn-del" title="删除" data-id="1375935121" data-action="delete">删除</i><i class="ico ico-dl" title="下载" data-id="1375935121" data-action="download">下载</i><i class="ico ico-share" title="分享" data-id="1375935121" data-action="share">分享</i><i class="j-t ico ico-add" title="收藏" data-id="1375935121" data-action="like">收藏</i></div></div><div class="col col-4"><span title="Dennis Kuo"><a class="" href="/artist?id=32385" hidefocus="true">Dennis&nbsp;Kuo</a></span></div><div class="col col-5">05:19</div><div class="col col-6"><a href="javascript:;" class="ico ico-src ico-src-dis" title="暂无来源" data-action="link">来源</a></div></li></ul></div>
+<div class="bline j-flag" id="auto-id-lGOlu1BHsrcalX7u"><span class="scrol" hidefocus="true" style="height: 219.481px; display: block; top: 41px;"></span></div>
+<div class="ask j-flag" id="auto-id-zvDNHsOcx87u2N3R">
+<a class="ico ico-ask"></a>
+</div>
+<div class="upload j-flag"> <a target="_blank" href="/#/wiki/song?songId=1375935121&amp;type=3">翻译歌词</a><a data-action="close" href="/lyric/report?id=1375935121">报错</a></div>
+<div class="msk2"></div>
+<div class="listlyric j-flag" id="auto-id-qv94AT20vKAsXHzz"> <p class="j-flag z-sel" data-time="0">作曲 : Dennis Kuo</p><p class="j-flag" data-time="5940">纯音乐，请欣赏</p></div>
+<div class="bline bline-1 j-flag" id="auto-id-DnskM2BC6ZRRMfmu">
+<span class="scrol scrol-1 j-flag" hidefocus="true" id="auto-id-ExppRIbtF1fE2A9s" style="height: 260px; display: none; top: 0px;"></span>
+</div>
+</div>
+</div>

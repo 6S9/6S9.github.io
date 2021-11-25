@@ -1,0 +1,112 @@
+<table id="tbc" style="white-space:pre-wrap">
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=280 height=128 src="
+https://music.163.com/outchain/player?type=2&id=1316330689&auto=1&height=67
+"></iframe>
+
+<audio controls="controls">
+  <source src="
+https://vip.d0.baidupan.com/file/?VDJUalxtV2YGD1RsAjdRPQQ7DzdWOQo5CyxQBVZlBHBScgEyDTEBdQkmBD0GfFI1VmBUMAc7VHACY1s0UmIAZFQLVGpcZVc+BmNUMwJvUWMEaQ85VjoKPwsqUDBWeQQ4UmABZw1hAWcJZgRqBmpSalYqVCEHKFRrAjdbbVI8ADFUe1QyXDBXLAZgVDACeVFmBGgPPFZrCj0LPlBnVm8EZ1JqAWUNNgFmCT0EZgYxUmZWPFQwB2xUNwJhW2lSPwA5VDBUYFxnVzQGZlRkAmFRfgQ4D2ZWaAprCypQI1Z5BGBSIAE/DTQBaAlmBGoGZ1JrVj1UaAd+VCICbFswUmsAZ1RpVDJcN1cwBmdUNQJlUWcEbA8yVj4KJgsiUHBWbARpUiUBaw1gAXMJKgQiBiVSblY9VGcHaFRiAjZbbFI4ADJUYlQ2XCdXdgY5VHICa1FmBG4PJFY7Cj0LIlBnVjkENFJ8AWQNYwFh
+  " type="audio/mp3" />
+  <source src="song.ogg" type="audio/ogg" />
+Your browser does not support this audio format.
+</audio><br>
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=280 height=86 src="
+https://music.163.com/outchain/player?type=2&id=1890756154&auto=1&height=66
+"></iframe>
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="
+https://music.163.com/outchain/player?type=2&id=500324098&auto=1&height=66
+"></iframe><hr>
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="
+https://music.163.com/outchain/player?type=2&id=27403811&auto=1&height=66
+"></iframe>
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=280 height=86 src="
+https://music.163.com/outchain/player?type=2&id=1297742167&auto=1&height=66
+"></iframe>
+
+</table>
+<button onclick="toggleb()">toggle</button>
+<button onclick="loadparse()">loadparse</button>
+<br>
+<!-- 🌸<br>🍅-　-🍑<hr>🍀 -->
+<pre>
+<textarea rows="30" cols="100" style="display: none" id="tar">
+
+Track in Time - Dennis Kuo
+https://music.163.com/#/song?id=1316330689&autoplay=0
+　
+https://p2.music.126.net/0fBBpo6Gll3toQ29kwKHPg==/109951164192478213.jpg
+
+2021/8/30上午11:33:37
+
+it's 6pm but I miss u already.
+https://music.163.com/#/song?id=1890756154&autoplay=0
+
+Melancholy - White Cherry
+https://music.163.com/#/song?id=1297742167&autoplay=0
+
+The Next Episode
+https://music.163.com/#/song?id=27403811&autoplay=0
+
+<br>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="
+https://music.163.com/outchain/player?type=2&id=&auto=1&height=66
+"></iframe>
+
+</textarea>
+</pre>
+<!-- 🍀<br>🍑-　-🍅<hr>🌸 -->
+
+<video data-v-79e70dab="" data-v-5ea04c06="" src="
+https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4
+" poster="
+https://img-xhpfm.zhongguowangshi.com/News/202106/24d444ad59d246a2a2584802a8f330b1.gif
+" controls="controls" x5-playsinline="" webkit-playsinline="" playsinline="" class="shortVideo video-box"
+ style="height: 272px;"></video>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<script type="text/javascript">
+
+var __urlRegex = /(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig;
+var __imgRegex = /\.(?:jpe?g|gif|png)$/i;
+
+loadparse();
+
+function parseURL($string){
+
+    var exp = __urlRegex;
+    return $string.replace(exp,function(match){
+            __imgRegex.lastIndex=0;
+            if(__imgRegex.test(match)){
+                return '<a data-fancybox="gallery" href="' + match.replace("/p=700", "")
+                 + '"><img src="' + match.replace("/p=700", "/p=160x200")+'" width="64"></a>';
+            }
+            else{
+                return '<a href="' + match + '" target="_blank">' + match + '</a>';
+            }
+        }
+    );
+}
+
+function loadparse() {
+  tbc.innerHTML = parseURL(tar.value);
+}
+
+function toggleb() {
+  var x = document.getElementById("tar");
+  if (x.style.display === "none") {
+    x.style.display = "";
+  } else {
+    x.style.display = "none";
+  }
+}
+
+</script>
