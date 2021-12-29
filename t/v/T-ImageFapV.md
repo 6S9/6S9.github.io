@@ -29,35 +29,108 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static.hentai-cosplays.com/upload/20160821/25/24740/p=700/161.jpg
-https://static9.porn-images-xxx.com/upload/20211203/944/965709/p=700/36.jpg
-
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
-<font size="4"><b>
-[nonsummerjack (non)]My GOD ANUBIS - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/nonsummerjack-nonmy-god-anubis/
+<font size="2"><b>
+Like a pair of papayas boobs Porn Video by Mainbert61 | ImageFap</b></font><br>
+https://www.imagefap.com/video.php?vid=648350
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午3:26:18</b></font><br>
+https://img.moviefap.com/a3:2q80w160r/106/64/83/648350/thumbs/2.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/20 下午4:27:09</b></font><br>
 
 <font size="2"><b>
-【画像】黒ギャルレイヤーnon、オイル美尻がエロすぎるwwエジプトコスプレのテカテカ褐色尻に絶賛の声！ - ３次エロ画像 - エロ画像</b></font><br>
-https://ja.porn-images-xxx.com/image/image-black-gal-layer-non-oil-beauty-ass-is-too-erotic-ww-egyptian-cosplay-tecateka-brown-ass-rave-voice/
+Compilation of a perfect blonde and cum in her mouth Porn Video by WhiskFapLover | ImageFap</b></font><br>
+https://www.imagefap.com/video.php?vid=640247
 
-https://static7.porn-images-xxx.com/upload/20200530/824/842789/p=700/1.png
-https://static7.porn-images-xxx.com/upload/20200530/824/842789/p=700/2.jpg
+https://img.moviefap.com/a3:2q80w160r/105/64/02/640247/thumbs/1.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午3:29:23</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2021/12/20 下午4:38:34</b></font><br>
 
-<hr>
+<font size="3"><b>
+Paisley Porter hot and friendly blonde plays with the c Porn Video by WhiskFapLover | ImageFap</b></font><br>
+https://www.imagefap.com/video.php?vid=625996
+
+https://img.moviefap.com/a3:2q80w160r/101/62/59/625996/thumbs/2.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/20 下午4:39:33</b></font><br>
 
 <font size="2"><b>
-3次元 いかにもなビッチでヤリマンな黒ギャルのエロ画像 36枚 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/3d-erotic-images-of-a-really-and-a-yariman-black-gal-36-sheets-1/
+Jewelz solo Porn Video by WhiskFapLover | ImageFap</b></font><br>
+https://www.imagefap.com/video.php?vid=648459
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/21 下午1:31:14</b></font><br>
+https://img.moviefap.com/a3:2q80w160r/106/64/84/648459/thumbs/2.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/20 下午4:36:17</b></font><br>
+
+<font size="2"><b>
+hot woman does sexual magic for the client Porn Video by WhiskFapLover | ImageFap</b></font><br>
+https://www.imagefap.com/video.php?vid=594565
+
+https://img.moviefap.com/a3:2q80w160r/thumbs/95/594565-2l.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/20 下午4:50:22</b></font><br>
+
+<font size="2"><b>
+Duo of beautiful girls play with delicious oil Porn Video by WhiskFapLover | ImageFap</b></font><br>
+https://www.imagefap.com/video.php?vid=614429
+
+https://img.moviefap.com/a3:2q80w160r/thumbs/e3/614429-1l.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/20 下午4:48:47</b></font><br>
+
+<font size="2"><b>
+Professional dancers like to show their sexy bodies Porn Video by WhiskFapLover | ImageFap</b></font><br>
+https://www.imagefap.com/video.php?vid=614303
+
+https://img.moviefap.com/a3:2q80w160r/thumbs/84/614303-1l.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/20 下午4:45:37</b></font><br>
+
+<font size="2"><b>
+Blonde lactates Porn Video by exacto44 | ImageFap</b></font><br>
+https://www.imagefap.com/video.php?vid=642711
+
+https://img.moviefap.com/a3:2q80w160r/106/64/27/642711/thumbs/1.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/20 下午4:33:21</b></font><br>
+
+<font size="2"><b>
+Big Tit Japanese Girl Porn Video by exacto44 | ImageFap</b></font><br>
+https://www.imagefap.com/video.php?vid=647678
+
+https://img.moviefap.com/a3:2q80w160r/106/64/76/647678/thumbs/1.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/20 下午4:24:15</b></font><br>
+
+<font size="2"><b>
+Payton Presslee Deep Penetration Porn Video by Chabin333 | ImageFap</b></font><br>
+https://www.imagefap.com/video.php?vid=649140
+
+https://img.moviefap.com/a3:2q80w160r/106/64/91/649140/thumbs/1.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/21 下午5:32:40</b></font><br>
+
+<font size="2"><b>
+Watching my stepson cum inside my wife Porn Video by Parnny66 | ImageFap</b></font><br>
+https://www.imagefap.com/video.php?vid=649181
+
+https://slack-imgs.com/?url=https://img.moviefap.com/a3:2q80w160r/106/64/91/649181/thumbs/10.jpg
+https://slack-imgs.com/?url=https://img.moviefap.com/a16:9w990r/106/64/91/649181/thumbs/7.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/21 下午11:21:09</b></font><br>
+
+https://vz-cdn2.adtng.com/a7/creatives/1/49/813454/1015080/1015080_video.mp4
+
+https://static-landing-assets.project1content.com/P1TGP/Brazzers/Affiliates/Images/813454/PC/TGP1/R1_02.mp4
+
+https://static-landing-assets.project1content.com/P1TGP/Brazzers/Affiliates/Images/813454/PC/TGP1/R1_04.mp4
+
+https://vcdn.tsyndicate.com/videos/6/f/f60fe0cac0eef8a4a7adf340913a670682c804/main.mp4
+
+https://ip230617363.ahcdn.com/key=3OVpMUj3A+aReNnHOUmMGQ,s=,,end=1640082285/state=YcGd3cUE/reftag=093898225/origin=152108259/videos/6/f/f60fe0cac0eef8a4a7adf340913a670682c804/main.mp4
 
 </textarea>
 </pre>

@@ -2,21 +2,16 @@
 ```tip
 ```
 
-<p><font size="4"><b>
-Releases · 2dust/v2rayNG · GitHub</b></font>
-https://github.com/2dust/v2rayNG/releases
+**chrome浏览器**{:.h4}<br>
+<https://www.chromedownloads.net/>
+版本号： 96.0.4664.45
+发布日期：2021-11-15
 
-Releases · 2dust/v2rayNG · GitHub
+**Releases · 2dust/v2rayNG**{:.h3}<br>
+<https://github.com/2dust/v2rayNG/releases>
 
-<font size="1" style="color:#DCDCDC"><b>2021/11/18 下午4:52:56</b></font>
-
-<p><font size="4"><b>
-Releases · 2dust/v2rayN · GitHub</b></font>
-https://github.com/2dust/v2rayN/releases
-
-Releases · 2dust/v2rayN · GitHub
-
-<font size="1" style="color:#DCDCDC"><b>2021/11/18 下午4:53:28</b></font>
+**Releases · 2dust/v2rayN**{:.h3}<br>
+<https://github.com/2dust/v2rayN/releases>
 
 **劳斯莱斯Lossless**{:.h3}<br>
 https://lanzoui.com/b823333

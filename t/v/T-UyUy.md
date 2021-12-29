@@ -29,35 +29,32 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static.hentai-cosplays.com/upload/20160821/25/24740/p=700/161.jpg
-https://static9.porn-images-xxx.com/upload/20211203/944/965709/p=700/36.jpg
+https://static5.hentai-cosplays.com/upload/20211107/246/250908/p=700/67.jpg
+https://static10.porn-images-xxx.com/upload/20211219/985/1007990/p=700/57.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
-<font size="4"><b>
-[nonsummerjack (non)]My GOD ANUBIS - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/nonsummerjack-nonmy-god-anubis/
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午3:26:18</b></font><br>
-
 <font size="2"><b>
-【画像】黒ギャルレイヤーnon、オイル美尻がエロすぎるwwエジプトコスプレのテカテカ褐色尻に絶賛の声！ - ３次エロ画像 - エロ画像</b></font><br>
-https://ja.porn-images-xxx.com/image/image-black-gal-layer-non-oil-beauty-ass-is-too-erotic-ww-egyptian-cosplay-tecateka-brown-ass-rave-voice/
+UyUy - Mashu - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/uyuy-mashu/
 
-https://static7.porn-images-xxx.com/upload/20200530/824/842789/p=700/1.png
-https://static7.porn-images-xxx.com/upload/20200530/824/842789/p=700/2.jpg
+https://static5.hentai-cosplays.com/upload/20211107/246/250908/61.gif
+https://static5.hentai-cosplays.com/upload/20211107/246/250908/63.gif
+https://static5.hentai-cosplays.com/upload/20211107/246/250908/65.gif
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午3:29:23</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2021/12/20 下午3:17:22</b></font><br>
 
 <hr>
 
 <font size="2"><b>
-3次元 いかにもなビッチでヤリマンな黒ギャルのエロ画像 36枚 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/3d-erotic-images-of-a-really-and-a-yariman-black-gal-36-sheets-1/
+乳首だけニプレスで隠せば、脱いでTwitter載せてもOK！www Vol.5 - ３次エロ画像 - エロ画像</b></font><br>
+https://ja.porn-images-xxx.com/image/if-you-hide-only-the-nipples-with-nipress-you-can-take-it-off-and-put-it-on-twitter-www-vol5/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/21 下午1:31:14</b></font><br>
+乳首だけニプレスで隠せば、脱いでTwitter載せてもOK！www Vol.5 - ３次エロ画像 - エロ画像
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/20 下午3:21:26</b></font><br>
 
 </textarea>
 </pre>
