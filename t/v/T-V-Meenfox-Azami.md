@@ -29,6 +29,11 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static6.hentai-cosplays.com/upload/20211221/261/267115/p=700/197.jpg
+https://static8.porn-images-xxx.com/upload/20210509/914/935503/p=700/116.jpg
+https://static10.porn-images-xxx.com/upload/20211230/1003/1026593/p=700/26.jpg
+https://static7.porn-images-xxx.com/upload/20201008/838/857537/p=700/20.jpg
+https://static7.porn-images-xxx.com/upload/20200924/836/855628/p=700/84.jpg
 https://static5.hentai-cosplays.com/upload/20211106/245/250713/p=700/78.jpg
 https://static10.porn-images-xxx.com/upload/20211220/986/1009516/p=700/60.jpg
 https://static5.hentai-cosplays.com/upload/20211208/248/252964/p=700/3.jpg
@@ -43,6 +48,46 @@ https://static5.hentai-cosplays.com/upload/20211106/245/250711/p=700/51.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+<font size="2"><b>
+meenfox OnlyFans 套圖 [197P] - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/meenfox-onlyfans-mantle-197p/
+
+https://static6.hentai-cosplays.com/upload/20211221/261/267115/p=700/197.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/4 上午11:04:45</b></font><br>
+
+<font size="2"><b>
+巨乳がはちきれそうなナイスバディなエロボンデージコスプレ 【ナース・修道女】 - ３次エロ画像 - エロ画像</b></font><br>
+https://ja.porn-images-xxx.com/image/nice-buddy-erotic-bondage-cosplay-that-big-seem-to-be-able-to-be-snable-nurse-nun/
+
+https://static8.porn-images-xxx.com/upload/20210509/914/935503/p=700/116.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/30 下午2:28:51</b></font><br>
+
+<font size="2"><b>
+「Azami」淫紋浮き出たボンデージサキュバスコスプレがくっそエロい！ - ３次エロ画像 - エロ画像</b></font><br>
+https://ja.porn-images-xxx.com/image/azami-bondage-succubus-cosplay-that-emerged-is-erotic/
+
+https://static10.porn-images-xxx.com/upload/20211230/1003/1026593/p=700/26.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/31 下午5:42:24</b></font><br>
+
+<font size="2"><b>
+Azami - ３次エロ画像 - エロ画像</b></font><br>
+https://ja.porn-images-xxx.com/image/azami-1/
+
+https://static7.porn-images-xxx.com/upload/20201008/838/857537/p=700/20.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/31 下午5:45:11</b></font><br>
+
+<font size="2"><b>
+「Azami」フィギュアみたいなエロい身体した、脱ぎ系の巨乳コスプレイヤーまとめ - ３次エロ画像 - エロ画像</b></font><br>
+https://ja.porn-images-xxx.com/image/the-erotic-body-like-azami-figure-big-cosplayer-summary-of-the-take-off-system/
+
+https://static7.porn-images-xxx.com/upload/20200924/836/855628/p=700/84.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/31 下午5:45:18</b></font><br>
 
 <font size="2"><b>
 Mashu kyrielight from Fate grand order by Azami - エロコスプレ</b></font><br>

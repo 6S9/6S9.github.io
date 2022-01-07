@@ -29,6 +29,8 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static6.hentai-cosplays.com/upload/20211219/260/265518/p=700/18.jpg
+https://static6.hentai-cosplays.com/upload/20211219/260/265523/p=700/29.jpg
 https://static9.porn-images-xxx.com/upload/20210729/923/944418/p=700/41.jpg
 https://static4.porn-images-xxx.com/upload/20190925/697/713521/p=700/31.jpg
 https://static8.porn-images-xxx.com/upload/20210514/915/936197/p=700/147.jpg
@@ -43,6 +45,22 @@ https://static2.hentai-cosplays.com/upload/20200922/176/179771/p=700/64.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+<font size="2"><b>
+Fantasy Factory 小丁]OTs-14 business suit - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/fantasy-factory-ots-14-business-suit/
+
+https://static6.hentai-cosplays.com/upload/20211219/260/265518/p=700/18.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/30 下午8:52:23</b></font><br>
+
+<font size="2"><b>
+[小丁 Fantasy Factory] Sirius - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/-fantasy-factory-sirius/
+
+https://static6.hentai-cosplays.com/upload/20211219/260/265523/p=700/29.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/30 下午8:52:56</b></font><br>
 
 <font size="2"><b>
 Kocho Komachi 小丁こまち - ３次エロ画像 - エロ画像</b></font><br>

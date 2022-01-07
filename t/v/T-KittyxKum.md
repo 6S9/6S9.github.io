@@ -29,40 +29,64 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static4.hentai-cosplays.com/upload/20210629/228/232832/p=700/12.jpg
-https://static3.hentai-cosplays.com/upload/20201229/191/195412/p=700/350.jpg
-https://static4.hentai-cosplays.com/upload/20210305/209/213940/p=700/754.jpg
-https://static2.hentai-cosplays.com/upload/20180605/81/82694/p=700/56.jpg
+https://static6.hentai-cosplays.com/upload/20211215/256/261994/p=700/31.jpg
+https://static5.hentai-cosplays.com/upload/20210906/238/243142/p=700/55.jpg
+https://static5.hentai-cosplays.com/upload/20210729/233/238294/p=700/128.jpg
+https://static5.hentai-cosplays.com/upload/20210908/238/243347/p=700/80.jpg
+https://static8.porn-images-xxx.com/upload/20210521/916/936997/p=700/82.jpg
+https://static7.porn-images-xxx.com/upload/20200623/827/846051/p=700/48.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
 <font size="2"><b>
-KaYa 萱 - Jeanne Alter Reverse Bunny - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/kaya--jeanne-alter-reverse-bunny/
+Ankha - PB - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/ankha-pb/
 
-https://static4.hentai-cosplays.com/upload/20210629/228/232832/p=700/12.jpg
+https://static6.hentai-cosplays.com/upload/20211215/256/261994/p=700/31.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/30 下午2:27:03</b></font><br>
-
-<font size="2"><b>
-[Twitter] KaYa Huang ❤️萱❤️ (@kaya1028) [Twitter] KaYa Huang ❤️萱❤️ (@kaya1028) - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/twitter-kaya-huang--kaya1028-twitter-kaya-huang--kaya1028-1/
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 上午11:17:46</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2021/12/31 下午2:55:24</b></font><br>
 
 <font size="2"><b>
-kaya萱 cosplay collection - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/kaya-cosplay-collection/
+KittyxKum - Kanao Sling Bikini - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/kittyxkum-kanao-sling-bikini/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 上午11:18:52</b></font><br>
+https://static5.hentai-cosplays.com/upload/20210906/238/243142/p=700/55.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/31 下午2:44:54</b></font><br>
+
+<font size="1"><b>
+KittyxKum - Kanao Tsuyuri - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/kittyxkum-kanao-tsuyuri/
+
+https://static5.hentai-cosplays.com/upload/20210729/233/238294/p=700/128.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/31 下午2:45:50</b></font><br>
 
 <font size="2"><b>
-七つの大罪 - 強欲の像 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/the-seven-deadly-sins-the-statue-of-greed/
+KittyxKum - Zero Two - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/kittyxkum-zero-two/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午3:13:18</b></font><br>
+https://static5.hentai-cosplays.com/upload/20210908/238/243347/p=700/80.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/31 下午2:47:06</b></font><br>
+
+<font size="2"><b>
+アナル大好きw アヘ顔でマ○コ見せてる、黒髪ツインテールのちっぱい合法□リ美少女 ヌード画像まとめ Vol.2 - ３次エロ画像 - エロ画像</b></font><br>
+https://ja.porn-images-xxx.com/image/love-w-im-showing-ma--co-with-an-ahe-face-black-hair-twin-tails-cute-legal--beautiful-girl-nude-image-summary-vol2/
+
+https://static8.porn-images-xxx.com/upload/20210521/916/936997/p=700/82.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/31 下午2:48:32</b></font><br>
+
+<font size="2"><b>
+アヘ顔でマ○コ見せてる、黒髪ツインテールのちっぱい合法□リ美少女 ヌード画像＆Twitter動画まとめ - ３次エロ画像 - エロ画像</b></font><br>
+https://ja.porn-images-xxx.com/image/ma--co-is-showing-in-the-face-black-hair-twin-tails-of-the-little-legal--ri-pretty-nude-image-amp-twitter-video-summary/
+
+https://static7.porn-images-xxx.com/upload/20200623/827/846051/p=700/48.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/31 下午2:49:40</b></font><br>
 
 </textarea>
 </pre>

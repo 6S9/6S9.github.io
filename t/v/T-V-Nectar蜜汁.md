@@ -29,40 +29,103 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static4.hentai-cosplays.com/upload/20210629/228/232832/p=700/12.jpg
-https://static3.hentai-cosplays.com/upload/20201229/191/195412/p=700/350.jpg
-https://static4.hentai-cosplays.com/upload/20210305/209/213940/p=700/754.jpg
-https://static2.hentai-cosplays.com/upload/20180605/81/82694/p=700/56.jpg
+https://static5.hentai-cosplays.com/upload/20211106/245/250684/p=700/57.jpg
+https://static5.hentai-cosplays.com/upload/20210925/239/244706/p=700/51.jpg
+https://static6.hentai-cosplays.com/upload/20211227/265/271266/p=700/31.jpg
+https://static5.hentai-cosplays.com/upload/20211019/243/247829/p=700/42.jpg
+https://static4.hentai-cosplays.com/upload/20210322/211/215564/p=700/43.jpg
+https://static6.hentai-cosplays.com/upload/20211222/262/267465/p=700/13.jpg
+https://static6.hentai-cosplays.com/upload/20211227/265/271359/p=700/31.jpg
+https://static6.hentai-cosplays.com/upload/20211222/262/267466/p=700/29.jpg
+https://static4.hentai-cosplays.com/upload/20210322/211/215561/p=700/52.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
 <font size="2"><b>
-KaYa 萱 - Jeanne Alter Reverse Bunny - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/kaya--jeanne-alter-reverse-bunny/
+Coser@蜜汁猫裘 Vol.070: 竞泳 (47 ảnh) - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/coser-nectar-cat-cat-vol070-swimming-47-nh/
 
-https://static4.hentai-cosplays.com/upload/20210629/228/232832/p=700/12.jpg
+https://static5.hentai-cosplays.com/upload/20211106/245/250684/p=700/57.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/30 下午2:27:03</b></font><br>
-
-<font size="2"><b>
-[Twitter] KaYa Huang ❤️萱❤️ (@kaya1028) [Twitter] KaYa Huang ❤️萱❤️ (@kaya1028) - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/twitter-kaya-huang--kaya1028-twitter-kaya-huang--kaya1028-1/
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 上午11:17:46</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2021/12/30 上午10:13:25</b></font><br>
 
 <font size="2"><b>
-kaya萱 cosplay collection - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/kaya-cosplay-collection/
+Coser@蜜汁猫裘 Vol.067: 异型 (51 ảnh) - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/coser-nectar-cat-cat-vol067--51-nh/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 上午11:18:52</b></font><br>
+https://static5.hentai-cosplays.com/upload/20210925/239/244706/p=700/51.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/30 上午10:14:58</b></font><br>
 
 <font size="2"><b>
-七つの大罪 - 強欲の像 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/the-seven-deadly-sins-the-statue-of-greed/
+Coser@蜜汁猫裘 Vol.049: 绝代风华 旗袍 (50 ảnh) - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/coser-nectar-cat--vol049---flag--50-nh/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午3:13:18</b></font><br>
+https://static4.hentai-cosplays.com/upload/20210322/211/215430/24.jpg
+https://static4.hentai-cosplays.com/upload/20210322/211/215430/27.jpg
+https://static4.hentai-cosplays.com/upload/20210322/211/215430/29.jpg
+https://static4.hentai-cosplays.com/upload/20210322/211/215430/42.jpg
+https://static4.hentai-cosplays.com/upload/20210322/211/215430/43.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/30 上午10:50:04</b></font><br>
+
+<font size="2"><b>
+Coser@蜜汁猫裘 Vol.036 (43 ảnh) - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/coser-honey-juice-cat--vol036-43-nh/
+
+https://static4.hentai-cosplays.com/upload/20210322/211/215564/p=700/43.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/30 上午10:54:51</b></font><br>
+
+<font size="3"><b>
+Coser@蜜汁猫裘 Vol.037 (52 ảnh) - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/coser-honey-juice-cat--vol037-52-nh/
+
+https://static4.hentai-cosplays.com/upload/20210322/211/215561/p=700/52.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/30 上午10:55:58</b></font><br>
+
+<font size="2"><b>
+喵小吉 - 雷姆 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/kokichi--rai-chen/
+
+https://static6.hentai-cosplays.com/upload/20211227/265/271266/p=700/31.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/30 上午10:11:11</b></font><br>
+
+<font size="2"><b>
+【爆机少女喵小吉】尼尔机械纪元-人形兵器 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/--776/
+
+https://static6.hentai-cosplays.com/upload/20211222/262/267465/p=700/13.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/30 下午2:32:18</b></font><br>
+
+<font size="2"><b>
+喵小吉 雷姆 圣诞节 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/---168/
+
+https://static6.hentai-cosplays.com/upload/20211227/265/271359/p=700/31.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/30 下午2:34:13</b></font><br>
+
+<font size="2"><b>
+【爆机少女喵小吉】尼尔机械纪元-花嫁 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/--777/
+
+https://static6.hentai-cosplays.com/upload/20211222/262/267466/p=700/29.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/30 下午2:35:28</b></font><br>
+
+<font size="2"><b>
+[COS写真] 曉美媽 - 竞泳 5 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/cos-photo-5/
+
+https://static5.hentai-cosplays.com/upload/20211019/243/247829/p=700/42.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/30 上午10:43:23</b></font><br>
 
 </textarea>
 </pre>

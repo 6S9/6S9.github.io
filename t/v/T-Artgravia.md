@@ -29,40 +29,42 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static4.hentai-cosplays.com/upload/20210629/228/232832/p=700/12.jpg
-https://static3.hentai-cosplays.com/upload/20201229/191/195412/p=700/350.jpg
-https://static4.hentai-cosplays.com/upload/20210305/209/213940/p=700/754.jpg
-https://static2.hentai-cosplays.com/upload/20180605/81/82694/p=700/56.jpg
-
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
 <font size="2"><b>
-KaYa 萱 - Jeanne Alter Reverse Bunny - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/kaya--jeanne-alter-reverse-bunny/
+[ArtGravia] VOL.112 - ZIA - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/artgravia-vol112-zia/
 
-https://static4.hentai-cosplays.com/upload/20210629/228/232832/p=700/12.jpg
+https://static5.hentai-cosplays.com/upload/20210823/237/241886/3.jpg
+https://static5.hentai-cosplays.com/upload/20210823/237/241886/4.jpg
+https://static5.hentai-cosplays.com/upload/20210823/237/241886/6.jpg
+https://static5.hentai-cosplays.com/upload/20210823/237/241886/10.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/30 下午2:27:03</b></font><br>
-
-<font size="2"><b>
-[Twitter] KaYa Huang ❤️萱❤️ (@kaya1028) [Twitter] KaYa Huang ❤️萱❤️ (@kaya1028) - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/twitter-kaya-huang--kaya1028-twitter-kaya-huang--kaya1028-1/
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 上午11:17:46</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/4 上午11:14:28</b></font><br>
 
 <font size="2"><b>
-kaya萱 cosplay collection - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/kaya-cosplay-collection/
+[ArtGravia] VOL.124 - ZIA - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/artgravia-vol124-zia/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 上午11:18:52</b></font><br>
+https://static5.hentai-cosplays.com/upload/20211006/241/246413/46.jpg
+https://static5.hentai-cosplays.com/upload/20211006/241/246413/52.jpg
+https://static5.hentai-cosplays.com/upload/20211006/241/246413/53.jpg
+https://static5.hentai-cosplays.com/upload/20211006/241/246413/60.jpg
+https://static5.hentai-cosplays.com/upload/20211006/241/246413/61.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/4 上午11:10:10</b></font><br>
 
 <font size="2"><b>
-七つの大罪 - 強欲の像 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/the-seven-deadly-sins-the-statue-of-greed/
+[ArtGravia] VOL.124 - ZIA - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/artgravia-vol124-zia/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午3:13:18</b></font><br>
+https://static5.hentai-cosplays.com/upload/20210825/237/242134/34.jpg
+https://static5.hentai-cosplays.com/upload/20210825/237/242134/58.jpg
+https://static5.hentai-cosplays.com/upload/20210825/237/242134/63.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/4 下午2:50:05</b></font><br>
 
 </textarea>
 </pre>
