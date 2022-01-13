@@ -29,60 +29,62 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static01.videos-upload.com/video/2021/1114/1l5b/image-013.jpg
+https://static01.videos-upload.com/video/2021/1114/1l4x/image-012.jpg
+https://static01.videos-upload.com/video/2021/1114/1l59/image-003.jpg
+https://static01.videos-upload.com/video/2021/1012/v/image-008.jpg
+
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
 <font size="2"><b>
-[ArtGravia] vol.338 Kang Inkyung - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/artgravia-vol338-kang-inkyung/
+小尤奈 Xiaoyounai 23 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/video/xiaoyounai-23/
 
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/p=700/9.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/p=700/10.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/30.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/31.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/32.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/42.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/43.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/44.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/45.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/90.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/91.jpg
+小尤奈 Xiaoyounai 23 - エロコスプレ
 
-<font size="1" style="color:#DCDCDC"><b>2022/1/10 上午10:29:47</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午9:45:05</b></font><br>
 
 <font size="2"><b>
-[ArtGravia] VOL.112 - ZIA - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/artgravia-vol112-zia/
+小尤奈 Xiaoyounai 12 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/video/xiaoyounai-12/
 
-https://static5.hentai-cosplays.com/upload/20210823/237/241886/3.jpg
-https://static5.hentai-cosplays.com/upload/20210823/237/241886/4.jpg
-https://static5.hentai-cosplays.com/upload/20210823/237/241886/6.jpg
-https://static5.hentai-cosplays.com/upload/20210823/237/241886/10.jpg
+小尤奈 Xiaoyounai 12 - エロコスプレ
 
-<font size="1" style="color:#DCDCDC"><b>2022/1/4 上午11:14:28</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午10:15:45</b></font><br>
 
 <font size="2"><b>
-[ArtGravia] VOL.124 - ZIA - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/artgravia-vol124-zia/
+ほしのうめ 13 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/video/hoshino-ying-13/
 
-https://static5.hentai-cosplays.com/upload/20211006/241/246413/46.jpg
-https://static5.hentai-cosplays.com/upload/20211006/241/246413/52.jpg
-https://static5.hentai-cosplays.com/upload/20211006/241/246413/53.jpg
-https://static5.hentai-cosplays.com/upload/20211006/241/246413/60.jpg
-https://static5.hentai-cosplays.com/upload/20211006/241/246413/61.jpg
+https://static01.videos-upload.com/video/2021/1114/1l5b/image-013.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2022/1/4 上午11:10:10</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午2:03:20</b></font><br>
 
 <font size="2"><b>
-[ArtGravia] VOL.124 - ZIA - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/artgravia-vol124-zia/
+朝比奈みつき - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/video/mitsuki-asahina/
 
-https://static5.hentai-cosplays.com/upload/20210825/237/242134/34.jpg
-https://static5.hentai-cosplays.com/upload/20210825/237/242134/58.jpg
-https://static5.hentai-cosplays.com/upload/20210825/237/242134/63.jpg
+https://static01.videos-upload.com/video/2021/1114/1l4x/image-012.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2022/1/4 下午2:50:05</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午2:05:54</b></font><br>
+
+<font size="2"><b>
+ほしのうめ 11 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/video/hoshino-ying-11/
+
+https://static01.videos-upload.com/video/2021/1114/1l59/image-003.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午2:09:43</b></font><br>
+
+<font size="2"><b>
+桃尻🍑サキュバス😈💕 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/video/peach-ass-succubus/
+
+https://static01.videos-upload.com/video/2021/1012/v/image-008.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午2:19:50</b></font><br>
 
 </textarea>
 </pre>

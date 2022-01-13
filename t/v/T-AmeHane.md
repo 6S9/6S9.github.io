@@ -29,6 +29,10 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static6.hentai-cosplays.com/upload/20220111/275/281494/p=700/40.jpg
+https://static6.hentai-cosplays.com/upload/20220111/275/281497/p=700/37.jpg
+https://static6.hentai-cosplays.com/upload/20220110/275/280666/p=700/38.jpg
+https://static5.hentai-cosplays.com/upload/20210814/236/240960/p=700/40.jpg
 https://static5.hentai-cosplays.com/upload/20211028/245/250070/p=700/101.jpg
 https://static5.hentai-cosplays.com/upload/20211027/245/250055/p=700/22.jpg
 https://static5.hentai-cosplays.com/upload/20211212/254/259513/p=700/47.jpg
@@ -41,6 +45,47 @@ https://static5.hentai-cosplays.com/upload/20211109/246/251102/p=700/45.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+<font size="2"><b>
+Hane Ame - Lucoa Milk - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/hane-ame-lucoa-milk/
+
+https://static6.hentai-cosplays.com/upload/20220112/276/282269/10.jpg
+https://static6.hentai-cosplays.com/upload/20220112/276/282269/15.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/12 上午11:39:52</b></font><br>
+
+<font size="2"><b>
+Hane Ame - Taihou Wedding - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/hane-ame-taihou-wedding/
+
+https://static6.hentai-cosplays.com/upload/20220111/275/281494/p=700/40.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/11 下午12:12:23</b></font><br>
+
+<font size="2"><b>
+Hane Ame  - Asuna Ichinose - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/hane-ame-asuna-ichinose/
+
+https://static6.hentai-cosplays.com/upload/20220111/275/281497/p=700/37.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/11 下午12:13:16</b></font><br>
+
+<font size="2"><b>
+Hane Ame  - Raikou Maid - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/hane-ame-raikou-maid/
+
+https://static6.hentai-cosplays.com/upload/20220110/275/280666/p=700/38.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午9:37:26</b></font><br>
+
+<font size="2"><b>
+Hane Ame - "Sam" Samsung - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/hane-ame-sam-samsung/
+
+https://static5.hentai-cosplays.com/upload/20210814/236/240960/p=700/40.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午9:52:36</b></font><br>
 
 <font size="2"><b>
 Hane Ame - Nyotengu Photobook - エロコスプレ</b></font><br>

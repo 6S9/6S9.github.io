@@ -29,6 +29,7 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static5.hentai-cosplays.com/upload/20211209/250/255812/p=700/32.jpg
 https://static5.hentai-cosplays.com/upload/20211023/244/249721/p=700/22.jpg
 https://static5.hentai-cosplays.com/upload/20211022/244/249464/p=700/10.jpg
 https://static5.hentai-cosplays.com/upload/20211022/244/249465/p=700/17.jpg
@@ -42,6 +43,14 @@ https://static5.hentai-cosplays.com/upload/20211023/244/249726/p=700/14.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+<font size="2"><b>
+Momokun - Nurse Pochaco 1 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/momokun-nurse-pochaco-1/
+
+https://static5.hentai-cosplays.com/upload/20211209/250/255812/p=700/32.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/12 下午2:22:33</b></font><br>
 
 <font size="3"><b>
 Momokun - Pochaco gym - エロコスプレ</b></font><br>

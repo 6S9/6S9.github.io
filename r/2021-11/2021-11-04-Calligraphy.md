@@ -1,6 +1,7 @@
-### 2021-11-　04
+### 2021-11-04-Calligraphy
 
 ```note
+calligraphy书法
 ```
 
 <table id="tbc" style="white-space:pre-wrap">
@@ -18,6 +19,17 @@ https://haokan.baidu.com/v?vid=13144359153747400088&sfrom=baidu-feed
 皇上用侍卫的鞋搓丸子
 
 2021/11/4 下午9:02:10
+
+<font size="2"><b>
+《妖猫传》独家精解幻术背后的美术制作【下】</b></font><br>
+https://www.sohu.com/a/216275641_657278
+
+《人家词话》王国维 手稿
+http://5b0988e595225.cdn.sohucs.com/images/20180112/e981dbf5a00c4d7fa4fb585e567d43d3.jpeg
+http://5b0988e595225.cdn.sohucs.com/images/20180112/693a453dcaec438abbb92e0adbef0b2e.jpeg
+http://5b0988e595225.cdn.sohucs.com/images/20180112/51885eae2ee34be6aada31672fafbfef.jpeg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/11 上午11:16:06</b></font><br>
 
 <font size="2"><b>
 宋徽宗“鬼斧神工”的奇作，这才是书法的大美境界，没人敢说不好</b></font><br>

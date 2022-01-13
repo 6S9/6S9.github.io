@@ -29,60 +29,46 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static6.hentai-cosplays.com/upload/20220105/272/278005/p=700/27.jpg
+https://static6.hentai-cosplays.com/upload/20220109/274/280541/p=700/29.jpg
+https://static6.hentai-cosplays.com/upload/20220103/270/276434/p=700/28.jpg
+https://static6.hentai-cosplays.com/upload/20211228/266/271832/p=700/72.jpg
+
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
 <font size="2"><b>
-[ArtGravia] vol.338 Kang Inkyung - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/artgravia-vol338-kang-inkyung/
+Byoru - Hinata - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/byoru-hinata/
 
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/p=700/9.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/p=700/10.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/30.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/31.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/32.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/42.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/43.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/44.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/45.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/90.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255701/91.jpg
+https://static6.hentai-cosplays.com/upload/20220105/272/278005/p=700/27.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2022/1/10 上午10:29:47</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/10 上午10:17:39</b></font><br>
 
 <font size="2"><b>
-[ArtGravia] VOL.112 - ZIA - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/artgravia-vol112-zia/
+Byoru – Hinata Akatsuki - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/byoru--hinata-akatsuki/
 
-https://static5.hentai-cosplays.com/upload/20210823/237/241886/3.jpg
-https://static5.hentai-cosplays.com/upload/20210823/237/241886/4.jpg
-https://static5.hentai-cosplays.com/upload/20210823/237/241886/6.jpg
-https://static5.hentai-cosplays.com/upload/20210823/237/241886/10.jpg
+https://static6.hentai-cosplays.com/upload/20220109/274/280541/p=700/29.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2022/1/4 上午11:14:28</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/10 上午10:20:05</b></font><br>
 
 <font size="2"><b>
-[ArtGravia] VOL.124 - ZIA - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/artgravia-vol124-zia/
+Byoru - Choco Yuzuki - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/byoru-choco-yuzuki/
 
-https://static5.hentai-cosplays.com/upload/20211006/241/246413/46.jpg
-https://static5.hentai-cosplays.com/upload/20211006/241/246413/52.jpg
-https://static5.hentai-cosplays.com/upload/20211006/241/246413/53.jpg
-https://static5.hentai-cosplays.com/upload/20211006/241/246413/60.jpg
-https://static5.hentai-cosplays.com/upload/20211006/241/246413/61.jpg
+https://static6.hentai-cosplays.com/upload/20220103/270/276434/p=700/28.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2022/1/4 上午11:10:10</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/10 上午10:22:55</b></font><br>
 
 <font size="2"><b>
-[ArtGravia] VOL.124 - ZIA - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/artgravia-vol124-zia/
+Byoru - Raiden Shogun - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/byoru-raiden-shogun-1/
 
-https://static5.hentai-cosplays.com/upload/20210825/237/242134/34.jpg
-https://static5.hentai-cosplays.com/upload/20210825/237/242134/58.jpg
-https://static5.hentai-cosplays.com/upload/20210825/237/242134/63.jpg
+https://static6.hentai-cosplays.com/upload/20211228/266/271832/p=700/72.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2022/1/4 下午2:50:05</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/10 上午10:22:10</b></font><br>
 
 </textarea>
 </pre>

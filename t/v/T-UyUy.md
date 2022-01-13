@@ -29,12 +29,21 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static5.hentai-cosplays.com/upload/20211209/250/255660/p=700/13.jpg
 https://static5.hentai-cosplays.com/upload/20211107/246/250908/p=700/67.jpg
 https://static10.porn-images-xxx.com/upload/20211219/985/1007990/p=700/57.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+<font size="3"><b>
+UyUy - Gura & Marine - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/uyuy-gura-amp-marine/
+
+https://static5.hentai-cosplays.com/upload/20211209/250/255660/p=700/13.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/12 下午2:39:22</b></font><br>
 
 <font size="2"><b>
 UyUy - Mashu - エロコスプレ</b></font><br>
