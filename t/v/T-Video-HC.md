@@ -29,40 +29,72 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static4.hentai-cosplays.com/upload/20210629/228/232832/p=700/12.jpg
-https://static3.hentai-cosplays.com/upload/20201229/191/195412/p=700/350.jpg
-https://static4.hentai-cosplays.com/upload/20210305/209/213940/p=700/754.jpg
-https://static2.hentai-cosplays.com/upload/20180605/81/82694/p=700/56.jpg
+https://static01.videos-upload.com/video/2021/1114/1l5b/image-013.jpg
+https://static01.videos-upload.com/video/2021/1114/1l4x/image-012.jpg
+https://static01.videos-upload.com/video/2021/1114/1l59/image-003.jpg
+https://static01.videos-upload.com/video/2021/1012/v/image-008.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
 <font size="2"><b>
-KaYa 萱 - Jeanne Alter Reverse Bunny - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/kaya--jeanne-alter-reverse-bunny/
+nagisa魔物喵 20200120 nagisaの魔法棒！愛の契約をしよう! 1 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/video/nagisa-demon-20200120-nagisa-magic-stick-let-s-make-a-love-deal-1/
 
-https://static4.hentai-cosplays.com/upload/20210629/228/232832/p=700/12.jpg
+https://static01.videos-upload.com/video/2021/1231/1rrl/image-135.jpg
+https://video01.videos-upload.com/video/2021/1231/1rrl/video.m3u8
+https://static01.videos-upload.com/video/2021/1231/1rrl/video-013.ts
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/30 下午2:27:03</b></font><br>
-
-<font size="2"><b>
-[Twitter] KaYa Huang ❤️萱❤️ (@kaya1028) [Twitter] KaYa Huang ❤️萱❤️ (@kaya1028) - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/twitter-kaya-huang--kaya1028-twitter-kaya-huang--kaya1028-1/
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 上午11:17:46</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/17 下午3:58:07</b></font><br>
 
 <font size="2"><b>
-kaya萱 cosplay collection - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/kaya-cosplay-collection/
+小尤奈 Xiaoyounai 23 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/video/xiaoyounai-23/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 上午11:18:52</b></font><br>
+小尤奈 Xiaoyounai 23 - エロコスプレ
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午9:45:05</b></font><br>
 
 <font size="2"><b>
-七つの大罪 - 強欲の像 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/the-seven-deadly-sins-the-statue-of-greed/
+小尤奈 Xiaoyounai 12 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/video/xiaoyounai-12/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午3:13:18</b></font><br>
+小尤奈 Xiaoyounai 12 - エロコスプレ
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午10:15:45</b></font><br>
+
+<font size="2"><b>
+ほしのうめ 13 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/video/hoshino-ying-13/
+
+https://static01.videos-upload.com/video/2021/1114/1l5b/image-013.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午2:03:20</b></font><br>
+
+<font size="2"><b>
+朝比奈みつき - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/video/mitsuki-asahina/
+
+https://static01.videos-upload.com/video/2021/1114/1l4x/image-012.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午2:05:54</b></font><br>
+
+<font size="2"><b>
+ほしのうめ 11 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/video/hoshino-ying-11/
+
+https://static01.videos-upload.com/video/2021/1114/1l59/image-003.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午2:09:43</b></font><br>
+
+<font size="2"><b>
+桃尻🍑サキュバス😈💕 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/video/peach-ass-succubus/
+
+https://static01.videos-upload.com/video/2021/1012/v/image-008.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午2:19:50</b></font><br>
 
 </textarea>
 </pre>

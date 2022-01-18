@@ -29,69 +29,28 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static5.hentai-cosplays.com/upload/20211210/254/259398/p=700/3.jpg
-https://static2.hentai-cosplays.com/upload/20190906/135/137249/p=700/266.jpg
-https://static5.hentai-cosplays.com/upload/20211210/254/259397/p=700/3.jpg
-https://static5.hentai-cosplays.com/upload/20211210/254/259402/p=700/3.jpg
-https://static5.hentai-cosplays.com/upload/20211210/254/259401/p=700/3.jpg
-https://static5.hentai-cosplays.com/upload/20210812/236/240790/p=700/424.jpg
-https://static3.hentai-cosplays.com/upload/20201231/197/201550/p=700/50.jpg
+https://static.hentai-cosplays.com/upload/20150531/6/5495/p=700/440.jpg
+https://static2.hentai-cosplays.com/upload/20180607/82/83106/p=700/86.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
 <font size="2"><b>
-2021 Summer Set - SM Police - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/2021-summer-set-sm-police/
+[Higurashi Kikaku (Higurashi Rin)] “DEKO” [日暮企画 (日暮りん)] 凸 DEKO - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/higurashi-kikaku-higurashi-rin-deko----deko/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:41:01</b></font><br>
+https://static.hentai-cosplays.com/upload/20150531/6/5495/p=700/440.jpg
 
-<font size="2"><b>
-SAKU AYAKA DANGEROUS BEAST - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/saku-ayaka-dangerous-beast/
+<font size="1" style="color:#DCDCDC"><b>2022/1/18 下午3:37:20</b></font><br>
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午2:39:55</b></font><br>
+<font size="3"><b>
+[日暮企画] お肉たっぷり高シコリティ水着図鑑vol.3 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/higurashi-planning-meat-cicolity-swimsuit-vol-3/
 
-<font size="2"><b>
-2021 Summer Set - Saku Saku Succubus 2 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/2021-summer-set-saku-saku-succubus-2/
+https://static2.hentai-cosplays.com/upload/20180607/82/83106/p=700/86.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:41:50</b></font><br>
-
-<font size="2"><b>
-2021 Summer Set - Daemon 1 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/2021-summer-set-daemon-1/
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:43:05</b></font><br>
-
-<font size="2"><b>
-2021 Summer Set - Daemon 2 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/2021-summer-set-daemon-2/
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:42:57</b></font><br>
-
-<font size="2"><b>
-(C87) [Shooting Star's (サク)] 潜駆 (艦隊これくしょん -艦これ-) - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/c87-sakuing-stars-submarine-fleet-collection-ship-this-/
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:43:44</b></font><br>
-
-<font size="2"><b>
-2021 Summer Set - Mid Summer Pink 1 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/2021-summer-set-mid-summer-pink-1/
-
-https://static5.hentai-cosplays.com/upload/20211210/254/259399/p=700/3.jpg
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:48:28</b></font><br>
-
-<font size="2"><b>
-Saku サク, Fate day night, Toosaka Rin凜 , Shooting Star's True Set 1 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/saku--fate-day-night-toosaka-rin--shooting-stars-true-set-1/
-
-https://static3.hentai-cosplays.com/upload/20201231/197/201550/p=700/7.jpg
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:50:04</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/18 下午3:35:35</b></font><br>
 
 </textarea>
 </pre>

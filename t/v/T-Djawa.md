@@ -29,17 +29,19 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static2.hentai-cosplays.com/upload/20200310/149/152080/p=700/16.jpg
+https://static5.hentai-cosplays.com/upload/20210718/229/234410/p=700/91.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
 <font size="2"><b>
-Shiro Kitsune - Ishtar Rider - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/shiro-kitsune-ishtar-rider/
+[DJAWA] Jenny - Swimming Lessons #3 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/djawa-jenny-swimming-lessons-3/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午2:29:22</b></font><br>
+https://static5.hentai-cosplays.com/upload/20210718/229/234410/p=700/91.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/17 上午10:35:03</b></font><br>
 
 </textarea>
 </pre>

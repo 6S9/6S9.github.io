@@ -29,6 +29,8 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static5.hentai-cosplays.com/upload/20211209/251/256393/p=700/12.jpg
+https://static5.hentai-cosplays.com/upload/20211209/251/256088/p=700/32.jpg
 https://static6.hentai-cosplays.com/upload/20220111/275/281494/p=700/40.jpg
 https://static6.hentai-cosplays.com/upload/20220111/275/281497/p=700/37.jpg
 https://static6.hentai-cosplays.com/upload/20220110/275/280666/p=700/38.jpg
@@ -45,6 +47,22 @@ https://static5.hentai-cosplays.com/upload/20211109/246/251102/p=700/45.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+<font size="2"><b>
+HaneAme – Raphtalia - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/haneame--raphtalia/
+
+https://static5.hentai-cosplays.com/upload/20211209/251/256393/p=700/12.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/17 下午7:56:07</b></font><br>
+
+<font size="2"><b>
+HaneAme – Scathach Bunny - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/haneame-bunny/
+
+https://static5.hentai-cosplays.com/upload/20211209/251/256088/p=700/32.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/13 下午9:19:02</b></font><br>
 
 <font size="2"><b>
 Hane Ame - Lucoa Milk - エロコスプレ</b></font><br>

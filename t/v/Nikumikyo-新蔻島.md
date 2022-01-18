@@ -29,103 +29,67 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static5.hentai-cosplays.com/upload/20211106/245/250684/p=700/57.jpg
-https://static5.hentai-cosplays.com/upload/20210925/239/244706/p=700/51.jpg
-https://static6.hentai-cosplays.com/upload/20211227/265/271266/p=700/31.jpg
-https://static5.hentai-cosplays.com/upload/20211019/243/247829/p=700/42.jpg
-https://static4.hentai-cosplays.com/upload/20210322/211/215564/p=700/43.jpg
-https://static6.hentai-cosplays.com/upload/20211222/262/267465/p=700/13.jpg
-https://static6.hentai-cosplays.com/upload/20211227/265/271359/p=700/31.jpg
-https://static6.hentai-cosplays.com/upload/20211222/262/267466/p=700/29.jpg
-https://static4.hentai-cosplays.com/upload/20210322/211/215561/p=700/52.jpg
+https://static2.hentai-cosplays.com/upload/20180421/79/80579/p=700/46.jpg
+https://static2.hentai-cosplays.com/upload/20180526/81/81976/p=700/41.jpg
+https://static2.hentai-cosplays.com/upload/20180626/85/86127/p=700/85.jpg
+https://static2.hentai-cosplays.com/upload/20200324/160/163262/p=700/30.jpg
+https://static2.hentai-cosplays.com/upload/20180807/85/86864/p=700/39.jpg
+https://static2.hentai-cosplays.com/upload/20200324/160/163263/p=700/30.jpg
+https://static4.porn-images-xxx.com/upload/20200309/783/801588/p=700/30.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
 <font size="2"><b>
-Coser@蜜汁猫裘 Vol.070: 竞泳 (47 ảnh) - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/coser-nectar-cat-cat-vol070-swimming-47-nh/
+[Nikumikyo] Dead or Alive - Honoka きょう肉肉vol.4 Honoka水着ver. - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/nikumikyo-dead-or-alive-honoka-vol4-honokaver/
 
-https://static5.hentai-cosplays.com/upload/20211106/245/250684/p=700/57.jpg
+https://static2.hentai-cosplays.com/upload/20180421/79/80579/p=700/46.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/30 上午10:13:25</b></font><br>
-
-<font size="2"><b>
-Coser@蜜汁猫裘 Vol.067: 异型 (51 ảnh) - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/coser-nectar-cat-cat-vol067--51-nh/
-
-https://static5.hentai-cosplays.com/upload/20210925/239/244706/p=700/51.jpg
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/30 上午10:14:58</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/18 下午3:31:09</b></font><br>
 
 <font size="2"><b>
-Coser@蜜汁猫裘 Vol.049: 绝代风华 旗袍 (50 ảnh) - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/coser-nectar-cat--vol049---flag--50-nh/
+[Nikumikyo] Nikumikyo Vol.5 (2018-04-22) きょう肉肉vol.5 ミコ(動画入り) - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/nikumikyo-nikumikyo-vol5-2018-04-22-vol5-/
 
-https://static4.hentai-cosplays.com/upload/20210322/211/215430/24.jpg
-https://static4.hentai-cosplays.com/upload/20210322/211/215430/27.jpg
-https://static4.hentai-cosplays.com/upload/20210322/211/215430/29.jpg
-https://static4.hentai-cosplays.com/upload/20210322/211/215430/42.jpg
-https://static4.hentai-cosplays.com/upload/20210322/211/215430/43.jpg
+https://static2.hentai-cosplays.com/upload/20180526/81/81976/p=700/41.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/30 上午10:50:04</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/18 下午3:30:10</b></font><br>
 
 <font size="2"><b>
-Coser@蜜汁猫裘 Vol.036 (43 ảnh) - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/coser-honey-juice-cat--vol036-43-nh/
+Vol.1 学校泳衣 裸体围裙 比基尼 [85P] - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/vol-1-school-clothes-nude---85p/
 
-https://static4.hentai-cosplays.com/upload/20210322/211/215564/p=700/43.jpg
+https://static2.hentai-cosplays.com/upload/20180626/85/86127/p=700/85.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/30 上午10:54:51</b></font><br>
-
-<font size="3"><b>
-Coser@蜜汁猫裘 Vol.037 (52 ảnh) - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/coser-honey-juice-cat--vol037-52-nh/
-
-https://static4.hentai-cosplays.com/upload/20210322/211/215561/p=700/52.jpg
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/30 上午10:55:58</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/18 下午3:27:00</b></font><br>
 
 <font size="2"><b>
-喵小吉 - 雷姆 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/kokichi--rai-chen/
+【新蔻島シンコウシ マ】vol.03 001ホ クサー - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/shin-yijima-shinkoshi-mavol03-001-ho-kussar/
 
-https://static6.hentai-cosplays.com/upload/20211227/265/271266/p=700/31.jpg
+https://static2.hentai-cosplays.com/upload/20200324/160/163262/p=700/30.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/30 上午10:11:11</b></font><br>
-
-<font size="2"><b>
-【爆机少女喵小吉】尼尔机械纪元-人形兵器 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/--776/
-
-https://static6.hentai-cosplays.com/upload/20211222/262/267465/p=700/13.jpg
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/30 下午2:32:18</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/17 下午4:56:51</b></font><br>
 
 <font size="2"><b>
-喵小吉 雷姆 圣诞节 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/---168/
+きょう肉肉(nikumikyo) - きょう肉肉vol.7 メイド服 レムcosplay (動画入り) きょう肉肉(nikumikyo) - きょう肉肉vol.7 メイド服 レムcosplay (動画入り) - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/nikumikyo-vol7--cosplay--nikumikyo-vol7--cosplay-/
 
-https://static6.hentai-cosplays.com/upload/20211227/265/271359/p=700/31.jpg
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/30 下午2:34:13</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午2:14:14</b></font><br>
 
 <font size="2"><b>
-【爆机少女喵小吉】尼尔机械纪元-花嫁 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/--777/
+日本肉肉女孩大尺度cosplay写真【新蔻島シンコウシ マ】vol.02 002白い包帯 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/japanese-meat-woman-large-scale-cosplay-photo-shin-yijima-shinkoshi-ma-vol02-002-white-bandage/
 
-https://static6.hentai-cosplays.com/upload/20211222/262/267466/p=700/29.jpg
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/30 下午2:35:28</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午2:15:17</b></font><br>
 
 <font size="2"><b>
-[COS写真] 曉美媽 - 竞泳 5 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/cos-photo-5/
+新蔻島シンコウジマ vol.02 ちご下着 画像30枚 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/shinjojima-shinkoujima-vol02-chigo-underwear-30-images/
 
-https://static5.hentai-cosplays.com/upload/20211019/243/247829/p=700/42.jpg
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/30 上午10:43:23</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午2:20:45</b></font><br>
 
 </textarea>
 </pre>

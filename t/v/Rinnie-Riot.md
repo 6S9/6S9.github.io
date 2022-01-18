@@ -29,36 +29,64 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static2.hentai-cosplays.com/upload/20200708/168/171410/p=700/10.jpg
-https://static2.hentai-cosplays.com/upload/20200508/164/167238/p=700/10.jpg
+https://static5.hentai-cosplays.com/upload/20211208/248/253646/p=700/20.jpg
+https://static5.hentai-cosplays.com/upload/20211208/248/253402/p=700/70.jpg
+https://static5.hentai-cosplays.com/upload/20211209/250/255900/p=700/72.jpg
+https://static6.hentai-cosplays.com/upload/20220112/276/282273/p=700/195.jpg
+https://static5.hentai-cosplays.com/upload/20211212/254/259561/p=700/23.jpg
+https://static5.hentai-cosplays.com/upload/20210808/235/240303/p=700/35.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
 <font size="2"><b>
-Hana Bunny - Do-S (One-Punch Man) - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/hana-bunny-do-s-one-punch-man/
+PS5 by Rinnie Riot - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/ps5-by-rinnie-riot/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午2:10:47</b></font><br>
+https://static5.hentai-cosplays.com/upload/20211208/248/253646/p=700/20.jpg
 
-<font size="2"><b>
-DO-S Monster Princess - Hana Bunny - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/do-s-monster-princess-hana-bunny/
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午2:12:16</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/18 下午8:15:05</b></font><br>
 
 <font size="2"><b>
-Hana Bunny - Ahri Lingerie (League of Legends) 2 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/hana-bunny-ahri-lingerie-league-of-legends-2/
+[Rinnie Riot] PS5 Chan - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/rinnie-riot-ps5-chan/
 
-https://static6.hentai-cosplays.com/upload/20211230/267/273001/1.jpg
-https://static6.hentai-cosplays.com/upload/20211230/267/273001/6.jpg
-https://static6.hentai-cosplays.com/upload/20211230/267/273001/10.jpg
-https://static6.hentai-cosplays.com/upload/20211230/267/273001/11.jpg
-https://static6.hentai-cosplays.com/upload/20211230/267/273001/12.jpg
+https://static5.hentai-cosplays.com/upload/20211208/248/253402/p=700/70.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/31 下午2:06:45</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/18 下午3:47:50</b></font><br>
+
+<font size="2"><b>
+Rinnie Riot – PS5 Chan - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/rinnie-riot--ps5-chan/
+
+https://static5.hentai-cosplays.com/upload/20211209/250/255900/p=700/72.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/18 下午3:47:26</b></font><br>
+
+<font size="2"><b>
+Rinnie Riot - Camie - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/rinnie-riot-camie-4/
+
+https://static6.hentai-cosplays.com/upload/20220112/276/282273/p=700/195.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/18 下午2:24:22</b></font><br>
+
+<font size="2"><b>
+Rinnie Riot - Rias Maid 2 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/rinnie-riot-rias-maid-2/
+
+https://static5.hentai-cosplays.com/upload/20211212/254/259561/p=700/23.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/18 下午2:22:43</b></font><br>
+
+<font size="2"><b>
+Rinnie Riot - Queen Bee Tifa - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/rinnie-riot-queen-bee-tifa/
+
+https://static5.hentai-cosplays.com/upload/20210808/235/240303/p=700/35.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/18 下午2:12:56</b></font><br>
 
 </textarea>
 </pre>

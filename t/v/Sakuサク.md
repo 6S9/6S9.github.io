@@ -29,31 +29,78 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static2.hentai-cosplays.com/upload/20180807/85/86864/p=700/39.jpg
-https://static2.hentai-cosplays.com/upload/20200324/160/163263/p=700/30.jpg
-https://static4.porn-images-xxx.com/upload/20200309/783/801588/p=700/30.jpg
+https://static3.hentai-cosplays.com/upload/20210106/206/210132/p=700/164.jpg
+https://static5.hentai-cosplays.com/upload/20211210/254/259398/p=700/3.jpg
+https://static2.hentai-cosplays.com/upload/20190906/135/137249/p=700/266.jpg
+https://static5.hentai-cosplays.com/upload/20211210/254/259397/p=700/3.jpg
+https://static5.hentai-cosplays.com/upload/20211210/254/259402/p=700/3.jpg
+https://static5.hentai-cosplays.com/upload/20211210/254/259401/p=700/3.jpg
+https://static5.hentai-cosplays.com/upload/20210812/236/240790/p=700/424.jpg
+https://static3.hentai-cosplays.com/upload/20201231/197/201550/p=700/50.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
 <font size="2"><b>
-きょう肉肉(nikumikyo) - きょう肉肉vol.7 メイド服 レムcosplay (動画入り) きょう肉肉(nikumikyo) - きょう肉肉vol.7 メイド服 レムcosplay (動画入り) - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/nikumikyo-vol7--cosplay--nikumikyo-vol7--cosplay-/
+[Shooting Star's (SAKU&SACHIBUDOU)] Si-ri2 (Shokaku & Zuikaku Racing Queens)(Azur Lane) - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/shooting-stars-sakusachibudou-si-ri2-shokaku--zuikaku-racing-queensazur-lane/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午2:14:14</b></font><br>
+https://static3.hentai-cosplays.com/upload/20210106/206/210132/p=700/164.jpg
 
-<font size="2"><b>
-日本肉肉女孩大尺度cosplay写真【新蔻島シンコウシ マ】vol.02 002白い包帯 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/japanese-meat-woman-large-scale-cosplay-photo-shin-yijima-shinkoshi-ma-vol02-002-white-bandage/
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午2:15:17</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/18 下午2:27:48</b></font><br>
 
 <font size="2"><b>
-新蔻島シンコウジマ vol.02 ちご下着 画像30枚 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/shinjojima-shinkoujima-vol02-chigo-underwear-30-images/
+2021 Summer Set - SM Police - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/2021-summer-set-sm-police/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午2:20:45</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:41:01</b></font><br>
+
+<font size="2"><b>
+SAKU AYAKA DANGEROUS BEAST - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/saku-ayaka-dangerous-beast/
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午2:39:55</b></font><br>
+
+<font size="2"><b>
+2021 Summer Set - Saku Saku Succubus 2 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/2021-summer-set-saku-saku-succubus-2/
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:41:50</b></font><br>
+
+<font size="2"><b>
+2021 Summer Set - Daemon 1 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/2021-summer-set-daemon-1/
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:43:05</b></font><br>
+
+<font size="2"><b>
+2021 Summer Set - Daemon 2 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/2021-summer-set-daemon-2/
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:42:57</b></font><br>
+
+<font size="2"><b>
+(C87) [Shooting Star's (サク)] 潜駆 (艦隊これくしょん -艦これ-) - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/c87-sakuing-stars-submarine-fleet-collection-ship-this-/
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:43:44</b></font><br>
+
+<font size="2"><b>
+2021 Summer Set - Mid Summer Pink 1 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/2021-summer-set-mid-summer-pink-1/
+
+https://static5.hentai-cosplays.com/upload/20211210/254/259399/p=700/3.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:48:28</b></font><br>
+
+<font size="2"><b>
+Saku サク, Fate day night, Toosaka Rin凜 , Shooting Star's True Set 1 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/saku--fate-day-night-toosaka-rin--shooting-stars-true-set-1/
+
+https://static3.hentai-cosplays.com/upload/20201231/197/201550/p=700/7.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:50:04</b></font><br>
 
 </textarea>
 </pre>

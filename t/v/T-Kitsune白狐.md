@@ -29,65 +29,45 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static2.hentai-cosplays.com/upload/20190717/133/136045/p=700/161.jpg
+https://static5.hentai-cosplays.com/upload/20211208/248/253233/p=700/18.jpg
+https://static6.hentai-cosplays.com/upload/20220111/275/281502/p=700/179.jpg
+https://static2.hentai-cosplays.com/upload/20200310/149/152080/p=700/16.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
 <font size="2"><b>
-[HERESY(林檎蜜紀)] エッチなマシュの人2 [HERESY(林檎蜜紀)] エッチなマシュの人2 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/heresy-2-heresy-2/
+Zero Two by Shiro Kitsune - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/zero-two-by-shiro-kitsune/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午2:41:26</b></font><br>
+https://static5.hentai-cosplays.com/upload/20211208/248/253233/p=700/18.jpg
 
-<font size="2"><b>
-[Nijou Asahi] AzureSunrise (Azur Lane) [二条あさひ] AzureSunrise (アズールレーン) - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/nijou-asahi-azuresunrise-azur-lane--azuresunrise-/
-
-https://static2.hentai-cosplays.com/upload/20201004/177/181190/511.jpg
-https://static2.hentai-cosplays.com/upload/20201004/177/181190/661.jpg
-
-https://static2.hentai-cosplays.com/upload/20201004/177/181190/p=700/782.jpg
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/21 下午2:43:37</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/17 上午10:37:56</b></font><br>
 
 <font size="2"><b>
-AVΗD101 高清在线谜片</b></font><br>
-https://cn1.ar101.blog/
+Shiro Kitsune - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/shiro-kitsune/
 
-https://m2.afast.ws/aodBz1mdXnw/images/cover.jpg
-https://m2.afast.ws/6R850jwbBwW/images/cover.jpg
-https://m2.afast.ws/kD8WYNM1Xm2/images/cover.jpg
-https://m2.afast.ws/Kq8w0pMpZ1x/images/cover.jpg
-https://m2.afast.ws/Kq8w0przZ1x/images/cover.jpg
-https://m2.afast.ws/3W8bvp0n8Oj/images/cover.jpg
-https://m2.afast.ws/MmZLPYjQZoz/images/cover.jpg
-https://m2.afast.ws/z18M6GQzZjL/images/cover.jpg
-https://m2.afast.ws/bgBVd26KZ2G/images/cover.jpg
-https://m2.afast.ws/L5ZJvR1mZYn/images/cover.jpg
-https://m2.afast.ws/MP8nEpv5ByD/images/cover.jpg
-https://m2.afast.ws/b7B06z5mZMz/images/cover.jpg
-https://m2.afast.ws/bgBVd2G1Z2G/images/cover.jpg
-https://m2.afast.ws/OoXo0pNyBxz/images/cover.jpg
+https://static6.hentai-cosplays.com/upload/20220111/275/281502/p=700/179.jpg
 
-https://m2.afast.ws/WR8mwGq3XEb/images/cover.jpg
-https://m2.afast.ws/anBaV9eK8bk/images/cover.jpg
-https://m2.afast.ws/peX2njWoXyg/images/cover.jpg
+<font size="1" style="color:#DCDCDC"><b>2022/1/17 上午10:23:04</b></font><br>
 
-https://m2.afast.ws/VJBkJPmqXye/images/cover.jpg
-https://m2.afast.ws/OoXo0wP7Bxz/images/cover.jpg
+<font size="2"><b>
+Shiro Kitsune - Ishtar Rider - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/shiro-kitsune-ishtar-rider/
 
-https://m2.afast.ws/xRXRW7a2BGn/images/cover.jpg
+<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午2:29:22</b></font><br>
 
-https://ads-g.juicyads.com/network/user155706/39410-1636702151-0782554001636702151.gif
-https://cdn.cloudimagesb.com/cti/56/8e/1d/568e1d92381e943d01ae860cd5ec84e5/1598020784.gif
-https://ads-g.juicyads.com/network/user155706/39410-1636702151-0782554001636702151.gif
+https://brumolat.com/content/MW039tRQOe1QsHa/img/article__img01.jpg
 
-https://cdnh.imagefap.com/images/thumb/76/139/1391132759.jpeg?se=1637234868&ss=23329a99cbe4168eef407578fff7242f
-https://cdnh.imagefap.com/images/thumb/107/549/549722125.jpeg?se=1637234633&ss=da51181a319efc36e89fc64c9c288933
+<font size="2"><b>
+Velvet-chann - Astolfo Astol iycing - 4 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/velvet-chann-astolfo-astol-iycing/page/4/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/16 下午2:44:22</b></font><br>
+https://static6.hentai-cosplays.com/upload/20220114/278/283832/36.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/14 下午3:00:34</b></font><br>
 
 </textarea>
 </pre>

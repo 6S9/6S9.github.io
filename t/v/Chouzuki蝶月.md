@@ -29,6 +29,7 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static2.hentai-cosplays.com/upload/20190714/133/135959/p=700/204.jpg
 https://static.hentai-cosplays.com/upload/20111128/3/2575/p=700/159.jpg
 https://static.hentai-cosplays.com/upload/20120405/3/2295/p=700/405.jpg
 https://static.hentai-cosplays.com/upload/20150510/6/5454/p=700/15.jpg
@@ -42,6 +43,14 @@ https://static.hentai-cosplays.com/upload/20160201/7/6955/p=700/12.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+<font size="2"><b>
+Succubus Trickster (Destiny Child) - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/succubus-trickster-destiny-child/
+
+https://static2.hentai-cosplays.com/upload/20190714/133/135959/p=700/204.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/18 下午2:44:12</b></font><br>
 
 <font size="2"><b>
 C80 [蝶月真稜] いっぱいおしおき - エロコスプレ</b></font><br>

@@ -29,62 +29,46 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static01.videos-upload.com/video/2021/1114/1l5b/image-013.jpg
-https://static01.videos-upload.com/video/2021/1114/1l4x/image-012.jpg
-https://static01.videos-upload.com/video/2021/1114/1l59/image-003.jpg
-https://static01.videos-upload.com/video/2021/1012/v/image-008.jpg
+https://static5.hentai-cosplays.com/upload/20210819/236/241392/p=700/32.jpg
+https://static4.hentai-cosplays.com/upload/20210619/227/232140/p=700/29.jpg
+https://static5.hentai-cosplays.com/upload/20211209/251/256391/p=700/39.jpg
+https://static5.hentai-cosplays.com/upload/20211209/251/256383/p=700/66.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
 <font size="2"><b>
-小尤奈 Xiaoyounai 23 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/xiaoyounai-23/
+[夏鴿鴿不想起床] 019 忍者2b - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/-recalled-floor-019-ninja-2b/
 
-小尤奈 Xiaoyounai 23 - エロコスプレ
+https://static5.hentai-cosplays.com/upload/20210819/236/241392/p=700/32.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午9:45:05</b></font><br>
-
-<font size="2"><b>
-小尤奈 Xiaoyounai 12 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/xiaoyounai-12/
-
-小尤奈 Xiaoyounai 12 - エロコスプレ
-
-<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午10:15:45</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/17 下午8:11:30</b></font><br>
 
 <font size="2"><b>
-ほしのうめ 13 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/hoshino-ying-13/
+夏鴿鴿不想起床 Yorkie_W Dead or Alive Honoka Cosplay - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/summer--recall-yorkie_w-dead-or-alive-honoka-cosplay/
 
-https://static01.videos-upload.com/video/2021/1114/1l5b/image-013.jpg
+https://static4.hentai-cosplays.com/upload/20210619/227/232140/p=700/29.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午2:03:20</b></font><br>
-
-<font size="2"><b>
-朝比奈みつき - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/mitsuki-asahina/
-
-https://static01.videos-upload.com/video/2021/1114/1l4x/image-012.jpg
-
-<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午2:05:54</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/17 下午8:08:17</b></font><br>
 
 <font size="2"><b>
-ほしのうめ 11 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/hoshino-ying-11/
+Yorkie 夏鸽鸽 – Ninja - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/yorkie-summer-sardine--ninja/
 
-https://static01.videos-upload.com/video/2021/1114/1l59/image-003.jpg
+https://static5.hentai-cosplays.com/upload/20211209/251/256391/p=700/39.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午2:09:43</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/17 下午7:53:03</b></font><br>
 
 <font size="2"><b>
-桃尻🍑サキュバス😈💕 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/peach-ass-succubus/
+Coser@水淼Aqua Vol.033 Black and white cat selfie black lingerie selfie - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/coser-water-basin-aqua-vol033-black-and-white-cat-selfie-black-lingerie-selfie/
 
-https://static01.videos-upload.com/video/2021/1012/v/image-008.jpg
+https://static5.hentai-cosplays.com/upload/20211209/251/256383/p=700/66.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午2:19:50</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/17 下午7:50:45</b></font><br>
 
 </textarea>
 </pre>
