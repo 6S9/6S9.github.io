@@ -44,7 +44,7 @@
 <script type="text/javascript">
 
 var __urlRegex = /(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig;
-var __imgRegex = /\.(?:jpe?g|gif|png)$/i;
+var __imgRegex = /\.(?:jpe?g|gif|png|webp)$/i;
 
 textToArray();
 loadparse();

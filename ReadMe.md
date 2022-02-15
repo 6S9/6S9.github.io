@@ -1,12 +1,20 @@
 ```note
 ### 4-⚡-5-💨-捷径
 ```
-**iTextPad**{:.h3}<br>
-<http://www.itextpad.com/JU2V3I4w5d>
-<http://www.itextpad.com/uCFinsm14P>
+**pMiUFOPZm8**{:.h3}<br>
+<https://itextpad.com/pMiUFOPZm8>
+<https://www.itextpad.com/pMiUFOPZm8>
+
+**ZippyJot**{:.h3}<br>
+<https://www.zippyjot.com/>
+
+**6S9**{:.h3}<br>
+<https://shrib.com/#6S9>
 
 **Pink x 6ch Gs**{:.h3}<br>
 <https://itextpad.com/PINkx6chGS>
+<http://www.itextpad.com/uCFinsm14P>
+<http://www.itextpad.com/JU2V3I4w5d>
 
 <https://github.com/6S9/6S9.github.io>
 
@@ -25,7 +33,7 @@
 <https://codepen.io/pen/>
 
 **GoofyPlay**{:.h3}<br>
-<https://www.lanzous.com/b844444>
+<https://www.lanzoui.com/b844444>
 
 **XiphFlac**{:.h3}<br>
 <https://xiph.org/flac/changelog.html>
