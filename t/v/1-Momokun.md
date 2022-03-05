@@ -29,88 +29,107 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static9.porn-images-xxx.com/upload/20211114/937/959280/p=700/13.jpg
-https://static5.hentai-cosplays.com/upload/20210716/229/234284/p=700/7.jpg
-https://static2.hentai-cosplays.com/upload/20201006/180/183304/p=700/21.jpg
-https://static2.hentai-cosplays.com/upload/20201006/180/183299/p=700/51.jpg
-https://static2.hentai-cosplays.com/upload/20201006/180/183298/p=700/25.jpg
-https://static2.hentai-cosplays.com/upload/20201006/180/183300/p=700/14.jpg
-https://static2.hentai-cosplays.com/upload/20201006/180/183318/p=700/25.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255537/p=700/25.jpg
-https://static5.hentai-cosplays.com/upload/20211027/245/250009/p=700/26.jpg
+https://static7.hentai-cosplays.com/upload/20220216/289/295848/p=700/27.jpg
+https://static5.hentai-cosplays.com/upload/20211209/251/256008/p=700/17.jpg
+https://static5.hentai-cosplays.com/upload/20211022/244/249183/p=700/59.jpg
+https://static5.hentai-cosplays.com/upload/20211209/250/255812/p=700/32.jpg
+https://static5.hentai-cosplays.com/upload/20211023/244/249721/p=700/22.jpg
+https://static5.hentai-cosplays.com/upload/20211022/244/249464/p=700/10.jpg
+https://static5.hentai-cosplays.com/upload/20211022/244/249465/p=700/17.jpg
+https://static5.hentai-cosplays.com/upload/20211023/244/249724/p=700/32.jpg
+https://static5.hentai-cosplays.com/upload/20211023/244/249730/p=700/7.jpg
+https://static5.hentai-cosplays.com/upload/20211023/244/249727/p=700/31.jpg
+https://static5.hentai-cosplays.com/upload/20211023/244/249723/p=700/20.jpg
+https://static5.hentai-cosplays.com/upload/20211023/244/249728/p=700/14.jpg
+https://static5.hentai-cosplays.com/upload/20211023/244/249726/p=700/14.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
-【アサガヲ特選】今日のコスプレ画像！！【21/11/13】 - ３次エロ画像 - エロ画像
-https://ja.porn-images-xxx.com/image/todays-cosplay-image--211113/
+Gabrielle Cooke - Takamaki Ann - エロコスプレ
+https://ja.hentai-cosplays.com/image/gabrielle-cooke-takamaki-ann/
 
-https://static9.porn-images-xxx.com/upload/20211114/937/959280/p=700/13.jpg
+https://static7.hentai-cosplays.com/upload/20220216/289/295848/p=700/27.jpg
+
+<font size="1" style="color:#DCDCDC">2022-02-23</font>
+
+Momokun - Meiko Shiraki 1 - エロコスプレ
+https://ja.hentai-cosplays.com/image/momokun-meiko-shiraki-1/
+
+https://static5.hentai-cosplays.com/upload/20211209/251/256008/p=700/17.jpg
 
 <font size="1" style="color:#DCDCDC">2022-02-22</font>
 
-QUEENIE CHUPPY - Tifa bunny - エロコスプレ
-https://ja.hentai-cosplays.com/image/queenie-chuppy-tifa-bunny/
+<font size="2"><b>
+Momokun - Shiranui Mai - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/momokun-shiranui-mai/
 
-https://static5.hentai-cosplays.com/upload/20210716/229/234284/p=700/7.jpg
+https://static5.hentai-cosplays.com/upload/20211022/244/249183/p=700/59.jpg
 
-<font size="1" style="color:#DCDCDC">2022-02-21</font>
-
-<h4 style="color:#1E90FF">QQueen - Nero 2 - エロコスプレ</h4>
-https://ja.hentai-cosplays.com/image/qqueen-nero-2/
-
-https://static2.hentai-cosplays.com/upload/20201006/180/183305/p=700/25.jpg
-
-<font size="1" style="color:#DCDCDC">2022/2/11 上午11:15:06</font>
-
-<h4 style="color:#1E90FF">QQueen - Hinata 2 - エロコスプレ</h4>
-https://ja.hentai-cosplays.com/image/qqueen-hinata-2/
-
-https://static2.hentai-cosplays.com/upload/20201006/180/183304/p=700/21.jpg
-
-<font size="1" style="color:#DCDCDC">2022/2/11 上午11:14:25</font>
-
-<h4 style="color:#1E90FF">QQueen - Shiraki Meiko 2 - エロコスプレ</h4>
-https://ja.hentai-cosplays.com/image/qqueen-shiraki-meiko-2/
-
-https://static2.hentai-cosplays.com/upload/20201006/180/183299/p=700/51.jpg
-
-<font size="1" style="color:#DCDCDC">2022/2/11 上午11:13:42</font>
-
-<h4 style="color:#1E90FF">QQueen - Shuten Douji 2 - エロコスプレ</h4>
-https://ja.hentai-cosplays.com/image/qqueen-shuten-douji-2/
-
-https://static2.hentai-cosplays.com/upload/20201006/180/183298/p=700/25.jpg
-
-<font size="1" style="color:#DCDCDC">2022/2/11 上午11:12:21</font>
-
-<h4 style="color:#1E90FF">QQueen - Emilia 1 - エロコスプレ</h4>
-https://ja.hentai-cosplays.com/image/qqueen-emilia-1/
-
-https://static2.hentai-cosplays.com/upload/20201006/180/183300/p=700/14.jpg
-
-<font size="1" style="color:#DCDCDC">2022/2/11 上午11:11:42</font>
+<font size="1" style="color:#DCDCDC"><b>2022/1/28 下午3:07:50</b></font><br>
 
 <font size="2"><b>
-QQueen - Hinata 3 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/qqueen-hinata-3/
+Momokun - Nurse Pochaco 1 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/momokun-nurse-pochaco-1/
 
-https://static2.hentai-cosplays.com/upload/20201006/180/183318/p=700/25.jpg
+https://static5.hentai-cosplays.com/upload/20211209/250/255812/p=700/32.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2022/2/2 下午10:59:32</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2022/1/12 下午2:22:33</b></font><br>
+
+<font size="3"><b>
+Momokun - Pochaco gym - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/momokun-pochaco-gym/
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/15 上午10:25:46</b></font><br>
 
 <font size="2"><b>
-[QUEENIE CHUPPY] Hatsune Miku (VOCALOID) 1 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/queenie-chuppy-hatsune-miku-vocaloid-1/
+Momokun - Prison School Collab (Ft. Miso Tokki _amp_ Aly Brazil) - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/momokun-prison-school-collab-ft-miso-tokki-_amp_-aly-brazil/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午2:07:56</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午1:47:32</b></font><br>
 
 <font size="2"><b>
-[QUEENIE CHUPPY] Rin Tohsaka (Fate/stay night) - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/queenie-chuppy-rin-tohsaka-fatestay-night/
+Momokun - Meiko Shiraki - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/momokun-meiko-shiraki/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午5:20:18</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午1:48:58</b></font><br>
+
+<font size="2"><b>
+Momokun - Nurse Pochaco - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/momokun-nurse-pochaco/
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午1:46:47</b></font><br>
+
+<font size="2"><b>
+Momokun - Sonico Pochaco Gym Uniform (ft. Miso Tokki) - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/momokun-sonico-pochaco-gym-uniform-ft-miso-tokki/
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/15 上午10:29:29</b></font><br>
+
+<font size="2"><b>
+Momokun - Pochaco Pajamas - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/momokun-pochaco-pajamas/
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/15 上午10:27:16</b></font><br>
+
+<font size="2"><b>
+Momokun - Puppy Pochaco - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/momokun-puppy-pochaco/
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/15 上午10:30:04</b></font><br>
+
+<font size="2"><b>
+Momokun - Pochaco Virgin Killer - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/momokun-pochaco-virgin-killer-1/
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午1:41:34</b></font><br>
+
+<font size="2"><b>
+Momokun - Pochaco Campus Life - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/momokun-pochaco-campus-life/
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午1:51:25</b></font><br>
 
 </textarea>
 </pre>

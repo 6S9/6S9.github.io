@@ -29,6 +29,12 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static5.hentai-cosplays.com/upload/20211209/252/257127/p=700/13.jpg
+https://static5.hentai-cosplays.com/upload/20211209/252/257116/p=700/38.jpg
+https://static7.hentai-cosplays.com/upload/20220128/287/293822/p=700/26.jpg
+https://static5.hentai-cosplays.com/upload/20211209/252/257122/p=700/21.jpg
+https://static7.hentai-cosplays.com/upload/20220202/288/294253/p=700/10.jpg
+https://static7.hentai-cosplays.com/upload/20220215/289/295636/p=700/3.jpg
 https://static6.hentai-cosplays.com/upload/20211215/256/261955/p=700/60.jpg
 https://static5.hentai-cosplays.com/upload/20210825/237/242148/p=700/35.jpg
 https://static3.porn-images-xxx.com/upload/20180930/594/607757/p=700/7.jpg
@@ -53,6 +59,47 @@ https://static5.hentai-cosplays.com/upload/20211109/246/251102/p=700/45.jpg
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
+雨波HaneAme - 2B Wedding suit - エロコスプレ
+https://ja.hentai-cosplays.com/image/rain-wave-haneame-2b-wedding-suit/
+
+https://static5.hentai-cosplays.com/upload/20211209/252/257127/p=700/13.jpg
+
+<font size="1" style="color:#DCDCDC">2022-02-22</font>
+
+雨波HaneAme - 2B Bride - エロコスプレ
+https://ja.hentai-cosplays.com/image/rain-wave-haneame-2b-bride/
+
+https://static5.hentai-cosplays.com/upload/20211209/252/257116/p=700/38.jpg
+
+<font size="1" style="color:#DCDCDC">2022-02-22</font>
+
+HaneAme - Hololive Ina - エロコスプレ
+https://ja.hentai-cosplays.com/image/haneame-hololive-ina/
+
+https://static7.hentai-cosplays.com/upload/20220128/287/293822/p=700/26.jpg
+
+<font size="1" style="color:#DCDCDC">2022-02-22</font>
+
+雨波HaneAme - 2B Neko Lingerie - エロコスプレ
+https://ja.hentai-cosplays.com/image/rain-wave-haneame-2b-neko-lingerie/
+
+https://static5.hentai-cosplays.com/upload/20211209/252/257122/p=700/21.jpg
+
+<font size="1" style="color:#DCDCDC">2022-02-22</font>
+
+Asagi Igawa by HaneAme - エロコスプレ
+https://ja.hentai-cosplays.com/image/asagi-igawa-by-haneame/
+
+https://static7.hentai-cosplays.com/upload/20220202/288/294253/p=700/10.jpg
+
+<font size="1" style="color:#DCDCDC">2022-02-21</font>
+
+DemonSlayer Daki cosplay by HaneAme - エロコスプレ
+https://ja.hentai-cosplays.com/image/demonslayer-daki-cosplay-by-haneame/
+
+https://static7.hentai-cosplays.com/upload/20220215/289/295636/p=700/3.jpg
+
+<font size="1" style="color:#DCDCDC">2022-02-21</font>
 <h4 style="color:#1E90FF">【雨波_HaneAme】圣路易斯 1 - エロコスプレ</h4>
 https://ja.hentai-cosplays.com/image/rain-wave-_haneame-1/
 

@@ -29,12 +29,20 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static7.hentai-cosplays.com/upload/20220220/290/296320/p=700/51.jpg
 https://static7.hentai-cosplays.com/upload/20220207/288/294712/p=700/56.jpg
 https://static5.hentai-cosplays.com/upload/20210718/229/234410/p=700/91.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+[DJAWA] Kang Inkyung - Maid in Lace Limitation 写真套图 1 - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa-kang-inkyung-maid-in-lacet-photo-cloak-1/
+
+https://static7.hentai-cosplays.com/upload/20220220/290/296320/p=700/51.jpg
+
+<font size="1" style="color:#DCDCDC">2022-02-22</font>
 
 <font size="2"><b>
 Son Ye-Eun (손예은) -DJAWA Photo - [Squid Game] Triangle Soldier - エロコスプレ</b></font><br>

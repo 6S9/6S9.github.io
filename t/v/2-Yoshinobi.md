@@ -29,92 +29,25 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static5.hentai-cosplays.com/upload/20211022/244/249183/p=700/59.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255812/p=700/32.jpg
-https://static5.hentai-cosplays.com/upload/20211023/244/249721/p=700/22.jpg
-https://static5.hentai-cosplays.com/upload/20211022/244/249464/p=700/10.jpg
-https://static5.hentai-cosplays.com/upload/20211022/244/249465/p=700/17.jpg
-https://static5.hentai-cosplays.com/upload/20211023/244/249724/p=700/32.jpg
-https://static5.hentai-cosplays.com/upload/20211023/244/249730/p=700/7.jpg
-https://static5.hentai-cosplays.com/upload/20211023/244/249727/p=700/31.jpg
-https://static5.hentai-cosplays.com/upload/20211023/244/249723/p=700/20.jpg
-https://static5.hentai-cosplays.com/upload/20211023/244/249728/p=700/14.jpg
-https://static5.hentai-cosplays.com/upload/20211023/244/249726/p=700/14.jpg
+https://static4.hentai-cosplays.com/upload/20210424/223/227778/p=700/45.jpg
+https://static6.hentai-cosplays.com/upload/20220108/274/280246/p=700/35.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
-<font size="2"><b>
-Momokun - Shiranui Mai - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/momokun-shiranui-mai/
+Yoshinobi - Riko Sakurauchi - エロコスプレ
+https://ja.hentai-cosplays.com/image/yoshinobi-riko-sakurauchi/
 
-https://static5.hentai-cosplays.com/upload/20211022/244/249183/p=700/59.jpg
+https://static4.hentai-cosplays.com/upload/20210424/223/227778/p=700/45.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2022/1/28 下午3:07:50</b></font><br>
+<font size="1" style="color:#DCDCDC">2022-02-21</font>
+Yoshinobi - Kokomi - エロコスプレ
+https://ja.hentai-cosplays.com/image/yoshinobi-kokomi/
 
-<font size="2"><b>
-Momokun - Nurse Pochaco 1 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/momokun-nurse-pochaco-1/
+https://static6.hentai-cosplays.com/upload/20220108/274/280246/p=700/35.jpg
 
-https://static5.hentai-cosplays.com/upload/20211209/250/255812/p=700/32.jpg
-
-<font size="1" style="color:#DCDCDC"><b>2022/1/12 下午2:22:33</b></font><br>
-
-<font size="3"><b>
-Momokun - Pochaco gym - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/momokun-pochaco-gym/
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 上午10:25:46</b></font><br>
-
-<font size="2"><b>
-Momokun - Prison School Collab (Ft. Miso Tokki _amp_ Aly Brazil) - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/momokun-prison-school-collab-ft-miso-tokki-_amp_-aly-brazil/
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午1:47:32</b></font><br>
-
-<font size="2"><b>
-Momokun - Meiko Shiraki - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/momokun-meiko-shiraki/
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午1:48:58</b></font><br>
-
-<font size="2"><b>
-Momokun - Nurse Pochaco - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/momokun-nurse-pochaco/
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午1:46:47</b></font><br>
-
-<font size="2"><b>
-Momokun - Sonico Pochaco Gym Uniform (ft. Miso Tokki) - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/momokun-sonico-pochaco-gym-uniform-ft-miso-tokki/
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 上午10:29:29</b></font><br>
-
-<font size="2"><b>
-Momokun - Pochaco Pajamas - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/momokun-pochaco-pajamas/
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 上午10:27:16</b></font><br>
-
-<font size="2"><b>
-Momokun - Puppy Pochaco - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/momokun-puppy-pochaco/
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 上午10:30:04</b></font><br>
-
-<font size="2"><b>
-Momokun - Pochaco Virgin Killer - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/momokun-pochaco-virgin-killer-1/
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午1:41:34</b></font><br>
-
-<font size="2"><b>
-Momokun - Pochaco Campus Life - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/momokun-pochaco-campus-life/
-
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午1:51:25</b></font><br>
-
+<font size="1" style="color:#DCDCDC">2022-02-21</font>
 </textarea>
 </pre>
 
@@ -126,7 +59,7 @@ https://ja.hentai-cosplays.com/image/momokun-pochaco-campus-life/
 <script type="text/javascript">
 
 var __urlRegex = /(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig;
-var __imgRegex = /\.(?:jpe?g|gif|png)$/i;
+var __imgRegex = /\.(?:jpe?g|gif|png|webp)$/i;
 
 textToArray();
 loadparse();

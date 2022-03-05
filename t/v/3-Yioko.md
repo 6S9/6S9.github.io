@@ -30,7 +30,8 @@
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
 https://static5.hentai-cosplays.com/upload/20211004/241/246189/p=700/15.jpg
-https://static5.hentai-cosplays.com/upload/20211208/248/253688/p=700/42.jpg
+https://static5.hentai-cosplays.com/upload/20211208/248/253688/p=700/42.
+https://static5.hentai-cosplays.com/upload/20211209/252/257429/p=700/711.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
@@ -51,6 +52,13 @@ https://ja.hentai-cosplays.com/image/coserrioko-ko-vol028-reameruation-self-op/
 https://static5.hentai-cosplays.com/upload/20211208/248/253688/p=700/42.jpg
 
 <font size="1" style="color:#DCDCDC"><b>2022/1/30 下午4:00:44</b></font><br>
+
+白银さんのコスプレ画像300枚 ぱんつはいてないえちえち zg人コスプレイヤー - エロコスプレ
+https://ja.hentai-cosplays.com/image/hakuba-sans-cosplay-image-300-sheets-panpata-echiechi-chinese-cosplayer/
+
+https://static5.hentai-cosplays.com/upload/20211209/252/257429/p=700/711.jpg
+
+<font size="1" style="color:#DCDCDC">2022-02-21</font>
 
 </textarea>
 </pre>

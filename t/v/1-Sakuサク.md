@@ -29,88 +29,101 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static9.porn-images-xxx.com/upload/20211114/937/959280/p=700/13.jpg
-https://static5.hentai-cosplays.com/upload/20210716/229/234284/p=700/7.jpg
-https://static2.hentai-cosplays.com/upload/20201006/180/183304/p=700/21.jpg
-https://static2.hentai-cosplays.com/upload/20201006/180/183299/p=700/51.jpg
-https://static2.hentai-cosplays.com/upload/20201006/180/183298/p=700/25.jpg
-https://static2.hentai-cosplays.com/upload/20201006/180/183300/p=700/14.jpg
-https://static2.hentai-cosplays.com/upload/20201006/180/183318/p=700/25.jpg
-https://static5.hentai-cosplays.com/upload/20211209/250/255537/p=700/25.jpg
-https://static5.hentai-cosplays.com/upload/20211027/245/250009/p=700/26.jpg
+https://static2.hentai-cosplays.com/upload/20180115/75/76588/p=700/210.jpg
+https://static5.hentai-cosplays.com/upload/20211209/251/256385/p=700/283.jpg
+https://static5.hentai-cosplays.com/upload/20211208/249/254165/p=700/94.jpg
+https://static3.hentai-cosplays.com/upload/20210106/206/210132/p=700/164.jpg
+https://static5.hentai-cosplays.com/upload/20211210/254/259398/p=700/3.jpg
+https://static2.hentai-cosplays.com/upload/20190906/135/137249/p=700/266.jpg
+https://static5.hentai-cosplays.com/upload/20211210/254/259397/p=700/3.jpg
+https://static5.hentai-cosplays.com/upload/20211210/254/259402/p=700/3.jpg
+https://static5.hentai-cosplays.com/upload/20211210/254/259401/p=700/3.jpg
+https://static5.hentai-cosplays.com/upload/20210812/236/240790/p=700/424.jpg
+https://static3.hentai-cosplays.com/upload/20201231/197/201550/p=700/50.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
-【アサガヲ特選】今日のコスプレ画像！！【21/11/13】 - ３次エロ画像 - エロ画像
-https://ja.porn-images-xxx.com/image/todays-cosplay-image--211113/
+[Shooting Star's (Saku)] 黒透け来航 - エロコスプレ
+https://ja.hentai-cosplays.com/image/shooting-stars-saku-/
 
-https://static9.porn-images-xxx.com/upload/20211114/937/959280/p=700/13.jpg
+https://static2.hentai-cosplays.com/upload/20180115/75/76588/p=700/210.jpg
 
-<font size="1" style="color:#DCDCDC">2022-02-22</font>
+<font size="1" style="color:#DCDCDC">2022-02-23</font>
 
-QUEENIE CHUPPY - Tifa bunny - エロコスプレ
-https://ja.hentai-cosplays.com/image/queenie-chuppy-tifa-bunny/
+サク(saku)さんのコスプレ画像100枚 巨乳コスプレイヤー 奇跡の体型でお乳もお尻もえちえちすぎる - エロコスプレ
+https://ja.hentai-cosplays.com/image/100-cosplay-images-of-saku-busty-cosplayer-with-a-miraculous-body-shape-milk-and-buttocks-are-too-much/
 
-https://static5.hentai-cosplays.com/upload/20210716/229/234284/p=700/7.jpg
+https://static5.hentai-cosplays.com/upload/20211209/251/256385/p=700/283.jpg
 
 <font size="1" style="color:#DCDCDC">2022-02-21</font>
 
-<h4 style="color:#1E90FF">QQueen - Nero 2 - エロコスプレ</h4>
-https://ja.hentai-cosplays.com/image/qqueen-nero-2/
+Coser@SAKU LOVE MAID 4 - エロコスプレ
+https://ja.hentai-cosplays.com/image/cosersaku-love-maid-4/
 
-https://static2.hentai-cosplays.com/upload/20201006/180/183305/p=700/25.jpg
+https://static5.hentai-cosplays.com/upload/20211208/249/254165/p=700/94.jpg
 
-<font size="1" style="color:#DCDCDC">2022/2/11 上午11:15:06</font>
+<font size="1" style="color:#DCDCDC">2022-02-21</font>
+<font size="2"><b>
+[Shooting Star's (SAKU&SACHIBUDOU)] Si-ri2 (Shokaku & Zuikaku Racing Queens)(Azur Lane) - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/shooting-stars-sakusachibudou-si-ri2-shokaku--zuikaku-racing-queensazur-lane/
 
-<h4 style="color:#1E90FF">QQueen - Hinata 2 - エロコスプレ</h4>
-https://ja.hentai-cosplays.com/image/qqueen-hinata-2/
+https://static3.hentai-cosplays.com/upload/20210106/206/210132/p=700/164.jpg
 
-https://static2.hentai-cosplays.com/upload/20201006/180/183304/p=700/21.jpg
-
-<font size="1" style="color:#DCDCDC">2022/2/11 上午11:14:25</font>
-
-<h4 style="color:#1E90FF">QQueen - Shiraki Meiko 2 - エロコスプレ</h4>
-https://ja.hentai-cosplays.com/image/qqueen-shiraki-meiko-2/
-
-https://static2.hentai-cosplays.com/upload/20201006/180/183299/p=700/51.jpg
-
-<font size="1" style="color:#DCDCDC">2022/2/11 上午11:13:42</font>
-
-<h4 style="color:#1E90FF">QQueen - Shuten Douji 2 - エロコスプレ</h4>
-https://ja.hentai-cosplays.com/image/qqueen-shuten-douji-2/
-
-https://static2.hentai-cosplays.com/upload/20201006/180/183298/p=700/25.jpg
-
-<font size="1" style="color:#DCDCDC">2022/2/11 上午11:12:21</font>
-
-<h4 style="color:#1E90FF">QQueen - Emilia 1 - エロコスプレ</h4>
-https://ja.hentai-cosplays.com/image/qqueen-emilia-1/
-
-https://static2.hentai-cosplays.com/upload/20201006/180/183300/p=700/14.jpg
-
-<font size="1" style="color:#DCDCDC">2022/2/11 上午11:11:42</font>
+<font size="1" style="color:#DCDCDC"><b>2022/1/18 下午2:27:48</b></font><br>
 
 <font size="2"><b>
-QQueen - Hinata 3 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/qqueen-hinata-3/
+2021 Summer Set - SM Police - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/2021-summer-set-sm-police/
 
-https://static2.hentai-cosplays.com/upload/20201006/180/183318/p=700/25.jpg
-
-<font size="1" style="color:#DCDCDC"><b>2022/2/2 下午10:59:32</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:41:01</b></font><br>
 
 <font size="2"><b>
-[QUEENIE CHUPPY] Hatsune Miku (VOCALOID) 1 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/queenie-chuppy-hatsune-miku-vocaloid-1/
+SAKU AYAKA DANGEROUS BEAST - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/saku-ayaka-dangerous-beast/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午2:07:56</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午2:39:55</b></font><br>
 
 <font size="2"><b>
-[QUEENIE CHUPPY] Rin Tohsaka (Fate/stay night) - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/queenie-chuppy-rin-tohsaka-fatestay-night/
+2021 Summer Set - Saku Saku Succubus 2 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/2021-summer-set-saku-saku-succubus-2/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午5:20:18</b></font><br>
+<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:41:50</b></font><br>
+
+<font size="2"><b>
+2021 Summer Set - Daemon 1 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/2021-summer-set-daemon-1/
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:43:05</b></font><br>
+
+<font size="2"><b>
+2021 Summer Set - Daemon 2 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/2021-summer-set-daemon-2/
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:42:57</b></font><br>
+
+<font size="2"><b>
+(C87) [Shooting Star's (サク)] 潜駆 (艦隊これくしょん -艦これ-) - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/c87-sakuing-stars-submarine-fleet-collection-ship-this-/
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:43:44</b></font><br>
+
+<font size="2"><b>
+2021 Summer Set - Mid Summer Pink 1 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/2021-summer-set-mid-summer-pink-1/
+
+https://static5.hentai-cosplays.com/upload/20211210/254/259399/p=700/3.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:48:28</b></font><br>
+
+<font size="2"><b>
+Saku サク, Fate day night, Toosaka Rin凜 , Shooting Star's True Set 1 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/saku--fate-day-night-toosaka-rin--shooting-stars-true-set-1/
+
+https://static3.hentai-cosplays.com/upload/20201231/197/201550/p=700/7.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/14 下午1:50:04</b></font><br>
 
 </textarea>
 </pre>

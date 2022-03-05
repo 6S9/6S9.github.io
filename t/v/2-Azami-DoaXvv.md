@@ -29,6 +29,7 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static7.hentai-cosplays.com/upload/20220209/289/294913/p=700/20.jpg
 https://static7.hentai-cosplays.com/upload/20220207/288/294738/p=700/10.jpg
 https://static7.hentai-cosplays.com/upload/20220203/288/294341/p=700/9.jpg
 https://static5.hentai-cosplays.com/upload/20211025/245/249911/p=700/42.jpg
@@ -55,6 +56,12 @@ https://static8.porn-images-xxx.com/upload/20210307/905/926695/p=700/109.jpg
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
+Azami - Sucrose - エロコスプレ
+https://ja.hentai-cosplays.com/image/azami-sucrose/
+
+https://static7.hentai-cosplays.com/upload/20220209/289/294913/p=700/20.jpg
+
+<font size="1" style="color:#DCDCDC">2022-02-21</font>
 <font size="2"><b>
 Azami - Jinx - エロコスプレ</b></font><br>
 https://ja.hentai-cosplays.com/image/azami-jinx/

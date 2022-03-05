@@ -29,58 +29,18 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static7.hentai-cosplays.com/upload/20220213/289/295488/p=700/61.jpg
-https://static7.hentai-cosplays.com/upload/20220213/289/295490/p=700/169.jpg
-https://static7.hentai-cosplays.com/upload/20220213/289/295489/p=700/80.jpg
-https://static7.hentai-cosplays.com/upload/20220213/289/295491/p=700/45.jpg
-https://static7.hentai-cosplays.com/upload/20220215/289/295724/p=700/55.jpg
-https://static7.hentai-cosplays.com/upload/20220214/289/295500/p=700/85.jpg
+https://static5.hentai-cosplays.com/upload/20211209/251/256739/p=700/388.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
-Sunnyvier - 2B Neko - エロコスプレ
-https://ja.hentai-cosplays.com/image/sunnyvier-2b-neko/
+水淼Aquaさんのコスプレ画像300枚 zg人コスプレイヤー 露出とテカテカの体がえちえちすぎ - エロコスプレ
+https://ja.hentai-cosplays.com/image/300-images-of-mizuki-aquas-cosplay-images-chinese-cosplayer-exposure-and-tecatekas-body-are-too-cute/
 
-https://static7.hentai-cosplays.com/upload/20220213/289/295488/p=700/61.jpg
-
-<font size="1" style="color:#DCDCDC">2022-02-22</font>
-
-Sunnyvier - Android 18 Bunny Maid - エロコスプレ
-https://ja.hentai-cosplays.com/image/sunnyvier-android-18-bunny-maid/
-
-https://static7.hentai-cosplays.com/upload/20220213/289/295490/p=700/169.jpg
-
-<font size="1" style="color:#DCDCDC">2022-02-22</font>
-
-Sunnyvier - Keqing - エロコスプレ
-https://ja.hentai-cosplays.com/image/sunnyvier-keqing/
-
-https://static7.hentai-cosplays.com/upload/20220213/289/295489/p=700/80.jpg
-
-<font size="1" style="color:#DCDCDC">2022-02-22</font>
-
-Sunnyvier - Hatsune Miku Black Tape - エロコスプレ
-https://ja.hentai-cosplays.com/image/sunnyvier-hatsune-miku-black-tape/
-
-https://static7.hentai-cosplays.com/upload/20220213/289/295491/p=700/45.jpg
-
-<font size="1" style="color:#DCDCDC">2022-02-22</font>
-
-Sunnyvier - Raiden Shogun - エロコスプレ
-https://ja.hentai-cosplays.com/image/sunnyvier-raiden-shogun/
-
-https://static7.hentai-cosplays.com/upload/20220215/289/295724/p=700/55.jpg
+https://static5.hentai-cosplays.com/upload/20211209/251/256739/p=700/388.jpg
 
 <font size="1" style="color:#DCDCDC">2022-02-21</font>
-
-<h4 style="color:#1E90FF">Sunnyvier - Sukuna (Jujutsu Kaisen) Sunnyvier - Sukuna (Jujutsu Kaisen) - エロコスプレ</h4>
-https://ja.hentai-cosplays.com/image/sunnyvier-sukuna-jujutsu-kaisen-sunnyvier-sukuna-jujutsu-kaisen/
-
-https://static7.hentai-cosplays.com/upload/20220214/289/295500/p=700/85.jpg
-
-<font size="1" style="color:#DCDCDC">2022/2/15 下午2:15:39</font>
 
 </textarea>
 </pre>
