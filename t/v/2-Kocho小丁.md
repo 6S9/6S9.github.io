@@ -29,6 +29,7 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static6.hentai-cosplays.com/upload/20211220/260/266019/p=700/23.jpg
 https://static6.hentai-cosplays.com/upload/20211222/262/267432/p=700/25.jpg
 https://static7.hentai-cosplays.com/upload/20220208/288/294837/p=700/194.jpg
 https://static6.hentai-cosplays.com/upload/20211219/260/265518/p=700/18.jpg
@@ -47,6 +48,13 @@ https://static2.hentai-cosplays.com/upload/20200922/176/179771/p=700/64.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+[Fantasy Factory]明日方舟 W - エロコスプレ
+https://ja.hentai-cosplays.com/image/fantasy-factory-tomorrow-ark-w/
+
+https://static6.hentai-cosplays.com/upload/20211220/260/266019/p=700/23.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-07</font>
 
 <h4 style="color:#1E90FF">[Fantasy Factory 小丁] - Shuten Douji - エロコスプレ</h4>
 https://ja.hentai-cosplays.com/image/fantasy-factory-alley-shuten-douji/

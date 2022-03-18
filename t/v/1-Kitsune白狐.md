@@ -29,33 +29,70 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static6.hentai-cosplays.com/upload/20211218/259/264283/p=700/45.jpg
-https://static4.hentai-cosplays.com/upload/20210424/223/227778/p=700/45.jpg
-https://static6.hentai-cosplays.com/upload/20220108/274/280246/p=700/35.jpg
+https://static2.hentai-cosplays.com/upload/20200309/149/152062/p=700/30.jpg
+https://static2.hentai-cosplays.com/upload/20200515/164/167594/p=700/50.jpg
+https://static5.hentai-cosplays.com/upload/20211209/252/257175/p=700/44.jpg
+https://static5.hentai-cosplays.com/upload/20211208/248/253233/p=700/18.jpg
+https://static6.hentai-cosplays.com/upload/20220111/275/281502/p=700/179.jpg
+https://static2.hentai-cosplays.com/upload/20200310/149/152080/p=700/16.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
-Yoshinobi - Riko Sakurauchi 2 - エロコスプレ
-https://ja.hentai-cosplays.com/image/yoshinobi-riko-sakurauchi-2/
+ShiroKitsune - Queen Medb - エロコスプレ
+https://ja.hentai-cosplays.com/image/shirokitsune-queen-medb/
 
-https://static6.hentai-cosplays.com/upload/20211218/259/264283/p=700/45.jpg
+https://static2.hentai-cosplays.com/upload/20200309/149/152062/p=700/30.jpg
 
-<font size="1" style="color:#DCDCDC">2022-03-07</font>
+<font size="1" style="color:#DCDCDC">2022-03-13</font>
 
-Yoshinobi - Riko Sakurauchi - エロコスプレ
-https://ja.hentai-cosplays.com/image/yoshinobi-riko-sakurauchi/
+ShiroKitsune - Rei Ayanami - エロコスプレ
+https://ja.hentai-cosplays.com/image/shirokitsune-rei-ayanami/
 
-https://static4.hentai-cosplays.com/upload/20210424/223/227778/p=700/45.jpg
+https://static2.hentai-cosplays.com/upload/20200515/164/167594/p=700/50.jpg
 
-<font size="1" style="color:#DCDCDC">2022-02-21</font>
-Yoshinobi - Kokomi - エロコスプレ
-https://ja.hentai-cosplays.com/image/yoshinobi-kokomi/
+<font size="1" style="color:#DCDCDC">2022-03-13</font>
 
-https://static6.hentai-cosplays.com/upload/20220108/274/280246/p=700/35.jpg
+<h4 style="color:#1E90FF">ShiroKitsune - Ganyu (Genshin Impact) 1 - エロコスプレ</h4>
+https://ja.hentai-cosplays.com/image/shirokitsune-ganyu-genshin-impact-1/
 
-<font size="1" style="color:#DCDCDC">2022-02-21</font>
+https://static5.hentai-cosplays.com/upload/20211209/252/257175/p=700/44.jpg
+
+<font size="1" style="color:#DCDCDC">2022/2/11 上午10:55:48</font>
+
+<font size="2"><b>
+Zero Two by Shiro Kitsune - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/zero-two-by-shiro-kitsune/
+
+https://static5.hentai-cosplays.com/upload/20211208/248/253233/p=700/18.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/17 上午10:37:56</b></font><br>
+
+<font size="2"><b>
+Shiro Kitsune - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/shiro-kitsune/
+
+https://static6.hentai-cosplays.com/upload/20220111/275/281502/p=700/179.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/17 上午10:23:04</b></font><br>
+
+<font size="2"><b>
+Shiro Kitsune - Ishtar Rider - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/shiro-kitsune-ishtar-rider/
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午2:29:22</b></font><br>
+
+https://brumolat.com/content/MW039tRQOe1QsHa/img/article__img01.jpg
+
+<font size="2"><b>
+Velvet-chann - Astolfo Astol iycing - 4 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/velvet-chann-astolfo-astol-iycing/page/4/
+
+https://static6.hentai-cosplays.com/upload/20220114/278/283832/36.jpg
+
+<font size="1" style="color:#DCDCDC"><b>2022/1/14 下午3:00:34</b></font><br>
+
 </textarea>
 </pre>
 
@@ -67,7 +104,7 @@ https://static6.hentai-cosplays.com/upload/20220108/274/280246/p=700/35.jpg
 <script type="text/javascript">
 
 var __urlRegex = /(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig;
-var __imgRegex = /\.(?:jpe?g|gif|png|webp)$/i;
+var __imgRegex = /\.(?:jpe?g|gif|png)$/i;
 
 textToArray();
 loadparse();

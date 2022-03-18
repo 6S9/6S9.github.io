@@ -29,33 +29,51 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static6.hentai-cosplays.com/upload/20211218/259/264283/p=700/45.jpg
-https://static4.hentai-cosplays.com/upload/20210424/223/227778/p=700/45.jpg
-https://static6.hentai-cosplays.com/upload/20220108/274/280246/p=700/35.jpg
+https://static7.hentai-cosplays.com/upload/20220224/290/296817/p=700/31.jpg
+https://static7.hentai-cosplays.com/upload/20220224/290/296812/p=700/24.jpg
+https://static7.hentai-cosplays.com/upload/20220224/290/296819/p=700/31.jpg
+https://static6.hentai-cosplays.com/upload/20211222/262/267465/p=700/13.jpg
+https://static7.hentai-cosplays.com/upload/20220224/290/296815/p=700/51.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
-Yoshinobi - Riko Sakurauchi 2 - エロコスプレ
-https://ja.hentai-cosplays.com/image/yoshinobi-riko-sakurauchi-2/
+[爆机少女喵小吉] 尼尔 机械纪元 花嫁 1 - エロコスプレ
+https://ja.hentai-cosplays.com/image/bakusakusaku-shoujo-kokichi-1/
 
-https://static6.hentai-cosplays.com/upload/20211218/259/264283/p=700/45.jpg
+https://static7.hentai-cosplays.com/upload/20220224/290/296817/p=700/31.jpg
 
 <font size="1" style="color:#DCDCDC">2022-03-07</font>
 
-Yoshinobi - Riko Sakurauchi - エロコスプレ
-https://ja.hentai-cosplays.com/image/yoshinobi-riko-sakurauchi/
+[爆机少女喵小吉] 骸骨少女 - エロコスプレ
+https://ja.hentai-cosplays.com/image/baku-desk-girl-kokichi-skeleton-girl/
 
-https://static4.hentai-cosplays.com/upload/20210424/223/227778/p=700/45.jpg
+https://static7.hentai-cosplays.com/upload/20220224/290/296812/p=700/24.jpg
 
-<font size="1" style="color:#DCDCDC">2022-02-21</font>
-Yoshinobi - Kokomi - エロコスプレ
-https://ja.hentai-cosplays.com/image/yoshinobi-kokomi/
+<font size="1" style="color:#DCDCDC">2022-03-07</font>
 
-https://static6.hentai-cosplays.com/upload/20220108/274/280246/p=700/35.jpg
+[爆机少女喵小吉] Reゼロから始める異世界生活 - エロコスプレ
+https://ja.hentai-cosplays.com/image/baku-desk-girl-kokichi-life-in-a-different-world-starting-from-re-zero/
 
-<font size="1" style="color:#DCDCDC">2022-02-21</font>
+https://static7.hentai-cosplays.com/upload/20220224/290/296819/p=700/31.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-07</font>
+
+【爆机少女喵小吉】尼尔机械纪元-人形兵器 - エロコスプレ
+https://ja.hentai-cosplays.com/image/--776/
+
+https://static6.hentai-cosplays.com/upload/20211222/262/267465/p=700/13.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-07</font>
+
+[爆机少女喵小吉] 永恒魅魔 - エロコスプレ
+https://ja.hentai-cosplays.com/image/bakusakusune-girl-kokichi/
+
+https://static7.hentai-cosplays.com/upload/20220224/290/296815/p=700/51.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-07</font>
+
 </textarea>
 </pre>
 

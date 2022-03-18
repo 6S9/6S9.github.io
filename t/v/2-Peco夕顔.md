@@ -29,33 +29,27 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static6.hentai-cosplays.com/upload/20211218/259/264283/p=700/45.jpg
-https://static4.hentai-cosplays.com/upload/20210424/223/227778/p=700/45.jpg
-https://static6.hentai-cosplays.com/upload/20220108/274/280246/p=700/35.jpg
+https://static6.hentai-cosplays.com/upload/20211231/268/273785/p=700/191.jpg
+https://static6.hentai-cosplays.com/upload/20220104/271/277223/p=700/204.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
+[Kizokukai (Peco)] Yuugeshou (Fate/Grand Order) [貴族会 (ぺこ)] 夕化粧 (Fate/Grand Order) - エロコスプレ
+https://ja.hentai-cosplays.com/image/kizokukai-peco-yuugeshou-fategrand-order----fategrand-order/
+
+https://static6.hentai-cosplays.com/upload/20211231/268/273785/p=700/191.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-11</font>
+
+[Kizokukai (Peco)] Yuugao (Fate/Grand Order) [貴族会 (ぺこ)] 夕顔 (Fate/Grand Order) - エロコスプレ
+https://ja.hentai-cosplays.com/image/kizokukai-peco-yuugao-fategrand-order----fategrand-order/
+
+https://static6.hentai-cosplays.com/upload/20220104/271/277223/p=700/204.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-11</font>
+
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
-Yoshinobi - Riko Sakurauchi 2 - エロコスプレ
-https://ja.hentai-cosplays.com/image/yoshinobi-riko-sakurauchi-2/
-
-https://static6.hentai-cosplays.com/upload/20211218/259/264283/p=700/45.jpg
-
-<font size="1" style="color:#DCDCDC">2022-03-07</font>
-
-Yoshinobi - Riko Sakurauchi - エロコスプレ
-https://ja.hentai-cosplays.com/image/yoshinobi-riko-sakurauchi/
-
-https://static4.hentai-cosplays.com/upload/20210424/223/227778/p=700/45.jpg
-
-<font size="1" style="color:#DCDCDC">2022-02-21</font>
-Yoshinobi - Kokomi - エロコスプレ
-https://ja.hentai-cosplays.com/image/yoshinobi-kokomi/
-
-https://static6.hentai-cosplays.com/upload/20220108/274/280246/p=700/35.jpg
-
-<font size="1" style="color:#DCDCDC">2022-02-21</font>
 </textarea>
 </pre>
 

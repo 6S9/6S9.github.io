@@ -29,6 +29,7 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static5.hentai-cosplays.com/upload/20211120/246/251820/p=700/49.jpg
 https://static7.hentai-cosplays.com/upload/20220207/288/294800/p=700/38.jpg
 https://static5.hentai-cosplays.com/upload/20211208/248/253322/p=700/2.jpg
 https://static5.hentai-cosplays.com/upload/20211209/250/255660/p=700/13.jpg
@@ -38,6 +39,13 @@ https://static10.porn-images-xxx.com/upload/20211219/985/1007990/p=700/57.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+UyUy - Tifa Reverse Bunny - エロコスプレ
+https://ja.hentai-cosplays.com/image/uyuy-tifa-reverse-bunny/
+
+https://static5.hentai-cosplays.com/upload/20211120/246/251820/p=700/49.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-14</font>
 
 <font size="2"><b>
 UyUy - Mona - エロコスプレ</b></font><br>

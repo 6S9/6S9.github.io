@@ -29,6 +29,10 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static5.hentai-cosplays.com/upload/20211209/251/256345/p=700/55.jpg
+https://static5.hentai-cosplays.com/upload/20210927/240/244840/p=700/40.jpg
+https://static7.hentai-cosplays.com/upload/20220301/291/297295/p=700/23.jpg
+https://static7.hentai-cosplays.com/upload/20220308/292/298132/p=700/24.jpg
 https://static6.hentai-cosplays.com/upload/20220105/272/278005/p=700/27.jpg
 https://static6.hentai-cosplays.com/upload/20220109/274/280541/p=700/29.jpg
 https://static6.hentai-cosplays.com/upload/20220103/270/276434/p=700/28.jpg
@@ -37,6 +41,36 @@ https://static6.hentai-cosplays.com/upload/20211228/266/271832/p=700/72.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Byoru - Cyber Makima 3 - エロコスプレ
+https://ja.hentai-cosplays.com/image/byoru-cyber-makima-3/
+
+https://static5.hentai-cosplays.com/upload/20211209/251/256345/56.gif
+https://static5.hentai-cosplays.com/upload/20211209/251/256345/57.gif
+https://static5.hentai-cosplays.com/upload/20211209/251/256345/p=700/55.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-14</font>
+
+Byoru -Mama Jiangshi - Minamoto no Raiko 3 - エロコスプレ
+https://ja.hentai-cosplays.com/image/byoru-mama-jiangshi-minamoto-no-raiko-3/
+
+https://static5.hentai-cosplays.com/upload/20210927/240/244840/p=700/40.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-14</font>
+
+Byoru -Leifang Halloween 3 - エロコスプレ
+https://ja.hentai-cosplays.com/image/byoru-leifang-halloween-3/
+
+https://static7.hentai-cosplays.com/upload/20220301/291/297295/p=700/23.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-14</font>
+
+[My Dress-Up Darling][Marin Kitagawa] Bikini - Byoru - エロコスプレ
+https://ja.hentai-cosplays.com/image/my-dress-up-darlingmarin-kitagawa-bikini-byoru/
+
+https://static7.hentai-cosplays.com/upload/20220308/292/298132/p=700/24.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-11</font>
 
 <font size="2"><b>
 Byoru - Hinata - エロコスプレ</b></font><br>

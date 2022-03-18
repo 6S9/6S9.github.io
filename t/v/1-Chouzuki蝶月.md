@@ -29,6 +29,7 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static5.hentai-cosplays.com/upload/20210925/239/244688/p=700/215.jpg
 https://static7.hentai-cosplays.com/upload/20220131/288/294094/p=700/227.jpg
 https://static2.hentai-cosplays.com/upload/20190714/133/135959/p=700/204.jpg
 https://static.hentai-cosplays.com/upload/20111128/3/2575/p=700/159.jpg
@@ -44,6 +45,13 @@ https://static.hentai-cosplays.com/upload/20160201/7/6955/p=700/12.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+(C97) [mariposa luz de la luna (Chouzuki Maryou)] 2019 Other side of the moon (Fate Grand Order - BB) (C97) [mariposa luz de la luna (蝶月真綾)] 2019 Other side of the moon (Fate Grand Order - BB) - エロコスプレ
+https://ja.hentai-cosplays.com/image/c97-mariposa-luz-de-la-luna-chouzuki-maryou-2019-other-side-of-the-moon-fate-grand-order-bb-c97-mariposa-luz-de-la-luna--2019-other-side-of-the-moon-fate-grand-order-bb/
+
+https://static5.hentai-cosplays.com/upload/20210925/239/244688/p=700/215.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-11</font>
 
 <font size="3"><b>
 (COSHOLIC 25) [mariposa luz de la luna(Chouzuki Maryou] rete to race (original) - エロコスプレ</b></font><br>

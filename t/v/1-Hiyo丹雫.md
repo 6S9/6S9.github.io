@@ -29,12 +29,20 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static.hentai-cosplays.com/upload/20160202/9/8509/p=700/12.jpg
 https://static.hentai-cosplays.com/upload/20160202/9/8646/p=700/12.jpg
 https://static.hentai-cosplays.com/upload/20130415/2/1476/p=700/214.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+丹雫ひよ part 69 - エロコスプレ
+https://ja.hentai-cosplays.com/image/hiyo-nishizuku-69/
+
+https://static.hentai-cosplays.com/upload/20160202/9/8509/p=700/12.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-13</font>
 
 <font size="2"><b>
 丹雫ひよ part 206 - エロコスプレ</b></font><br>

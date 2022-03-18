@@ -29,6 +29,7 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static6.hentai-cosplays.com/upload/20211213/255/261009/p=700/18.jpg
 https://static7.hentai-cosplays.com/upload/20220209/289/294913/p=700/20.jpg
 https://static7.hentai-cosplays.com/upload/20220207/288/294738/p=700/10.jpg
 https://static7.hentai-cosplays.com/upload/20220203/288/294341/p=700/9.jpg
@@ -55,6 +56,13 @@ https://static8.porn-images-xxx.com/upload/20210307/905/926695/p=700/109.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Azami – Mashu Kyrielight - エロコスプレ
+https://ja.hentai-cosplays.com/image/azami--mashu-kyrielight/
+
+https://static6.hentai-cosplays.com/upload/20211213/255/261009/p=700/18.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-07</font>
 
 Azami - Sucrose - エロコスプレ
 https://ja.hentai-cosplays.com/image/azami-sucrose/
