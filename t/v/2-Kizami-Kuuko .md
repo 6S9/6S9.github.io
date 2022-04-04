@@ -29,6 +29,9 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static4.hentai-cosplays.com/upload/20210417/222/226588/p=700/81.jpg
+https://static4.hentai-cosplays.com/upload/20210417/222/226526/p=700/104.jpg
+https://static6.hentai-cosplays.com/upload/20220121/283/289344/p=700/162.jpg
 https://static5.hentai-cosplays.com/upload/20211212/254/259549/p=700/40.jpg
 https://static9.porn-images-xxx.com/upload/20211117/938/959565/p=700/37.jpg
 https://static6.hentai-cosplays.com/upload/20220103/270/276031/p=700/55.jpg
@@ -40,6 +43,27 @@ https://static2.hentai-cosplays.com/upload/20200316/151/154271/p=700/145.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+[网红Coser] 銘銘Kizami 《自撮りVol.04》 写真集 - エロコスプレ
+https://ja.hentai-cosplays.com/image/coser-meikikisami-selfie-vol04-photo-book/
+
+https://static4.hentai-cosplays.com/upload/20210417/222/226588/p=700/81.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-30</font>
+
+銘銘Kizami 《自撮りVol.03 君との夏》 写真集 - エロコスプレ
+https://ja.hentai-cosplays.com/image/inscription-kizami-selfie-vol03-summer-with-you-photo-book/
+
+https://static4.hentai-cosplays.com/upload/20210417/222/226526/p=700/104.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-30</font>
+
+铭铭Kizami - VOL.16 エロ小悪魔&みこ写真+自撮り - エロコスプレ
+https://ja.hentai-cosplays.com/image/-kizami-vol16-erotic-little-devil-amp-miko-photo--selfie/
+
+https://static6.hentai-cosplays.com/upload/20220121/283/289344/p=700/162.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-30</font>
 
 <h4 style="color:#1E90FF">KuukoW - Shuten Douji 1 - エロコスプレ</h4>
 https://ja.hentai-cosplays.com/image/kuukow-shuten-douji-1/

@@ -29,6 +29,14 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static8.hentai-cosplays.com/upload/20220319/293/299442/p=700/17.jpg
+https://static8.hentai-cosplays.com/upload/20220320/293/299498/p=700/11.jpg
+https://static8.hentai-cosplays.com/upload/20220318/293/299352/p=700/9.jpg
+https://static8.hentai-cosplays.com/upload/20220319/293/299439/p=700/8.jpg
+https://static8.hentai-cosplays.com/upload/20220322/293/299756/p=700/30.jpg
+https://static8.hentai-cosplays.com/upload/20220319/293/299442/p=700/17.jpg
+https://static8.hentai-cosplays.com/upload/20220318/293/299344/p=700/11.jpg
+https://static8.hentai-cosplays.com/upload/20220317/293/299203/p=700/13.jpg
 https://static5.hentai-cosplays.com/upload/20211209/252/257126/p=700/19.jpg
 https://static5.hentai-cosplays.com/upload/20211208/248/253000/p=700/3.jpg
 https://static5.hentai-cosplays.com/upload/20211209/251/256813/p=700/17.jpg
@@ -52,6 +60,62 @@ https://static5.hentai-cosplays.com/upload/20211106/245/250711/p=700/51.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Meenfox - Power - エロコスプレ
+https://ja.hentai-cosplays.com/image/meenfox-power/
+
+https://static8.hentai-cosplays.com/upload/20220319/293/299442/p=700/17.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-01</font>
+
+Meenfox - Jeanne D'arc - エロコスプレ
+https://ja.hentai-cosplays.com/image/meenfox-jeanne-darc-1/
+
+https://static8.hentai-cosplays.com/upload/20220320/293/299498/p=700/11.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-01</font>
+
+Meenfox - Kujou Sara - エロコスプレ
+https://ja.hentai-cosplays.com/image/meenfox-kujou-sara/
+
+https://static8.hentai-cosplays.com/upload/20220318/293/299352/p=700/9.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-01</font>
+
+Meenfox - Aphrodite - エロコスプレ
+https://ja.hentai-cosplays.com/image/meenfox-aphrodite/
+
+https://static8.hentai-cosplays.com/upload/20220319/293/299439/p=700/8.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-01</font>
+
+Meenfox - Marie Rose - エロコスプレ
+https://ja.hentai-cosplays.com/image/meenfox-marie-rose-4/
+
+https://static8.hentai-cosplays.com/upload/20220322/293/299756/p=700/30.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-29</font>
+
+Meenfox - Power - エロコスプレ
+https://ja.hentai-cosplays.com/image/meenfox-power/
+
+https://static8.hentai-cosplays.com/upload/20220319/293/299442/p=700/17.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-29</font>
+
+Meenfox - Yae & Ei - エロコスプレ
+https://ja.hentai-cosplays.com/image/meenfox-yae--ei/
+
+https://static8.hentai-cosplays.com/upload/20220318/293/299344/p=700/11.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-29</font>
+
+Meenfox - Kokomi 4 - エロコスプレ
+https://ja.hentai-cosplays.com/image/meenfox-kokomi-4/
+
+https://static8.hentai-cosplays.com/upload/20220317/293/299203/p=700/13.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-29</font>
 
 <font size="2"><b>
 Azami – Jeanne Alter - エロコスプレ</b></font><br>
@@ -211,10 +275,12 @@ https://ja.hentai-cosplays.com/image/coser-water-qua-vol099-nai-osabu-41-nh--1-v
 </textarea>
 </pre>
 
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css"
+/>
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
 
 <script type="text/javascript">
 

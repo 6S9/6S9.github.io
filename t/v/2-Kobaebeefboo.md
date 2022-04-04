@@ -29,17 +29,35 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static7.hentai-cosplays.com/upload/20220304/291/297709/p=700/12.jpg
+https://static7.hentai-cosplays.com/upload/20220304/291/297708/p=700/21.jpg
+
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
+Kobaebeefboo - Rias - エロコスプレ
+https://ja.hentai-cosplays.com/image/kobaebeefboo-rias-1/
+
+https://static7.hentai-cosplays.com/upload/20220304/291/297709/p=700/12.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-04</font>
+
+Kobaebeefboo - Marin Kitagawa - エロコスプレ
+https://ja.hentai-cosplays.com/image/kobaebeefboo-marin-kitagawa-1/
+
+https://static7.hentai-cosplays.com/upload/20220304/291/297708/p=700/21.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-04</font>
+
 </textarea>
 </pre>
 
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css"
+/>
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
 
 <script type="text/javascript">
 

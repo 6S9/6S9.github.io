@@ -29,110 +29,65 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static01.videos-upload.com/video/2021/1114/1l5b/image-013.jpg
-https://static01.videos-upload.com/video/2021/1114/1l4x/image-012.jpg
-https://static01.videos-upload.com/video/2021/1114/1l59/image-003.jpg
-https://static01.videos-upload.com/video/2021/1012/v/image-008.jpg
+https://static8.hentai-cosplays.com/upload/20220328/294/300325/p=305/237.jpg
+https://static8.hentai-cosplays.com/upload/20220327/294/300224/p=700/157.jpg
+https://static2.hentai-cosplays.com/upload/20200316/150/153359/p=700/141.jpg
+https://static5.hentai-cosplays.com/upload/20211111/246/251262/p=700/151.jpg
+https://static4.hentai-cosplays.com/upload/20210328/212/216532/p=700/107.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
-non 28 - エロコスプレ
-https://ja.hentai-cosplays.com/video/non-28/
+[Fantia] Coser@Kano Nozomi (鹿野希) Nov 2021 (237 ảnh + 3 videos) - エロコスプレ
+https://ja.hentai-cosplays.com/image/fantia-coserkano-nozomi-nov-2021-237-nh--3-videos/
 
-https://static01.videos-upload.com/video/2022/0315/IvYBNz/image-001.jpg
-
-<font size="1" style="color:#DCDCDC">2022-03-29</font>
-
-刚好看看 - エロコスプレ
-https://ja.hentai-cosplays.com/video/ayy-kane/
-
-https://static01.videos-upload.com/video/2022/0315/Br6pRY/image-001.jpg
+https://static8.hentai-cosplays.com/upload/20220328/294/300325/p=305/237.jpg
 
 <font size="1" style="color:#DCDCDC">2022-03-29</font>
 
-<font size="2"><b>
-nagisa魔物喵 20200120 nagisaの魔法棒！愛の契約をしよう! 1 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/nagisa-demon-20200120-nagisa-magic-stick-let-s-make-a-love-deal-1/
+[Fantia] Coser@Kano Nozomi (鹿野希) Oct 2021 (157 ảnh + 6 videos) - エロコスプレ
+https://ja.hentai-cosplays.com/image/fantia-coserkano-nozomi-oct-2021-157-nh--6-videos/
 
-https://static01.videos-upload.com/video/2021/1231/1rrl/image-135.jpg
-https://video01.videos-upload.com/video/2021/1231/1rrl/video.m3u8
-https://static01.videos-upload.com/video/2021/1231/1rrl/video-013.ts
+https://static8.hentai-cosplays.com/upload/20220327/294/300224/p=700/157.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2022/1/17 下午3:58:07</b></font><br>
+<font size="1" style="color:#DCDCDC">2022-03-29</font>
 
-<font size="2"><b>
-小尤奈 Xiaoyounai 32 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/xiaoyounai-32/
+鹿野希 Vol.07 白色高叉泳装 [140P3V-445MB] - エロコスプレ
+https://ja.hentai-cosplays.com/image/kano-nozomi-vol07-white-takato-swimming-140p3v-445mb/
 
-https://static01.videos-upload.com/video/2022/0108/1syf/image-500.jpg
+https://static2.hentai-cosplays.com/upload/20200316/150/153359/p=700/141.jpg
 
-https://video01.videos-upload.com/video/2022/0108/1syf/video.m3u8
-https://video01.videos-upload.com/video/2022/0108/1syf/video-114.ts
+<font size="1" style="color:#DCDCDC">2022-03-29</font>
 
-<font size="1" style="color:#DCDCDC"><b>2022/2/6 下午8:45:47</b></font><br>
+鹿野希 - Kano Nozomi Vol.3 - エロコスプレ
+https://ja.hentai-cosplays.com/image/nozomi-shikano-kano-nozomi-vol3/
 
-<font size="2"><b>
-小尤奈 Xiaoyounai 23 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/xiaoyounai-23/
+https://static5.hentai-cosplays.com/upload/20211111/246/251262/p=700/151.jpg
 
-小尤奈 Xiaoyounai 23 - エロコスプレ
+<font size="1" style="color:#DCDCDC">2022-03-29</font>
 
-<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午9:45:05</b></font><br>
+鹿野希 酒酔い先輩 [107P] - エロコスプレ
+https://ja.hentai-cosplays.com/image/nozomi-shikano-drunken-senior-107p/
 
-<font size="2"><b>
-小尤奈 Xiaoyounai 12 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/xiaoyounai-12/
+https://static4.hentai-cosplays.com/upload/20210328/212/216532/46.jpg
+https://static4.hentai-cosplays.com/upload/20210328/212/216532/p=700/107.jpg
 
-小尤奈 Xiaoyounai 12 - エロコスプレ
-
-<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午10:15:45</b></font><br>
-
-<font size="2"><b>
-ほしのうめ 13 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/hoshino-ying-13/
-
-https://static01.videos-upload.com/video/2021/1114/1l5b/image-013.jpg
-
-<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午2:03:20</b></font><br>
-
-<font size="2"><b>
-朝比奈みつき - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/mitsuki-asahina/
-
-https://static01.videos-upload.com/video/2021/1114/1l4x/image-012.jpg
-
-<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午2:05:54</b></font><br>
-
-<font size="2"><b>
-ほしのうめ 11 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/hoshino-ying-11/
-
-https://static01.videos-upload.com/video/2021/1114/1l59/image-003.jpg
-
-<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午2:09:43</b></font><br>
-
-<font size="2"><b>
-桃尻🍑サキュバス😈💕 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/peach-ass-succubus/
-
-https://static01.videos-upload.com/video/2021/1012/v/image-008.jpg
-
-<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午2:19:50</b></font><br>
+<font size="1" style="color:#DCDCDC">2022-03-29</font>
 
 </textarea>
 </pre>
 
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css"
+/>
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
 
 <script type="text/javascript">
 
 var __urlRegex = /(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig;
-var __imgRegex = /\.(?:jpe?g|gif|png)$/i;
+var __imgRegex = /\.(?:jpe?g|gif|png|webp)$/i;
 
 textToArray();
 loadparse();

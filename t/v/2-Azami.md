@@ -29,110 +29,48 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static01.videos-upload.com/video/2021/1114/1l5b/image-013.jpg
-https://static01.videos-upload.com/video/2021/1114/1l4x/image-012.jpg
-https://static01.videos-upload.com/video/2021/1114/1l59/image-003.jpg
-https://static01.videos-upload.com/video/2021/1012/v/image-008.jpg
+https://static6.hentai-cosplays.com/upload/20211225/264/269891/p=700/27.jpg
+https://static6.hentai-cosplays.com/upload/20211224/263/269073/p=700/19.jpg
+https://static8.hentai-cosplays.com/upload/20220327/294/300263/p=700/22.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
-non 28 - エロコスプレ
-https://ja.hentai-cosplays.com/video/non-28/
+Azami - Siege 2 - エロコスプレ
+https://ja.hentai-cosplays.com/image/azami-siege-2/
 
-https://static01.videos-upload.com/video/2022/0315/IvYBNz/image-001.jpg
+https://static6.hentai-cosplays.com/upload/20211225/264/269891/p=700/27.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-04</font>
+
+Azami - Lisa (Genshin Impact) 2 - エロコスプレ
+https://ja.hentai-cosplays.com/image/azami-lisa-genshin-impact-2/
+
+https://static6.hentai-cosplays.com/upload/20211224/263/269073/p=700/19.jpg
 
 <font size="1" style="color:#DCDCDC">2022-03-29</font>
 
-刚好看看 - エロコスプレ
-https://ja.hentai-cosplays.com/video/ayy-kane/
+Azami – Cyber Bunny - エロコスプレ
+https://ja.hentai-cosplays.com/image/azami--cyber-bunny/
 
-https://static01.videos-upload.com/video/2022/0315/Br6pRY/image-001.jpg
+https://static8.hentai-cosplays.com/upload/20220327/294/300263/p=700/22.jpg
 
 <font size="1" style="color:#DCDCDC">2022-03-29</font>
-
-<font size="2"><b>
-nagisa魔物喵 20200120 nagisaの魔法棒！愛の契約をしよう! 1 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/nagisa-demon-20200120-nagisa-magic-stick-let-s-make-a-love-deal-1/
-
-https://static01.videos-upload.com/video/2021/1231/1rrl/image-135.jpg
-https://video01.videos-upload.com/video/2021/1231/1rrl/video.m3u8
-https://static01.videos-upload.com/video/2021/1231/1rrl/video-013.ts
-
-<font size="1" style="color:#DCDCDC"><b>2022/1/17 下午3:58:07</b></font><br>
-
-<font size="2"><b>
-小尤奈 Xiaoyounai 32 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/xiaoyounai-32/
-
-https://static01.videos-upload.com/video/2022/0108/1syf/image-500.jpg
-
-https://video01.videos-upload.com/video/2022/0108/1syf/video.m3u8
-https://video01.videos-upload.com/video/2022/0108/1syf/video-114.ts
-
-<font size="1" style="color:#DCDCDC"><b>2022/2/6 下午8:45:47</b></font><br>
-
-<font size="2"><b>
-小尤奈 Xiaoyounai 23 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/xiaoyounai-23/
-
-小尤奈 Xiaoyounai 23 - エロコスプレ
-
-<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午9:45:05</b></font><br>
-
-<font size="2"><b>
-小尤奈 Xiaoyounai 12 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/xiaoyounai-12/
-
-小尤奈 Xiaoyounai 12 - エロコスプレ
-
-<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午10:15:45</b></font><br>
-
-<font size="2"><b>
-ほしのうめ 13 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/hoshino-ying-13/
-
-https://static01.videos-upload.com/video/2021/1114/1l5b/image-013.jpg
-
-<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午2:03:20</b></font><br>
-
-<font size="2"><b>
-朝比奈みつき - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/mitsuki-asahina/
-
-https://static01.videos-upload.com/video/2021/1114/1l4x/image-012.jpg
-
-<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午2:05:54</b></font><br>
-
-<font size="2"><b>
-ほしのうめ 11 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/hoshino-ying-11/
-
-https://static01.videos-upload.com/video/2021/1114/1l59/image-003.jpg
-
-<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午2:09:43</b></font><br>
-
-<font size="2"><b>
-桃尻🍑サキュバス😈💕 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/video/peach-ass-succubus/
-
-https://static01.videos-upload.com/video/2021/1012/v/image-008.jpg
-
-<font size="1" style="color:#DCDCDC"><b>2022/1/10 下午2:19:50</b></font><br>
 
 </textarea>
 </pre>
 
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css"
+/>
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
 
 <script type="text/javascript">
 
 var __urlRegex = /(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig;
-var __imgRegex = /\.(?:jpe?g|gif|png)$/i;
+var __imgRegex = /\.(?:jpe?g|gif|png|webp)$/i;
 
 textToArray();
 loadparse();

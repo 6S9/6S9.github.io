@@ -29,6 +29,7 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static8.hentai-cosplays.com/upload/20220402/294/301006/p=700/29.jpg
 https://static5.hentai-cosplays.com/upload/20211209/252/257127/p=700/13.jpg
 https://static5.hentai-cosplays.com/upload/20211209/252/257116/p=700/38.jpg
 https://static7.hentai-cosplays.com/upload/20220128/287/293822/p=700/26.jpg
@@ -58,6 +59,13 @@ https://static5.hentai-cosplays.com/upload/20211109/246/251102/p=700/45.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+HaneAme – Tiger Qipao - エロコスプレ
+https://ja.hentai-cosplays.com/image/haneame--tiger-qipao/
+
+https://static8.hentai-cosplays.com/upload/20220402/294/301006/p=700/29.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-04</font>
 
 雨波HaneAme - 2B Wedding suit - エロコスプレ
 https://ja.hentai-cosplays.com/image/rain-wave-haneame-2b-wedding-suit/
@@ -247,10 +255,11 @@ https://ja.hentai-cosplays.com/image/hane-ame-raiden-shogun/
 </textarea>
 </pre>
 
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css"
+/>
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
 
 <script type="text/javascript">
 

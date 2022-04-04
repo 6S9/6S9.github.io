@@ -29,6 +29,9 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static8.hentai-cosplays.com/upload/20220323/293/299856/p=305/25.jpg
+https://static8.hentai-cosplays.com/upload/20220323/293/299858/p=700/28.jpg
+https://static8.hentai-cosplays.com/upload/20220323/293/299859/p=700/27.jpg
 https://static6.hentai-cosplays.com/upload/20211220/260/266019/p=700/23.jpg
 https://static6.hentai-cosplays.com/upload/20211222/262/267432/p=700/25.jpg
 https://static7.hentai-cosplays.com/upload/20220208/288/294837/p=700/194.jpg
@@ -48,6 +51,27 @@ https://static2.hentai-cosplays.com/upload/20200922/176/179771/p=700/64.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+[Fantasy Factory 小丁] - Half Bloomers - エロコスプレ
+https://ja.hentai-cosplays.com/image/fantasy-factory-ding-half-bloomers/
+
+https://static8.hentai-cosplays.com/upload/20220323/293/299856/p=305/25.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-30</font>
+
+[Fantasy Factory 小丁] - Grid Love - エロコスプレ
+https://ja.hentai-cosplays.com/image/fantasy-factory-alley-grid-love/
+
+https://static8.hentai-cosplays.com/upload/20220323/293/299858/p=700/28.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-30</font>
+
+[小丁Patron] Leather Seduce 皮衣濕身誘惑 (Fantasy Factory) - エロコスプレ
+https://ja.hentai-cosplays.com/image/kocho-patron-leather-seduce-self-restraint-fantasy-factory/
+
+https://static8.hentai-cosplays.com/upload/20220323/293/299859/p=700/27.jpg
+
+<font size="1" style="color:#DCDCDC">2022-03-29</font>
 
 [Fantasy Factory]明日方舟 W - エロコスプレ
 https://ja.hentai-cosplays.com/image/fantasy-factory-tomorrow-ark-w/
@@ -150,10 +174,11 @@ https://ja.hentai-cosplays.com/image/twitter-siaoding-komachi-zell_ching-_komach
 </textarea>
 </pre>
 
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css"
+/>
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
 
 <script type="text/javascript">
 
