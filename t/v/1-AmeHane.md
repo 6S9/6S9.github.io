@@ -29,6 +29,12 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static8.hentai-cosplays.com/upload/20220325/294/300079/p=700/155.jpg
+https://static8.hentai-cosplays.com/upload/20220406/295/301322/p=700/38.jpg
+https://static5.hentai-cosplays.com/upload/20211026/245/249997/p=700/13.jpg
+https://static5.hentai-cosplays.com/upload/20211026/245/249996/p=700/20.jpg
+https://static9.hentai-cosplays.com/upload/20220424/296/302627/p=700/44.jpg
+https://static8.hentai-cosplays.com/upload/20220405/295/301256/p=700/32.jpg
 https://static8.hentai-cosplays.com/upload/20220402/294/301006/p=700/29.jpg
 https://static5.hentai-cosplays.com/upload/20211209/252/257127/p=700/13.jpg
 https://static5.hentai-cosplays.com/upload/20211209/252/257116/p=700/38.jpg
@@ -59,6 +65,46 @@ https://static5.hentai-cosplays.com/upload/20211109/246/251102/p=700/45.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+HaneAme - 2B - エロコスプレ
+https://ja.hentai-cosplays.com/image/haneame-2b-1/
+
+https://static8.hentai-cosplays.com/upload/20220325/294/300079/p=700/155.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-29</font>
+
+Hane Ame - Raikou Maid (Fate╱Grand Order) - エロコスプレ
+https://ja.hentai-cosplays.com/image/hane-ame-raikou-maid-fategrand-order/
+
+https://static8.hentai-cosplays.com/upload/20220406/295/301322/p=700/38.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-25</font>
+
+HaneAme - Do-S - エロコスプレ
+https://ja.hentai-cosplays.com/image/haneame-do-s/
+
+https://static5.hentai-cosplays.com/upload/20211026/245/249997/p=700/13.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-25</font>
+
+HaneAme - Lancer Apron - エロコスプレ
+https://ja.hentai-cosplays.com/image/haneame-lancer-apron/
+
+https://static5.hentai-cosplays.com/upload/20211026/245/249996/p=700/20.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-25</font>
+
+HaneAme – Shizuku Kuroe - エロコスプレ
+https://ja.hentai-cosplays.com/image/haneame--shizuku-kuroe/
+
+https://static9.hentai-cosplays.com/upload/20220424/296/302627/p=700/44.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-25</font>
+
+HaneAme – Shenhe (Genshin Impact) - エロコスプレ
+https://ja.hentai-cosplays.com/image/haneame--shenhe-genshin-impact/
+
+<font size="1" style="color:#DCDCDC">2022-04-05</font>
 
 HaneAme – Tiger Qipao - エロコスプレ
 https://ja.hentai-cosplays.com/image/haneame--tiger-qipao/

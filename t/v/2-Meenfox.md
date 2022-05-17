@@ -29,6 +29,10 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static5.hentai-cosplays.com/upload/20211208/248/253920/p=700/10.jpg
+https://static5.hentai-cosplays.com/upload/20211208/248/253892/p=700/8.jpg
+https://static5.hentai-cosplays.com/upload/20211208/248/253891/p=700/8.jpg
+https://static6.hentai-cosplays.com/upload/20211214/256/261429/p=700/64.jpg
 https://static8.hentai-cosplays.com/upload/20220319/293/299442/p=700/17.jpg
 https://static8.hentai-cosplays.com/upload/20220320/293/299498/p=700/11.jpg
 https://static8.hentai-cosplays.com/upload/20220318/293/299352/p=700/9.jpg
@@ -60,6 +64,34 @@ https://static5.hentai-cosplays.com/upload/20211106/245/250711/p=700/51.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Meenfox - Noelle 1 - エロコスプレ
+https://ja.hentai-cosplays.com/image/meenfox-noelle-1/
+
+https://static5.hentai-cosplays.com/upload/20211208/248/253920/p=700/10.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-17</font>
+
+Meenfox - Kokomi 1 - エロコスプレ
+https://ja.hentai-cosplays.com/image/meenfox-kokomi-1/
+
+https://static5.hentai-cosplays.com/upload/20211208/248/253892/p=700/8.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-17</font>
+
+Meenfox - Ayaka 1 - エロコスプレ
+https://ja.hentai-cosplays.com/image/meenfox-ayaka-1/
+
+https://static5.hentai-cosplays.com/upload/20211208/248/253891/p=700/8.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-17</font>
+
+meenfox-订阅A刊10330 - エロコスプレ
+https://ja.hentai-cosplays.com/image/meenfox-a-10330/
+
+https://static6.hentai-cosplays.com/upload/20211214/256/261429/p=700/64.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-17</font>
 
 Meenfox - Power - エロコスプレ
 https://ja.hentai-cosplays.com/image/meenfox-power/

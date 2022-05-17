@@ -29,6 +29,9 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static4.hentai-cosplays.com/upload/20210401/217/221449/p=700/3.jpg
+https://static8.hentai-cosplays.com/upload/20220406/295/301321/p=700/35.jpg
+https://static8.hentai-cosplays.com/upload/20220404/295/301184/p=700/64.jpg
 https://static5.hentai-cosplays.com/upload/20211209/251/256345/p=700/55.jpg
 https://static5.hentai-cosplays.com/upload/20210927/240/244840/p=700/40.jpg
 https://static7.hentai-cosplays.com/upload/20220301/291/297295/p=700/23.jpg
@@ -41,6 +44,27 @@ https://static6.hentai-cosplays.com/upload/20211228/266/271832/p=700/72.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Byoru - Jiangshi Raikou 1 - エロコスプレ
+https://ja.hentai-cosplays.com/image/byoru-jiangshi-raikou-1/
+
+https://static4.hentai-cosplays.com/upload/20210401/217/221449/p=700/3.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-26</font>
+
+Byoru - Squirt Game 1 - エロコスプレ
+https://ja.hentai-cosplays.com/image/byoru-squirt-game-1/
+
+https://static8.hentai-cosplays.com/upload/20220406/295/301321/p=700/35.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-26</font>
+
+Byoru – Shizuku Kuroe - エロコスプレ
+https://ja.hentai-cosplays.com/image/byoru--shizuku-kuroe/
+
+https://static8.hentai-cosplays.com/upload/20220404/295/301184/p=700/64.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-05</font>
 
 Byoru - Cyber Makima 3 - エロコスプレ
 https://ja.hentai-cosplays.com/image/byoru-cyber-makima-3/

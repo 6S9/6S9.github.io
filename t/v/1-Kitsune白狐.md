@@ -29,6 +29,10 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static5.hentai-cosplays.com/upload/20211208/249/254568/p=700/43.jpg
+https://static5.hentai-cosplays.com/upload/20211208/248/253833/p=700/150.jpg
+https://static5.hentai-cosplays.com/upload/20211208/248/253639/p=700/130.jpg
+https://static5.hentai-cosplays.com/upload/20210823/237/241857/p=700/139.jpg
 https://static2.hentai-cosplays.com/upload/20200309/149/152062/p=700/30.jpg
 https://static2.hentai-cosplays.com/upload/20200515/164/167594/p=700/50.jpg
 https://static5.hentai-cosplays.com/upload/20211209/252/257175/p=700/44.jpg
@@ -39,6 +43,34 @@ https://static2.hentai-cosplays.com/upload/20200310/149/152080/p=700/16.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+ShiroKitsune - Bela Dimitrescu (Resident Evil Village) 1 - エロコスプレ
+https://ja.hentai-cosplays.com/image/shirokitsune-bela-dimitrescu-resident-evil-village-1/
+
+https://static5.hentai-cosplays.com/upload/20211208/249/254568/p=700/43.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-17</font>
+
+Shirokitsune - Barbara 1 - エロコスプレ
+https://ja.hentai-cosplays.com/image/shirokitsune-barbara-1/
+
+https://static5.hentai-cosplays.com/upload/20211208/248/253833/p=700/150.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-17</font>
+
+ShiroKitsune - Barbara (Genshin Impact) 1 - エロコスプレ
+https://ja.hentai-cosplays.com/image/shirokitsune-barbara-genshin-impact-1/
+
+https://static5.hentai-cosplays.com/upload/20211208/248/253639/p=700/130.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-17</font>
+
+Shirokitsune - Chocola - エロコスプレ
+https://ja.hentai-cosplays.com/image/shirokitsune-chocola/
+
+https://static5.hentai-cosplays.com/upload/20210823/237/241857/p=700/139.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-15</font>
 
 ShiroKitsune - Queen Medb - エロコスプレ
 https://ja.hentai-cosplays.com/image/shirokitsune-queen-medb/

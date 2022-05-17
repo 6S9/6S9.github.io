@@ -29,6 +29,10 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static2.hentai-cosplays.com/upload/20201212/186/190197/p=700/42.jpg
+https://static6.hentai-cosplays.com/upload/20211222/262/267854/p=700/35.jpg
+https://static6.hentai-cosplays.com/upload/20211228/266/271807/p=700/33.jpg
+https://static5.hentai-cosplays.com/upload/20211208/248/253789/p=700/97.jpg
 https://static5.hentai-cosplays.com/upload/20211120/246/251820/p=700/49.jpg
 https://static7.hentai-cosplays.com/upload/20220207/288/294800/p=700/38.jpg
 https://static5.hentai-cosplays.com/upload/20211208/248/253322/p=700/2.jpg
@@ -39,6 +43,34 @@ https://static10.porn-images-xxx.com/upload/20211219/985/1007990/p=700/57.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+[UyUy] 2B (NieR: Automata) - エロコスプレ
+https://ja.hentai-cosplays.com/image/uyuy-2b-nier-automata/
+
+https://static2.hentai-cosplays.com/upload/20201212/186/190197/p=700/42.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-29</font>
+
+UyUy - 2B Bunny Maid - エロコスプレ
+https://ja.hentai-cosplays.com/image/uyuy-2b-bunny-maid/
+
+https://static6.hentai-cosplays.com/upload/20211222/262/267854/p=700/35.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-29</font>
+
+UyUy - Himiko Toga 1 - エロコスプレ
+https://ja.hentai-cosplays.com/image/uyuy-himiko-toga-1/
+
+https://static6.hentai-cosplays.com/upload/20211228/266/271807/p=700/33.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-27</font>
+
+UyUy - Amelia Watson 1 - エロコスプレ
+https://ja.hentai-cosplays.com/image/uyuy-amelia-watson-1/
+
+https://static5.hentai-cosplays.com/upload/20211208/248/253789/p=700/97.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-27</font>
 
 UyUy - Tifa Reverse Bunny - エロコスプレ
 https://ja.hentai-cosplays.com/image/uyuy-tifa-reverse-bunny/

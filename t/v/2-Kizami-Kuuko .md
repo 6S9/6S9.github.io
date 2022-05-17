@@ -29,6 +29,10 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static2.porn-images-xxx.com/upload/20170304/250/255445/p=700/4.jpg
+https://static2.porn-images-xxx.com/upload/20170302/210/214093/p=700/23.jpg
+https://static2.porn-images-xxx.com/upload/20170305/272/277842/p=700/15.jpg
+https://static8.hentai-cosplays.com/upload/20220402/294/300934/p=700/47.jpg
 https://static4.hentai-cosplays.com/upload/20210417/222/226588/p=700/81.jpg
 https://static4.hentai-cosplays.com/upload/20210417/222/226526/p=700/104.jpg
 https://static6.hentai-cosplays.com/upload/20220121/283/289344/p=700/162.jpg
@@ -43,6 +47,35 @@ https://static2.hentai-cosplays.com/upload/20200316/151/154271/p=700/145.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+こいつは完全にオタクを殺しに来てるなwww黒髪ビッチの自撮り画像！ - エロコスプレ
+https://ja.hentai-cosplays.com/image/a-guy-i-totally-geek-to-kill-their-own-picture-www-black-bitch/
+
+https://static2.porn-images-xxx.com/upload/20170304/250/255445/p=700/4.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-17</font>
+
+【清楚系ビッチ】全力でオタクを殺しに来てるアキバ系女子画像www - エロコスプレ
+https://ja.hentai-cosplays.com/image/neat-system-bitch-coming-to-kill-bugs-in-akiba-of-womens-images-www/
+
+https://static2.porn-images-xxx.com/upload/20170302/210/214093/p=700/23.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-17</font>
+
+【コスビッチ】うん。ガンダムだね・・・ローパン眼帯ビキニでRX78感を演出したオタク女子画像！ - エロコスプレ
+https://ja.hentai-cosplays.com/image/cosvich-yes-gundams-geek-produced-a-rx78-feeling-in-low-pain-eyepatch-bikini-girls-pictures/
+
+kizami
+https://static2.porn-images-xxx.com/upload/20170305/272/277842/p=700/15.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-17</font>
+
+KuukoW - Umu Fate Doujin - エロコスプレ
+https://ja.hentai-cosplays.com/image/kuukow-umu-fate-doujin/
+
+https://static8.hentai-cosplays.com/upload/20220402/294/300934/p=700/47.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-25</font>
 
 [网红Coser] 銘銘Kizami 《自撮りVol.04》 写真集 - エロコスプレ
 https://ja.hentai-cosplays.com/image/coser-meikikisami-selfie-vol04-photo-book/

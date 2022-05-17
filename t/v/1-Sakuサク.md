@@ -29,6 +29,8 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static5.hentai-cosplays.com/upload/20211208/248/252938/p=700/61.jpg
+https://static6.hentai-cosplays.com/upload/20211214/256/261375/p=700/308.jpg
 https://static2.hentai-cosplays.com/upload/20180115/75/76588/p=700/210.jpg
 https://static5.hentai-cosplays.com/upload/20211209/251/256385/p=700/283.jpg
 https://static5.hentai-cosplays.com/upload/20211208/249/254165/p=700/94.jpg
@@ -44,6 +46,20 @@ https://static3.hentai-cosplays.com/upload/20201231/197/201550/p=700/50.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+(Cosket 3) [Shooting Star's (SAKU)] SRank Bunny Girl Omake 1 - エロコスプレ
+https://ja.hentai-cosplays.com/image/cosket-3-shooting-stars-saku-srank-bunny-girl-omake-1/
+
+https://static5.hentai-cosplays.com/upload/20211208/248/252938/p=700/61.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-17</font>
+
+[Shooting Star's (Saku)] MidSummerPink - エロコスプレ
+https://ja.hentai-cosplays.com/image/shooting-stars-saku-midsummerpink/
+
+https://static6.hentai-cosplays.com/upload/20211214/256/261375/p=700/308.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-17</font>
 
 [Shooting Star's (Saku)] 黒透け来航 - エロコスプレ
 https://ja.hentai-cosplays.com/image/shooting-stars-saku-/

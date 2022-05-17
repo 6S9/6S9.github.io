@@ -29,6 +29,7 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static8.hentai-cosplays.com/upload/20220330/294/300564/p=700/24.jpg
 https://static9.porn-images-xxx.com/upload/20211114/937/959280/p=700/13.jpg
 https://static5.hentai-cosplays.com/upload/20210716/229/234284/p=700/7.jpg
 https://static2.hentai-cosplays.com/upload/20201006/180/183304/p=700/21.jpg
@@ -42,6 +43,13 @@ https://static5.hentai-cosplays.com/upload/20211027/245/250009/p=700/26.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+QUEENIE CHUPPY - Bunny Barbara - エロコスプレ
+https://ja.hentai-cosplays.com/image/queenie-chuppy-bunny-barbara/
+
+https://static8.hentai-cosplays.com/upload/20220330/294/300564/p=700/24.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-15</font>
 
 【アサガヲ特選】今日のコスプレ画像！！【21/11/13】 - ３次エロ画像 - エロ画像
 https://ja.porn-images-xxx.com/image/todays-cosplay-image--211113/

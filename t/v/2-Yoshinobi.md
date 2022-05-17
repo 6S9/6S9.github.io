@@ -29,6 +29,11 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static6.hentai-cosplays.com/upload/20211214/256/261288/p=700/30.jpg
+https://static5.hentai-cosplays.com/upload/20211209/250/255971/p=700/72.jpg
+https://static5.hentai-cosplays.com/upload/20211208/248/253371/p=700/20.jpg
+https://static5.hentai-cosplays.com/upload/20211209/250/255891/p=700/42.jpg
+https://static5.hentai-cosplays.com/upload/20211209/250/255774/p=700/22.jpg
 https://static6.hentai-cosplays.com/upload/20211218/259/264283/p=700/45.jpg
 https://static4.hentai-cosplays.com/upload/20210424/223/227778/p=700/45.jpg
 https://static6.hentai-cosplays.com/upload/20220108/274/280246/p=700/35.jpg
@@ -36,6 +41,41 @@ https://static6.hentai-cosplays.com/upload/20220108/274/280246/p=700/35.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Yoshinobi – Riamu Yumemi Lingerie - エロコスプレ
+https://ja.hentai-cosplays.com/image/yoshinobi--riamu-yumemi-lingerie/
+
+https://static6.hentai-cosplays.com/upload/20211214/256/261288/p=700/30.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-17</font>
+
+Yoshinobi – Ilulu Bunny Suit - エロコスプレ
+https://ja.hentai-cosplays.com/image/yoshinobi--ilulu-bunny-suit/
+
+https://static5.hentai-cosplays.com/upload/20211209/250/255971/p=700/72.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-17</font>
+
+Yoshinobi - Satanya 2 - エロコスプレ
+https://ja.hentai-cosplays.com/image/yoshinobi-satanya-2/
+
+https://static5.hentai-cosplays.com/upload/20211208/248/253371/p=700/20.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-17</font>
+
+Yoshinobi – Pumpkin Milf - エロコスプレ
+https://ja.hentai-cosplays.com/image/yoshinobi--pumpkin-milf/
+
+https://static5.hentai-cosplays.com/upload/20211209/250/255891/p=700/42.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-17</font>
+
+Yoshinobi – Young Mommy - エロコスプレ
+https://ja.hentai-cosplays.com/image/yoshinobi--young-mommy/
+
+https://static5.hentai-cosplays.com/upload/20211209/250/255774/p=700/22.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-17</font>
 
 Yoshinobi - Riko Sakurauchi 2 - エロコスプレ
 https://ja.hentai-cosplays.com/image/yoshinobi-riko-sakurauchi-2/

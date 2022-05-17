@@ -29,6 +29,9 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static9.hentai-cosplays.com/upload/20220506/298/304290/p=700/12.jpg
+https://static12.porn-images-xxx.com/upload/20220406/1181/1208523/p=700/36.jpg
+https://static8.hentai-cosplays.com/upload/20220401/294/300868/p=700/20.jpg
 https://static6.hentai-cosplays.com/upload/20211225/264/269891/p=700/27.jpg
 https://static6.hentai-cosplays.com/upload/20211224/263/269073/p=700/19.jpg
 https://static8.hentai-cosplays.com/upload/20220327/294/300263/p=700/22.jpg
@@ -36,6 +39,27 @@ https://static8.hentai-cosplays.com/upload/20220327/294/300263/p=700/22.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Azami – Jinx - エロコスプレ
+https://ja.hentai-cosplays.com/image/azami--jinx/
+
+https://static9.hentai-cosplays.com/upload/20220506/298/304290/p=700/12.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-17</font>
+
+「サキュバスな保健医」という童貞即射精な有名Vtuberの露出エロコスプレがめちゃ卑猥 - ３次エロ画像 - エロ画像
+https://ja.porn-images-xxx.com/image/exposed-erotic-cosplay-of-a-famous-vtuber-who-ejaculates-immediately-as-a-virgin-called-succubus-health-doctor-is-very-obscene/
+
+https://static12.porn-images-xxx.com/upload/20220406/1181/1208523/p=700/36.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-27</font>
+
+Azami - Nero Swimsuit Fate Extra - エロコスプレ
+https://ja.hentai-cosplays.com/image/azami-nero-swimsuit-fate-extra/
+
+https://static8.hentai-cosplays.com/upload/20220401/294/300868/p=700/20.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-25</font>
 
 Azami - Siege 2 - エロコスプレ
 https://ja.hentai-cosplays.com/image/azami-siege-2/

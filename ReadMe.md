@@ -35,9 +35,12 @@
 **GoofyPlay**{:.h3}<br>
 <https://www.lanzoui.com/b844444>
 
-**XiphFlac**{:.h3}<br>
-<https://xiph.org/flac/changelog.html>
+**foobar2000_v1.6.10.exe**{:.h3}<br>
+<https://www.foobar2000.org/download>
+**flac-1.3.4-win.zip**{:.h3}<br>
 <https://ftp.osuosl.org/pub/xiph/releases/flac/>
+**0.5.4, released on 2021-04-02**{:.h3}<br>
+<https://www.foobar2000.org/components/view/foo_input_tak>
 
 **GitterCCC**{:.h3}<br>
 <https://gitter.im/c_/cc>

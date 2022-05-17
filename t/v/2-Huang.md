@@ -29,6 +29,9 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static9.hentai-cosplays.com/upload/20220503/297/304124/p=700/53.jpg
+https://static9.hentai-cosplays.com/upload/20220503/297/304123/p=700/85.jpg
+https://static6.hentai-cosplays.com/upload/20220127/287/293779/p=700/2.jpg
 https://static7.hentai-cosplays.com/upload/20220210/289/295018/p=700/16.jpg
 https://static11.porn-images-xxx.com/upload/20220210/1107/1133511/p=700/16.jpg
 https://static6.hentai-cosplays.com/upload/20220116/280/285698/p=700/52.jpg
@@ -47,6 +50,28 @@ https://static2.hentai-cosplays.com/upload/20180605/81/82694/p=700/56.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Arty - Yae Miko - エロコスプレ
+https://ja.hentai-cosplays.com/image/arty-yae-miko/
+
+https://static9.hentai-cosplays.com/upload/20220503/297/304124/p=700/53.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-15</font>
+
+Arty - Kiyohime 2 - エロコスプレ
+https://ja.hentai-cosplays.com/image/arty-kiyohime-2/
+
+https://static9.hentai-cosplays.com/upload/20220503/297/304123/p=700/85.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-15</font>
+
+Ganyu | Genshin Impact | by Arty huang - エロコスプレ
+https://ja.hentai-cosplays.com/image/ganyu--genshin-impact--by-arty-huang/
+
+https://static6.hentai-cosplays.com/upload/20220127/287/293779/1.jpg
+https://static6.hentai-cosplays.com/upload/20220127/287/293779/p=700/2.jpg
+
+<font size="1" style="color:#DCDCDC">2022-04-07</font>
 
 <h4 style="color:#1E90FF">Arty Huang - Azure Lane - Enterprise Swimsuit Arty亚缇 - 碧蓝航线 - 企业 泳装 - エロコスプレ</h4>
 https://ja.hentai-cosplays.com/image/arty-huang-azure-lane-enterprise-swimsuit-arty---/
