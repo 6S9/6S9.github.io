@@ -29,6 +29,15 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static9.hentai-cosplays.com/upload/20220603/300/306452/p=305/17.jpg
+https://static9.hentai-cosplays.com/upload/20220603/300/306512/p=305/28.jpg
+https://static5.hentai-cosplays.com/upload/20211208/248/253520/p=700/14.jpg
+https://static8.hentai-cosplays.com/upload/20220417/295/302078/p=700/100.jpg
+https://static9.hentai-cosplays.com/upload/20220526/299/305900/p=700/85.jpg
+https://static5.hentai-cosplays.com/upload/20211209/252/257326/p=305/20.jpg
+https://static5.hentai-cosplays.com/upload/20211209/252/257321/p=305/37.jpg
+https://static6.hentai-cosplays.com/upload/20220105/272/277888/p=700/11.jpg
+https://static6.hentai-cosplays.com/upload/20220105/272/277889/p=700/12.jpg
 https://static8.hentai-cosplays.com/upload/20220325/294/300079/p=700/155.jpg
 https://static8.hentai-cosplays.com/upload/20220406/295/301322/p=700/38.jpg
 https://static5.hentai-cosplays.com/upload/20211026/245/249997/p=700/13.jpg
@@ -65,6 +74,67 @@ https://static5.hentai-cosplays.com/upload/20211109/246/251102/p=700/45.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+【samples】Yelan (Genshin Impact) 夜蘭/夜兰 (原神) - エロコスプレ
+https://ja.hentai-cosplays.com/image/samples-yelan-genshin-impact-night-orchid--night-lan-harajin/
+
+https://static9.hentai-cosplays.com/upload/20220603/300/306452/p=305/17.jpg
+
+HaneAme - Fia - エロコスプレ
+https://ja.hentai-cosplays.com/image/haneame-fia/
+
+https://static9.hentai-cosplays.com/upload/20220603/300/306512/p=305/28.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-04</font>
+
+Hane Ame - Bunny Kakudate Karin - エロコスプレ
+https://ja.hentai-cosplays.com/image/hane-ame-bunny-kakudate-karin/
+
+https://static5.hentai-cosplays.com/upload/20211208/248/253520/p=700/14.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-03</font>
+
+HaneAme Dead or Alive Nyotengu 雨波HaneAme DOA死与生 女天狗&宝石环 - エロコスプレ
+https://ja.hentai-cosplays.com/image/haneame-dead-or-alive-nyotengu-rain-wave-haneame-doa-death-amp-jewels/
+
+https://static8.hentai-cosplays.com/upload/20220417/295/302078/p=700/100.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-03</font>
+
+Hane Ame DOA - エロコスプレ
+https://ja.hentai-cosplays.com/image/hane-ame-doa/
+
+https://static9.hentai-cosplays.com/upload/20220526/299/305900/p=700/85.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-03</font>
+
+Hane Ame - Sesshouin Kiara Police 1 - エロコスプレ
+https://ja.hentai-cosplays.com/image/hane-ame-sesshouin-kiara-police-1/
+
+https://static5.hentai-cosplays.com/upload/20211209/252/257326/p=305/20.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-03</font>
+
+Hane Ame - Samsung "Sam" 1 - エロコスプレ
+https://ja.hentai-cosplays.com/image/hane-ame-samsung-sam-1/
+
+https://static5.hentai-cosplays.com/upload/20211209/252/257321/p=305/37.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-03</font>
+
+FGO Murasaki Shikibu cosplay 1 - エロコスプレ
+https://ja.hentai-cosplays.com/image/fgo-murasaki-shikibu-cosplay-1/
+
+https://static6.hentai-cosplays.com/upload/20220105/272/277888/p=700/11.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-03</font>
+
+Mama Bear x Mama Wolf 1 - エロコスプレ
+https://ja.hentai-cosplays.com/image/mama-bear-x-mama-wolf-1/
+
+https://static6.hentai-cosplays.com/upload/20220105/272/277889/p=700/12.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-03</font>
 
 HaneAme - 2B - エロコスプレ
 https://ja.hentai-cosplays.com/image/haneame-2b-1/

@@ -32,7 +32,18 @@
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+https://www.imagefap.com/video.php?vid=644943
+So Fine Oily Brown Thang Porn Video by CaptainLust | ImageFap
+https://www.imagefap.com/video.php?vid=682162
 
+<font size="1" style="color:#DCDCDC">2022-06-03</font>
+
+behind the scenes Asian Lucy Thai face splashed with 2 Porn Video by bimbo_pimp | ImageFap
+https://www.imagefap.com/video.php?vid=678582
+
+<font size="1" style="color:#DCDCDC">2022-05-18</font>
+
+https://hw-cdn2.adtng.com/a7/creatives/1/49/814451/1031016/1031016_video.mp4
 https://static.javhd.com/h5/files/video/5058-19258-900x250.mp4
 
 PlumperPass 162-06 Porn Video by fruhrhope | ImageFap

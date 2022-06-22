@@ -31,9 +31,17 @@
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
+https://static9.hentai-cosplays.com/upload/20220501/297/303392/p=700/148.jpg
 https://static8.hentai-cosplays.com/upload/20220330/294/300551/p=700/135.jpg
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+[Cosplayer] YangYi 16 - エロコスプレ
+https://ja.hentai-cosplays.com/image/cosplayer-yangyi-16/
+
+https://static9.hentai-cosplays.com/upload/20220501/297/303392/p=700/148.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-19</font>
 
 [Cosplayer] YangYi - エロコスプレ
 https://ja.hentai-cosplays.com/image/cosplayer-yangyi-12/

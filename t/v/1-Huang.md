@@ -29,6 +29,10 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static8.hentai-cosplays.com/upload/20220315/292/298969/p=700/15.jpg
+https://static4.hentai-cosplays.com/upload/20210630/228/232903/p=700/158.jpg
+https://static9.hentai-cosplays.com/upload/20220516/298/304979/p=700/64.jpg
+https://static6.hentai-cosplays.com/upload/20220126/287/293275/p=700/41.jpg
 https://static9.hentai-cosplays.com/upload/20220503/297/304124/p=700/53.jpg
 https://static9.hentai-cosplays.com/upload/20220503/297/304123/p=700/85.jpg
 https://static6.hentai-cosplays.com/upload/20220127/287/293779/p=700/2.jpg
@@ -50,6 +54,34 @@ https://static2.hentai-cosplays.com/upload/20180605/81/82694/p=700/56.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Kaya Huang - Sirius - エロコスプレ
+https://ja.hentai-cosplays.com/image/kaya-huang-sirius/
+
+https://static8.hentai-cosplays.com/upload/20220315/292/298969/p=700/15.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-04</font>
+
+Kaya Huang - エロコスプレ
+https://ja.hentai-cosplays.com/image/kaya-huang/
+
+https://static4.hentai-cosplays.com/upload/20210630/228/232903/p=700/158.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-03</font>
+
+Arty Huang - Genshin Raiden Shogun - エロコスプレ
+https://ja.hentai-cosplays.com/image/arty-huang-genshin-raiden-shogun/
+
+https://static9.hentai-cosplays.com/upload/20220516/298/304979/p=700/64.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-18</font>
+
+Arty Huang – Mashu Kyrielight Dancer - エロコスプレ
+https://ja.hentai-cosplays.com/image/arty-huang--mashu-kyrielight-dancer/
+
+https://static6.hentai-cosplays.com/upload/20220126/287/293275/p=700/41.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-18</font>
 
 Arty - Yae Miko - エロコスプレ
 https://ja.hentai-cosplays.com/image/arty-yae-miko/

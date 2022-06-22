@@ -29,11 +29,19 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static5.hentai-cosplays.com/upload/20211021/243/248556/p=700/91.jpg
 https://static6.hentai-cosplays.com/upload/20211220/260/265961/p=700/123.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Coser摇摇乐yoyo 《真空初体验》 写真集 - エロコスプレ
+https://ja.hentai-cosplays.com/image/coser-yo-vacuum-first-body-photograph-collection/
+
+https://static5.hentai-cosplays.com/upload/20211021/243/248556/p=700/91.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-02</font>
 
 网红Coser@摇摇乐yoyo-真空初體驗 Vol.12 - エロコスプレ
 https://ja.hentai-cosplays.com/image/-coseryoyo-vacuum-first-vol12/

@@ -29,6 +29,8 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static5.hentai-cosplays.com/upload/20210822/237/241848/p=700/16.jpg
+https://static9.hentai-cosplays.com/upload/20220423/296/302570/p=700/23.jpg
 https://static7.hentai-cosplays.com/upload/20220208/288/294897/p=700/194.jpg
 https://static8.hentai-cosplays.com/upload/20220323/293/299856/p=305/25.jpg
 https://static8.hentai-cosplays.com/upload/20220323/293/299858/p=700/28.jpg
@@ -52,6 +54,20 @@ https://static2.hentai-cosplays.com/upload/20200922/176/179771/p=700/64.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Fantasy Factory 小丁Patron Girl in Black - エロコスプレ
+https://ja.hentai-cosplays.com/image/fantasy-factory-kocho-patron-girl-in-black/
+
+https://static5.hentai-cosplays.com/upload/20210822/237/241848/p=700/16.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-03</font>
+
+[Fantasy Factory 小丁] - Ere and Ishtar - エロコスプレ
+https://ja.hentai-cosplays.com/image/fantasy-factory-ding-ere-and-ishtar/
+
+https://static9.hentai-cosplays.com/upload/20220423/296/302570/p=700/23.jpg
+
+<font size="1" style="color:#DCDCDC">2022-05-17</font>
 
 [小丁こまち] 2021.10 [小丁こまち] 2021.10 - エロコスプレ
 https://ja.hentai-cosplays.com/image/-202110--202110/

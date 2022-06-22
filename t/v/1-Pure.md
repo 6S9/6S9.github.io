@@ -29,12 +29,36 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static9.hentai-cosplays.com/upload/20220430/297/303292/p=700/94.jpg
+https://static9.hentai-cosplays.com/upload/20220605/300/306722/p=700/96.jpg
+https://static5.hentai-cosplays.com/upload/20211118/246/251740/p=700/77.jpg
 https://static7.hentai-cosplays.com/upload/20220211/289/295189/p=700/67.jpg
 https://static7.hentai-cosplays.com/upload/20220201/288/294225/p=700/101.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Pure Media Vol.23: Sonson (손손) (94 ảnh) - エロコスプレ
+https://ja.hentai-cosplays.com/image/pure-media-vol23-sonson--94-nh/
+
+https://static9.hentai-cosplays.com/upload/20220430/297/303292/p=700/94.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-10</font>
+
+Pure Media Vol.169: Aram (아람) (97 ảnh + 1 video) - エロコスプレ
+https://ja.hentai-cosplays.com/image/pure-media-vol169-aram--97-nh--1-video/
+
+https://static9.hentai-cosplays.com/upload/20220605/300/306722/p=700/96.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-09</font>
+
+[PURE MEDIA] VOL.39 - Mozzi - エロコスプレ
+https://ja.hentai-cosplays.com/image/pure-media-vol39-mozzi/
+
+https://static5.hentai-cosplays.com/upload/20211118/246/251740/p=700/77.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-02</font>
 
 <font size="2"><b>
 [PURE MEDIA] Vol.127 - Son Ye-Eun (손예은) - エロコスプレ</b></font><br>

@@ -29,6 +29,12 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static2.hentai-cosplays.com/upload/20200223/149/151856/p=700/23.jpg
+https://static2.hentai-cosplays.com/upload/20200411/163/166237/p=700/28.jpg
+https://static2.hentai-cosplays.com/upload/20200924/176/180035/p=700/32.jpg
+https://static7.hentai-cosplays.com/upload/20220207/288/294781/p=700/20.jpg
+https://static6.hentai-cosplays.com/upload/20220108/274/280246/p=700/35.jpg
+https://static10.hentai-cosplays.com/upload/20220607/300/306854/p=700/15.jpg
 https://static6.hentai-cosplays.com/upload/20211214/256/261288/p=700/30.jpg
 https://static5.hentai-cosplays.com/upload/20211209/250/255971/p=700/72.jpg
 https://static5.hentai-cosplays.com/upload/20211208/248/253371/p=700/20.jpg
@@ -41,6 +47,48 @@ https://static6.hentai-cosplays.com/upload/20220108/274/280246/p=700/35.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Yoshinobi Honoka - Silver Rain - エロコスプレ
+https://ja.hentai-cosplays.com/image/yoshinobi-honoka-silver-rain/
+
+https://static2.hentai-cosplays.com/upload/20200223/149/151856/p=700/23.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-07</font>
+
+[Yoshinobi-chan] Riamu-Chan - エロコスプレ
+https://ja.hentai-cosplays.com/image/yoshinobi-chan-riamu-chan/
+
+https://static2.hentai-cosplays.com/upload/20200411/163/166237/p=700/28.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-07</font>
+
+Yoshinobi - Chika Fujiwara - エロコスプレ
+https://ja.hentai-cosplays.com/image/yoshinobi-chika-fujiwara/
+
+https://static2.hentai-cosplays.com/upload/20200924/176/180035/p=700/32.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-07</font>
+
+Yoshinobi - I-19 - エロコスプレ
+https://ja.hentai-cosplays.com/image/yoshinobi-i-19/
+
+https://static7.hentai-cosplays.com/upload/20220207/288/294781/p=700/20.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-07</font>
+
+Yoshinobi - Kokomi - エロコスプレ
+https://ja.hentai-cosplays.com/image/yoshinobi-kokomi/
+
+https://static6.hentai-cosplays.com/upload/20220108/274/280246/p=700/35.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-07</font>
+
+Yoshinobi - Mashu selfies - エロコスプレ
+https://ja.hentai-cosplays.com/image/yoshinobi-mashu-selfies/
+
+https://static10.hentai-cosplays.com/upload/20220607/300/306854/p=700/15.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-07</font>
 
 Yoshinobi – Riamu Yumemi Lingerie - エロコスプレ
 https://ja.hentai-cosplays.com/image/yoshinobi--riamu-yumemi-lingerie/

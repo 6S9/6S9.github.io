@@ -29,6 +29,7 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static5.hentai-cosplays.com/upload/20210823/237/241920/p=700/76.jpg
 https://static6.hentai-cosplays.com/upload/20220113/277/283162/p=700/6.jpg
 https://static3.hentai-cosplays.com/upload/20201227/189/192547/p=700/47.jpg
 https://static3.hentai-cosplays.com/upload/20201227/189/192574/p=700/148.jpg
@@ -39,6 +40,15 @@ https://static2.hentai-cosplays.com/upload/20201103/184/188235/p=700/130.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Mikomi Hokina - St. Louis Luxurious Ero (Azur Lane) - エロコスプレ
+https://ja.hentai-cosplays.com/image/mikomi-hokina-st-louis-luxurious-ero-azur-lane/
+
+https://static5.hentai-cosplays.com/upload/20210823/237/241920/p=700/76.jpg
+https://static5.hentai-cosplays.com/upload/20210823/237/241920/p=700/77.gif
+https://static5.hentai-cosplays.com/upload/20210823/237/241920/p=700/81.gif
+
+<font size="1" style="color:#DCDCDC">2022-06-06</font>
 
 Tracer X DVA by Mikomi Hokina - エロコスプレ
 https://ja.hentai-cosplays.com/image/tracer-x-dva-by-mikomi-hokina/

@@ -29,6 +29,8 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static6.hentai-cosplays.com/upload/20211226/265/270814/p=700/27.jpg
+https://static5.hentai-cosplays.com/upload/20211209/251/256856/p=700/27.jpg
 https://static2.hentai-cosplays.com/upload/20201212/186/190197/p=700/42.jpg
 https://static6.hentai-cosplays.com/upload/20211222/262/267854/p=700/35.jpg
 https://static6.hentai-cosplays.com/upload/20211228/266/271807/p=700/33.jpg
@@ -43,6 +45,20 @@ https://static10.porn-images-xxx.com/upload/20211219/985/1007990/p=700/57.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+[UyUy] Do - S (ワンパンマン) - エロコスプレ
+https://ja.hentai-cosplays.com/image/uyuy-do-s-one-punch-man/
+
+https://static6.hentai-cosplays.com/upload/20211226/265/270814/p=700/27.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-08</font>
+
+Uy Uy – Lisa (Genshin Impact) - エロコスプレ
+https://ja.hentai-cosplays.com/image/uy-uy--lisa-genshin-impact/
+
+https://static5.hentai-cosplays.com/upload/20211209/251/256856/p=700/27.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-02</font>
 
 [UyUy] 2B (NieR: Automata) - エロコスプレ
 https://ja.hentai-cosplays.com/image/uyuy-2b-nier-automata/
