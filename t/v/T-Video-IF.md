@@ -32,6 +32,32 @@
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Gracyanne Barbosa Porn Video by jabslz | ImageFap
+https://www.imagefap.com/video.php?vid=689130
+
+<font size="1" style="color:#DCDCDC">2022-07-05</font>
+
+Girls from the Dykes Bar Porn Video by SlutLandlady | ImageFap
+https://www.imagefap.com/video.php?vid=688994
+
+<font size="1" style="color:#DCDCDC">2022-07-05</font>
+
+Dj Brisa - Regendo com a Bunda - SBT Porn Video by jabslz | ImageFap
+https://www.imagefap.com/video.php?vid=629326
+
+<font size="1" style="color:#DCDCDC">2022-07-05</font>
+
+Geisy Arruda Live 1 Porn Video by jabslz | ImageFap
+https://www.imagefap.com/video.php?vid=641688
+
+<font size="1" style="color:#DCDCDC">2022-07-05</font>
+
+Alura sexy MILF Porn Video by parangababa | ImageFap
+https://www.imagefap.com/video.php?vid=688997
+
+<font size="1" style="color:#DCDCDC">2022-07-05</font>
+
 https://www.imagefap.com/video.php?vid=644943
 So Fine Oily Brown Thang Porn Video by CaptainLust | ImageFap
 https://www.imagefap.com/video.php?vid=682162

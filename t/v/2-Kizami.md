@@ -29,9 +29,6 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static5.hentai-cosplays.com/upload/20211209/251/256446/p=700/41.jpg
-https://static5.hentai-cosplays.com/upload/20211209/252/257342/p=700/39.jpg
-https://static6.hentai-cosplays.com/upload/20220108/274/280098/p=700/47.jpg
 https://static2.porn-images-xxx.com/upload/20170304/250/255445/p=700/4.jpg
 https://static2.porn-images-xxx.com/upload/20170302/210/214093/p=700/23.jpg
 https://static2.porn-images-xxx.com/upload/20170305/272/277842/p=700/15.jpg
@@ -50,27 +47,6 @@ https://static2.hentai-cosplays.com/upload/20200316/151/154271/p=700/145.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
-
-Kuuko W – Mona (Genshin Impact) - エロコスプレ
-https://ja.hentai-cosplays.com/image/kuuko-w--mona-genshin-impact/
-
-https://static5.hentai-cosplays.com/upload/20211209/251/256446/p=700/41.jpg
-
-<font size="1" style="color:#DCDCDC">2022-06-02</font>
-
-Kuuko W - Mona (Genshin Impact) 2 - エロコスプレ
-https://ja.hentai-cosplays.com/image/kuuko-w-mona-genshin-impact-2/
-
-https://static5.hentai-cosplays.com/upload/20211209/252/257342/p=700/39.jpg
-
-<font size="1" style="color:#DCDCDC">2022-06-02</font>
-
-Kuuko W – Lumine (Genshin Impact) - エロコスプレ
-https://ja.hentai-cosplays.com/image/kuuko-w--lumine-genshin-impact/
-
-https://static6.hentai-cosplays.com/upload/20220108/274/280098/p=700/47.jpg
-
-<font size="1" style="color:#DCDCDC">2022-06-02</font>
 
 こいつは完全にオタクを殺しに来てるなwww黒髪ビッチの自撮り画像！ - エロコスプレ
 https://ja.hentai-cosplays.com/image/a-guy-i-totally-geek-to-kill-their-own-picture-www-black-bitch/

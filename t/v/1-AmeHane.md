@@ -29,6 +29,8 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static10.hentai-cosplays.com/upload/20220706/306/312413/p=305/41.jpg
+https://static6.hentai-cosplays.com/upload/20211215/256/261941/p=305/28.jpg
 https://static9.hentai-cosplays.com/upload/20220603/300/306452/p=305/17.jpg
 https://static9.hentai-cosplays.com/upload/20220603/300/306512/p=305/28.jpg
 https://static5.hentai-cosplays.com/upload/20211208/248/253520/p=700/14.jpg
@@ -74,6 +76,20 @@ https://static5.hentai-cosplays.com/upload/20211109/246/251102/p=700/45.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+雨波_HaneAme - 喜多川海梦 2 - エロコスプレ
+https://ja.hentai-cosplays.com/image/rain-waves_haneame-kitagawa-kaijo-2/
+
+https://static10.hentai-cosplays.com/upload/20220706/306/312413/p=305/41.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-07</font>
+
+【雨波_HaneAme】路易九世旗袍 - エロコスプレ
+https://ja.hentai-cosplays.com/image/rain-wave-_haneamezhui-ix-flag/
+
+https://static6.hentai-cosplays.com/upload/20211215/256/261941/p=305/28.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-07</font>
 
 【samples】Yelan (Genshin Impact) 夜蘭/夜兰 (原神) - エロコスプレ
 https://ja.hentai-cosplays.com/image/samples-yelan-genshin-impact-night-orchid--night-lan-harajin/

@@ -28,7 +28,7 @@
 <pre style="display: none" id = "raw">
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
-
+https://static10.hentai-cosplays.com/upload/20220703/305/312209/p=700/16.jpg
 https://static5.hentai-cosplays.com/upload/20211208/248/253920/p=700/10.jpg
 https://static5.hentai-cosplays.com/upload/20211208/248/253892/p=700/8.jpg
 https://static5.hentai-cosplays.com/upload/20211208/248/253891/p=700/8.jpg
@@ -64,6 +64,11 @@ https://static5.hentai-cosplays.com/upload/20211106/245/250711/p=700/51.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Meenfox - Marin - エロコスプレ
+https://ja.hentai-cosplays.com/image/meenfox-marin/
+https://static10.hentai-cosplays.com/upload/20220703/305/312209/p=700/16.jpg
+<font size="1" style="color:#DCDCDC">2022-07-07</font>
 
 Meenfox - Noelle 1 - エロコスプレ
 https://ja.hentai-cosplays.com/image/meenfox-noelle-1/

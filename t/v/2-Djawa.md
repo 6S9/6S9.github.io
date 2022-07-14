@@ -29,6 +29,9 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static9.hentai-cosplays.com/upload/20220502/297/303613/p=700/61.jpg
+https://static9.hentai-cosplays.com/upload/20220502/297/303618/p=700/100.jpg
+https://static9.hentai-cosplays.com/upload/20220502/297/303614/p=700/94.jpg
 https://static5.hentai-cosplays.com/upload/20210803/235/239779/p=700/10.jpg
 https://static4.hentai-cosplays.com/upload/20210614/227/231830/p=700/74.jpg
 https://static5.hentai-cosplays.com/upload/20210801/234/239538/p=700/65.jpg
@@ -39,6 +42,32 @@ https://static5.hentai-cosplays.com/upload/20210718/229/234410/p=700/91.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+DJAWA 정제니The Lord of Nightmares - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa-the-lord-of-nightmares/
+https://static9.hentai-cosplays.com/upload/20220502/297/303625/p=700/98.jpg
+<font size="1" style="color:#DCDCDC">2022-07-07</font>
+
+DJAWA 피아 Loose and Tight Salmon Pink - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa--loose-and-tight-salmon-pink/
+
+https://static9.hentai-cosplays.com/upload/20220502/297/303613/p=700/61.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-05</font>
+
+DJAWA 손예은 Naughty Trekking A - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa--naughty-trekking-a/
+
+https://static9.hentai-cosplays.com/upload/20220502/297/303618/p=700/100.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-05</font>
+
+DJAWA 손예은 Naughty Trekking C - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa--naughty-trekking-c/
+
+https://static9.hentai-cosplays.com/upload/20220502/297/303614/p=700/94.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-05</font>
 
 [DJAWA] Aram - Azur Lane IJN Noshiro Photo Set - エロコスプレ
 https://ja.hentai-cosplays.com/image/djawa-aram-azur-lane-ijn-noshiro-photo-set/

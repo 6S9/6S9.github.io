@@ -29,6 +29,7 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static10.hentai-cosplays.com/upload/20220701/305/312044/p=700/59.jpg
 https://static10.hentai-cosplays.com/upload/20220608/301/307358/p=700/108.jpg
 https://static9.hentai-cosplays.com/upload/20220606/300/306767/p=700/47.jpg
 https://static4.hentai-cosplays.com/upload/20210401/217/221449/p=700/3.jpg
@@ -46,6 +47,20 @@ https://static6.hentai-cosplays.com/upload/20211228/266/271832/p=700/72.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Byoru - Futaba Sakura - エロコスプレ
+https://ja.hentai-cosplays.com/image/byoru-futaba-sakura/
+
+https://static10.hentai-cosplays.com/upload/20220701/305/312044/p=700/59.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-07</font>
+
+Byoru – Rosaria - エロコスプレ
+https://ja.hentai-cosplays.com/image/byoru--rosaria/
+
+https://static10.hentai-cosplays.com/upload/20220703/305/312190/p=305/35.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-07</font>
 
 Byoru Cosplay 4k - エロコスプレ
 https://ja.hentai-cosplays.com/image/byoru-cosplay-4k/

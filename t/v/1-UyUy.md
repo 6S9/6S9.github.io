@@ -29,6 +29,7 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static10.hentai-cosplays.com/upload/20220704/305/312246/p=700/63.jpg
 https://static6.hentai-cosplays.com/upload/20211226/265/270814/p=700/27.jpg
 https://static5.hentai-cosplays.com/upload/20211209/251/256856/p=700/27.jpg
 https://static2.hentai-cosplays.com/upload/20201212/186/190197/p=700/42.jpg
@@ -45,6 +46,13 @@ https://static10.porn-images-xxx.com/upload/20211219/985/1007990/p=700/57.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Uyuy - C.C. - エロコスプレ
+https://ja.hentai-cosplays.com/image/uyuy-cc/
+
+https://static10.hentai-cosplays.com/upload/20220704/305/312246/p=700/63.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-05</font>
 
 [UyUy] Do - S (ワンパンマン) - エロコスプレ
 https://ja.hentai-cosplays.com/image/uyuy-do-s-one-punch-man/

@@ -29,6 +29,7 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static10.hentai-cosplays.com/upload/20220707/306/312512/p=305/24.jpg
 https://static5.hentai-cosplays.com/upload/20210822/237/241848/p=700/16.jpg
 https://static9.hentai-cosplays.com/upload/20220423/296/302570/p=700/23.jpg
 https://static7.hentai-cosplays.com/upload/20220208/288/294897/p=700/194.jpg
@@ -54,6 +55,13 @@ https://static2.hentai-cosplays.com/upload/20200922/176/179771/p=700/64.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Fantasy Factory 小丁 – Dido (Azur Lane) - エロコスプレ
+https://ja.hentai-cosplays.com/image/fantasy-factory---dido-azur-lane/
+
+https://static10.hentai-cosplays.com/upload/20220707/306/312512/p=305/24.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-08</font>
 
 Fantasy Factory 小丁Patron Girl in Black - エロコスプレ
 https://ja.hentai-cosplays.com/image/fantasy-factory-kocho-patron-girl-in-black/
