@@ -29,6 +29,8 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static5.hentai-cosplays.com/upload/20211209/250/255660/p=700/13.jpg
+https://static5.hentai-cosplays.com/upload/20211208/248/253789/p=700/97.jpg
 https://static10.hentai-cosplays.com/upload/20220704/305/312246/p=700/63.jpg
 https://static6.hentai-cosplays.com/upload/20211226/265/270814/p=700/27.jpg
 https://static5.hentai-cosplays.com/upload/20211209/251/256856/p=700/27.jpg
@@ -46,6 +48,20 @@ https://static10.porn-images-xxx.com/upload/20211219/985/1007990/p=700/57.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+UyUy - Gura & Marine - エロコスプレ
+https://ja.hentai-cosplays.com/image/uyuy-gura-amp-marine/
+
+https://static5.hentai-cosplays.com/upload/20211209/250/255660/p=700/13.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-27</font>
+
+UyUy - Amelia Watson 1 - エロコスプレ
+https://ja.hentai-cosplays.com/image/uyuy-amelia-watson-1/
+
+https://static5.hentai-cosplays.com/upload/20211208/248/253789/p=700/97.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-27</font>
 
 Uyuy - C.C. - エロコスプレ
 https://ja.hentai-cosplays.com/image/uyuy-cc/

@@ -29,6 +29,8 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static10.hentai-cosplays.com/upload/20220806/308/315171/p=700/167.jpg
+https://static7.hentai-cosplays.com/upload/20220130/288/294060/p=700/44.jpg
 https://static7.hentai-cosplays.com/upload/20220224/290/296817/p=700/31.jpg
 https://static7.hentai-cosplays.com/upload/20220224/290/296812/p=700/24.jpg
 https://static7.hentai-cosplays.com/upload/20220224/290/296819/p=700/31.jpg
@@ -38,6 +40,16 @@ https://static7.hentai-cosplays.com/upload/20220224/290/296815/p=700/51.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+爆机少女喵小吉 - 天竺少女 - 16 - エロコスプレ
+https://ja.hentai-cosplays.com/image/bakugou-girl-kokichi-tenchu-girl/page/16/
+
+<font size="1" style="color:#DCDCDC">2022-08-15</font>
+
+喵小吉-魅魔 - 4 - エロコスプレ
+https://ja.hentai-cosplays.com/image/kokichi--enma/page/4/
+
+<font size="1" style="color:#DCDCDC">2022-08-06</font>
 
 [爆机少女喵小吉] 尼尔 机械纪元 花嫁 1 - エロコスプレ
 https://ja.hentai-cosplays.com/image/bakusakusaku-shoujo-kokichi-1/

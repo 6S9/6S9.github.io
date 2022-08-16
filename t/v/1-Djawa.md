@@ -29,6 +29,21 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static5.hentai-cosplays.com/upload/20210718/229/234413/p=700/230.jpg
+https://static5.hentai-cosplays.com/upload/20211123/247/252007/p=700/54.jpg
+https://static8.hentai-cosplays.com/upload/20220315/292/298947/p=700/138.jpg
+https://static9.hentai-cosplays.com/upload/20220503/297/303781/p=700/138.jpg
+https://static5.hentai-cosplays.com/upload/20211209/253/258630/p=700/3.jpg
+https://static9.hentai-cosplays.com/upload/20220503/297/303723/p=700/63.jpg
+https://static9.hentai-cosplays.com/upload/20220503/297/303787/p=700/125.jpg
+https://static6.hentai-cosplays.com/upload/20211225/264/270152/p=700/125.jpg
+https://static9.hentai-cosplays.com/upload/20220503/297/303797/p=700/88.jpg
+https://static6.hentai-cosplays.com/upload/20211218/259/264737/p=700/155.jpg
+https://static9.hentai-cosplays.com/upload/20220503/297/303772/p=700/153.jpg
+https://static9.hentai-cosplays.com/upload/20220503/297/303769/p=700/88.jpg
+https://static9.hentai-cosplays.com/upload/20220503/297/303765/p=700/141.jpg
+https://static9.hentai-cosplays.com/upload/20220502/297/303539/p=700/101.jpg
+https://static9.hentai-cosplays.com/upload/20220502/297/303538/p=700/102.jpg
 https://static9.hentai-cosplays.com/upload/20220502/297/303613/p=700/61.jpg
 https://static9.hentai-cosplays.com/upload/20220502/297/303618/p=700/100.jpg
 https://static9.hentai-cosplays.com/upload/20220502/297/303614/p=700/94.jpg
@@ -42,6 +57,93 @@ https://static5.hentai-cosplays.com/upload/20210718/229/234410/p=700/91.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+[DJAWA] Mimmi - Rudy The Wolf of Midnight - 23 - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa-mimmi-rudy-the-wolf-of-midnight/page/23/
+
+<font size="1" style="color:#DCDCDC">2022-08-05</font>
+
+DJAWA Mimmi - St. Esther S_Version - 6 - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa-mimmi-st-esther-s_version/page/6/
+
+<font size="1" style="color:#DCDCDC">2022-08-05</font>
+
+[DJAWA] Swimming Lessons #8 - Mimmi - 14 - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa-swimming-lessons-8-mimmi/page/14/
+
+<font size="1" style="color:#DCDCDC">2022-08-05</font>
+
+DJAWA Photo – Mimmi (밈미): “Swimming Lessons #8” (138 ảnh) - 14 - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa-photo--mimmi--swimming-lessons-8-138-nh/page/14/
+
+<font size="1" style="color:#DCDCDC">2022-08-05</font>
+
+DJAWA Mimmi Cyberpunk Girl - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa-mimmi-cyberpunk-girl/
+
+<font size="1" style="color:#DCDCDC">2022-08-05</font>
+
+DJAWA Photo – Echi (이치): “Maid Mansion Nº3” (63 ảnh) - 7 - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa-photo--echi--maid-mansion-n3-63-nh/page/7/
+
+<font size="1" style="color:#DCDCDC">2022-08-05</font>
+
+DJAWA Photo – Echi: “Reine des Lapins” (125 ảnh) - 13 - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa-photo--echi-reine-des-lapins-125-nh/page/13/
+
+<font size="1" style="color:#DCDCDC">2022-08-05</font>
+
+[DJAWA] Echi - Reine des Lapins … - 13 - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa-echi-reine-des-lapins-/page/13/
+
+<font size="1" style="color:#DCDCDC">2022-08-05</font>
+
+DJAWA Photo – Echi: “Staycation #3” (88 ảnh) - 9 - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa-photo--echi-staycation-3-88-nh/page/9/
+
+<font size="1" style="color:#DCDCDC">2022-08-05</font>
+
+[DJAWA] Queen of Thorns - Aram 아람 - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa-queen-of-thorns-aram-/
+
+https://static6.hentai-cosplays.com/upload/20211218/259/264737/p=700/155.jpg
+
+<font size="1" style="color:#DCDCDC">2022-06-06</font>
+
+DJAWA Photo – Bambi (밤비) & Sonson (손손): “Maid Mansion W” (153 ảnh) - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa-photo--bambi--amp-sonson--maid-mansion-w-153-nh/
+
+https://static9.hentai-cosplays.com/upload/20220503/297/303772/p=700/153.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-26</font>
+
+DJAWA Maruemon (마루에몽) Rider No69 - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa-maruemon--rider-no69/
+
+https://static9.hentai-cosplays.com/upload/20220503/297/303769/p=700/88.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-26</font>
+
+DJAWA Photo – Son Ye-Eun (손예은): “[Kimetsu no Yaiba] Mitsuri Kanroji” (141 ảnh) - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa-photo--son-ye-eun--kimetsu-no-yaiba-mitsuri-kanroji-141-nh/
+
+https://static9.hentai-cosplays.com/upload/20220503/297/303765/p=700/141.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-26</font>
+
+DJAWA Jeong Jenny (정제니) Maid Mansion No2 A - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa-jeong-jenny--maid-mansion-no2-a/
+
+https://static9.hentai-cosplays.com/upload/20220502/297/303539/p=700/101.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-26</font>
+
+DJAWA Jeong Jenny (정제니) Maid Mansion No2 B - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa-jeong-jenny--maid-mansion-no2-b/
+
+https://static9.hentai-cosplays.com/upload/20220502/297/303538/p=700/102.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-26</font>
 
 DJAWA 정제니The Lord of Nightmares - エロコスプレ
 https://ja.hentai-cosplays.com/image/djawa-the-lord-of-nightmares/

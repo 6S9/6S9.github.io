@@ -29,6 +29,7 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static14.porn-images-xxx.com/upload/20220713/1308/1338711/p=700/36.jpg
 https://static6.hentai-cosplays.com/upload/20211213/255/261009/p=700/18.jpg
 https://static7.hentai-cosplays.com/upload/20220209/289/294913/p=700/20.jpg
 https://static7.hentai-cosplays.com/upload/20220207/288/294738/p=700/10.jpg
@@ -56,6 +57,13 @@ https://static8.porn-images-xxx.com/upload/20210307/905/926695/p=700/109.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+『DOAXVV』Marie Rose マリーローズ イカれた露出度w変態マイクロビキニ コスプレ画像 - エロコスプレ
+https://ja.hentai-cosplays.com/image/doaxvv-marie-rose-marie-rose-crazy-exposure-w-hentai-micro-bikini-cosplay-image/
+
+https://static14.porn-images-xxx.com/upload/20220713/1308/1338711/p=700/36.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-26</font>
 
 Azami – Mashu Kyrielight - エロコスプレ
 https://ja.hentai-cosplays.com/image/azami--mashu-kyrielight/

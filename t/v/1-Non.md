@@ -29,42 +29,52 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static5.hentai-cosplays.com/upload/20211208/249/254781/p=700/32.jpg
-https://static5.hentai-cosplays.com/upload/20211208/249/254711/p=700/150.jpg
-https://static5.hentai-cosplays.com/upload/20211208/249/254595/p=700/152.jpg
-https://static5.hentai-cosplays.com/upload/20211209/251/256739/p=700/388.jpg
+https://static2.hentai-cosplays.com/upload/20200316/150/152772/p=700/181.jpg
+https://static6.hentai-cosplays.com/upload/20220125/286/292218/p=700/152.jpg
+https://static.hentai-cosplays.com/upload/20160821/25/24740/p=700/161.jpg
+https://static9.porn-images-xxx.com/upload/20211203/944/965709/p=700/36.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
-网红Coser@水淼aqua 黑白猫自拍 黑色内衣自拍 - エロコスプレ
-https://ja.hentai-cosplays.com/image/coser-water-qua-aqua---color-innerwear-self-beat/
+[nonsummerjack] Great strength SET - エロコスプレ
+https://ja.hentai-cosplays.com/image/nonsummerjack-great-strength-set/
 
-https://static5.hentai-cosplays.com/upload/20211208/249/254781/p=700/32.jpg
+https://static2.hentai-cosplays.com/upload/20200316/150/152772/p=700/181.jpg
 
-<font size="1" style="color:#DCDCDC">2022-04-29</font>
+<font size="1" style="color:#DCDCDC">2022-07-26</font>
 
-网红Coser@水淼aqua 愈合 - エロコスプレ
-https://ja.hentai-cosplays.com/image/coser-water/
+<font size="2"><b>
+[Nonsummerjack] Millennium Jackpot - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/nonsummerjack-millennium-jackpot/
 
-https://static5.hentai-cosplays.com/upload/20211208/249/254711/p=700/150.jpg
+https://static6.hentai-cosplays.com/upload/20220125/286/292218/p=700/152.jpg
 
-<font size="1" style="color:#DCDCDC">2022-04-29</font>
+<font size="1" style="color:#DCDCDC"><b>2022/1/25 下午1:49:02</b></font><br>
 
-Coser@水淼Aqua Vol.091 黑兽2 - エロコスプレ
-https://ja.hentai-cosplays.com/image/coser-water-basin-aqua-vol091-2/
+<font size="4"><b>
+[nonsummerjack (non)]My GOD ANUBIS - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/nonsummerjack-nonmy-god-anubis/
 
-https://static5.hentai-cosplays.com/upload/20211208/249/254595/p=700/152.jpg
+<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午3:26:18</b></font><br>
 
-<font size="1" style="color:#DCDCDC">2022-04-28</font>
+<font size="2"><b>
+【画像】黒ギャルレイヤーnon、オイル美尻がエロすぎるwwエジプトコスプレのテカテカ褐色尻に絶賛の声！ - ３次エロ画像 - エロ画像</b></font><br>
+https://ja.porn-images-xxx.com/image/image-black-gal-layer-non-oil-beauty-ass-is-too-erotic-ww-egyptian-cosplay-tecateka-brown-ass-rave-voice/
 
-水淼Aquaさんのコスプレ画像300枚 zg人コスプレイヤー 露出とテカテカの体がえちえちすぎ - エロコスプレ
-https://ja.hentai-cosplays.com/image/300-images-of-mizuki-aquas-cosplay-images-chinese-cosplayer-exposure-and-tecatekas-body-are-too-cute/
+https://static7.porn-images-xxx.com/upload/20200530/824/842789/p=700/1.png
+https://static7.porn-images-xxx.com/upload/20200530/824/842789/p=700/2.jpg
 
-https://static5.hentai-cosplays.com/upload/20211209/251/256739/p=700/388.jpg
+<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午3:29:23</b></font><br>
 
-<font size="1" style="color:#DCDCDC">2022-02-21</font>
+<hr>
+
+<font size="2"><b>
+3次元 いかにもなビッチでヤリマンな黒ギャルのエロ画像 36枚 - エロコスプレ</b></font><br>
+https://ja.hentai-cosplays.com/image/3d-erotic-images-of-a-really-and-a-yariman-black-gal-36-sheets-1/
+
+<font size="1" style="color:#DCDCDC"><b>2021/12/21 下午1:31:14</b></font><br>
 
 </textarea>
 </pre>
@@ -77,7 +87,7 @@ https://static5.hentai-cosplays.com/upload/20211209/251/256739/p=700/388.jpg
 <script type="text/javascript">
 
 var __urlRegex = /(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig;
-var __imgRegex = /\.(?:jpe?g|gif|png|webp)$/i;
+var __imgRegex = /\.(?:jpe?g|gif|png)$/i;
 
 textToArray();
 loadparse();

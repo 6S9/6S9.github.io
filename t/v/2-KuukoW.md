@@ -29,6 +29,7 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static7.hentai-cosplays.com/upload/20220130/288/294036/p=700/43.jpg
 https://static5.hentai-cosplays.com/upload/20211212/254/259549/p=700/40.jpg
 https://static5.hentai-cosplays.com/upload/20211209/251/256446/p=700/41.jpg
 https://static5.hentai-cosplays.com/upload/20211209/252/257342/p=700/39.jpg
@@ -37,6 +38,11 @@ https://static6.hentai-cosplays.com/upload/20220108/274/280098/p=700/47.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+KuukoW - Marie Rose 4 - 4 - エロコスプレ
+https://ja.hentai-cosplays.com/image/kuukow-marie-rose-4/page/4/
+
+<font size="1" style="color:#DCDCDC">2022-08-06</font>
 
 KuukoW - Shuten Douji 1 - エロコスプレ
 https://ja.hentai-cosplays.com/image/kuukow-shuten-douji-1/

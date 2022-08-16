@@ -29,6 +29,8 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static10.hentai-cosplays.com/upload/20220805/308/315101/p=700/23.jpg
+https://static10.hentai-cosplays.com/upload/20220802/308/314852/p=700/24.jpg
 https://static10.hentai-cosplays.com/upload/20220707/306/312512/p=305/24.jpg
 https://static5.hentai-cosplays.com/upload/20210822/237/241848/p=700/16.jpg
 https://static9.hentai-cosplays.com/upload/20220423/296/302570/p=700/23.jpg
@@ -55,6 +57,16 @@ https://static2.hentai-cosplays.com/upload/20200922/176/179771/p=700/64.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+FantasyFactory] DSR-50 cheongsam - 3 - エロコスプレ
+https://ja.hentai-cosplays.com/image/fantasyfactory-dsr-50-cheongsam/page/3/
+
+<font size="1" style="color:#DCDCDC">2022-08-05</font>
+
+fantasy factory Porn Little Red Riding Hood Sexy ver 1 - 3 - エロコスプレ
+https://ja.hentai-cosplays.com/image/fantasy-factory-porn-little-red-riding-hood-sexy-ver-1/page/3/
+
+<font size="1" style="color:#DCDCDC">2022-08-03</font>
 
 Fantasy Factory 小丁 – Dido (Azur Lane) - エロコスプレ
 https://ja.hentai-cosplays.com/image/fantasy-factory---dido-azur-lane/

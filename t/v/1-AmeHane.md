@@ -29,6 +29,12 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static10.hentai-cosplays.com/upload/20220801/308/314770/p=700/44.jpg
+https://static10.hentai-cosplays.com/upload/20220719/307/313772/p=700/42.jpg
+https://static10.hentai-cosplays.com/upload/20220724/307/314164/p=700/42.jpg
+https://static10.hentai-cosplays.com/upload/20220618/304/310643/p=700/49.jpg
+https://static10.hentai-cosplays.com/upload/20220724/307/314163/p=700/49.jpg
+https://static10.hentai-cosplays.com/upload/20220725/307/314227/p=700/23.jpg
 https://static10.hentai-cosplays.com/upload/20220706/306/312413/p=305/41.jpg
 https://static6.hentai-cosplays.com/upload/20211215/256/261941/p=305/28.jpg
 https://static9.hentai-cosplays.com/upload/20220603/300/306452/p=305/17.jpg
@@ -76,6 +82,38 @@ https://static5.hentai-cosplays.com/upload/20211109/246/251102/p=700/45.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+HaneAme – Agir (Azur Lane) - 5 - エロコスプレ
+https://ja.hentai-cosplays.com/image/haneame--agir-azur-lane/page/5/
+
+<font size="1" style="color:#DCDCDC">2022-08-02</font>
+
+HaneAme 雨波 - Agir（Azur Lane） - 5 - エロコスプレ
+https://ja.hentai-cosplays.com/image/haneame-rain-wave-agir-azur-lane/page/5/
+
+<font size="1" style="color:#DCDCDC">2022-08-01</font>
+
+HaneAme - Agir - 5 - エロコスプレ
+https://ja.hentai-cosplays.com/image/haneame-agir/page/5/
+
+<font size="1" style="color:#DCDCDC">2022-08-01</font>
+
+神秘女人-夜蘭 (Genshin Impact) - 5 - エロコスプレ
+https://ja.hentai-cosplays.com/image/the-mystic-woman-night-orchid-genshin-impact/page/5/
+
+<font size="1" style="color:#DCDCDC">2022-08-01</font>
+
+HaneAme - Yelan - 5 - エロコスプレ
+https://ja.hentai-cosplays.com/image/haneame-yelan/page/5/
+
+<font size="1" style="color:#DCDCDC">2022-08-01</font>
+
+HaneAme – OTs-14 Gown (Girls' Frontline) - 3 - エロコスプレ
+https://ja.hentai-cosplays.com/image/haneame--ots-14-gown-girls-frontline/
+
+https://static10.hentai-cosplays.com/upload/20220725/307/314227/p=700/23.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-26</font>
 
 雨波_HaneAme - 喜多川海梦 2 - エロコスプレ
 https://ja.hentai-cosplays.com/image/rain-waves_haneame-kitagawa-kaijo-2/

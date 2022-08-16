@@ -29,6 +29,7 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static2.hentai-cosplays.com/upload/20200112/147/149648/p=700/152.jpg
 https://static5.hentai-cosplays.com/upload/20211209/251/256064/p=700/24.jpg
 https://static7.hentai-cosplays.com/upload/20220216/289/295848/p=700/27.jpg
 https://static5.hentai-cosplays.com/upload/20211209/251/256008/p=700/17.jpg
@@ -47,6 +48,13 @@ https://static5.hentai-cosplays.com/upload/20211023/244/249726/p=700/14.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+【cosplay】two 【cosplay】two - エロコスプレ
+https://ja.hentai-cosplays.com/image/cosplaytwo-cosplaytwo/
+
+https://static2.hentai-cosplays.com/upload/20200112/147/149648/p=700/152.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-26</font>
 
 Momokun - Quiet 1 - エロコスプレ
 https://ja.hentai-cosplays.com/image/momokun-quiet-1/

@@ -29,6 +29,11 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static10.hentai-cosplays.com/upload/20220722/307/314026/p=700/42.jpg
+https://static10.hentai-cosplays.com/upload/20220723/307/314095/p=700/70.jpg
+https://static5.hentai-cosplays.com/upload/20211208/250/255312/p=700/48.jpg
+https://static10.hentai-cosplays.com/upload/20220722/307/314021/p=700/40.jpg
+https://static10.hentai-cosplays.com/upload/20220722/307/314020/p=700/46.jpg
 https://static10.hentai-cosplays.com/upload/20220701/305/312044/p=700/59.jpg
 https://static10.hentai-cosplays.com/upload/20220608/301/307358/p=700/108.jpg
 https://static9.hentai-cosplays.com/upload/20220606/300/306767/p=700/47.jpg
@@ -47,6 +52,35 @@ https://static6.hentai-cosplays.com/upload/20211228/266/271832/p=700/72.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Coser@Byoru: Pai Mei (42 ảnh + 9 videos) - 5 - エロコスプレ
+https://ja.hentai-cosplays.com/image/coserbyoru-pai-mei-42-nh--9-videos/page/5/
+
+<font size="1" style="color:#DCDCDC">2022-08-02</font>
+
+Coser@Byoru: Marin Kitagawa (70 ảnh + 1 video) - 7 - エロコスプレ
+https://ja.hentai-cosplays.com/image/coserbyoru-marin-kitagawa-70-nh--1-video/page/7/
+
+<font size="1" style="color:#DCDCDC">2022-08-02</font>
+
+Byoru - Asuka 1 - 5 - エロコスプレ
+https://ja.hentai-cosplays.com/image/byoru-asuka-1/page/5/
+
+<font size="1" style="color:#DCDCDC">2022-08-01</font>
+
+Coser@Byoru: Mama Jiangshi – Minamoto no Raiko (FGO) (40 ảnh +16 videos) - エロコスプレ
+https://ja.hentai-cosplays.com/image/coserbyoru-mama-jiangshi--minamoto-no-raiko-fgo-40-nh-16-videos/
+
+https://static10.hentai-cosplays.com/upload/20220722/307/314021/p=700/40.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-29</font>
+
+Coser@Byoru: Sesshouin Kiara “Summer” (46 ảnh + 8 videos) - エロコスプレ
+https://ja.hentai-cosplays.com/image/coserbyoru-sesshouin-kiara-summer-46-nh--8-videos/
+
+https://static10.hentai-cosplays.com/upload/20220722/307/314020/p=700/46.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-29</font>
 
 Byoru - Futaba Sakura - エロコスプレ
 https://ja.hentai-cosplays.com/image/byoru-futaba-sakura/

@@ -29,6 +29,8 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static8.hentai-cosplays.com/upload/20220329/294/300440/p=700/156.jpg
+https://static7.hentai-cosplays.com/upload/20220226/291/296984/p=700/130.jpg
 https://static6.hentai-cosplays.com/upload/20220121/283/289104/p=700/90.jpg
 https://static6.hentai-cosplays.com/upload/20211223/262/268243/p=700/81.jpg
 https://static5.hentai-cosplays.com/upload/20211121/246/251854/p=700/68.jpg
@@ -37,6 +39,16 @@ https://static8.hentai-cosplays.com/upload/20220324/293/299987/p=700/143.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+[Cosplayer] Sameki - 16 - エロコスプレ
+https://ja.hentai-cosplays.com/image/cosplayer-sameki-16/page/16/
+
+<font size="1" style="color:#DCDCDC">2022-08-01</font>
+
+[Cosplayer] Sameki - 13 - エロコスプレ
+https://ja.hentai-cosplays.com/image/cosplayer-sameki-13/page/13/
+
+<font size="1" style="color:#DCDCDC">2022-08-01</font>
 
 [Cosplayer] Sameki - エロコスプレ
 https://ja.hentai-cosplays.com/image/cosplayer-sameki-10/

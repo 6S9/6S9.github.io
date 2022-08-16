@@ -29,6 +29,7 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static6.hentai-cosplays.com/upload/20211215/257/262158/p=700/11.jpg
 https://static9.hentai-cosplays.com/upload/20220506/298/304290/p=700/12.jpg
 https://static12.porn-images-xxx.com/upload/20220406/1181/1208523/p=700/36.jpg
 https://static8.hentai-cosplays.com/upload/20220401/294/300868/p=700/20.jpg
@@ -39,6 +40,13 @@ https://static8.hentai-cosplays.com/upload/20220327/294/300263/p=700/22.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Azami - Amelia Watson 3 - エロコスプレ
+https://ja.hentai-cosplays.com/image/azami-amelia-watson-3/
+
+https://static6.hentai-cosplays.com/upload/20211215/257/262158/p=700/11.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-27</font>
 
 Azami – Jinx - エロコスプレ
 https://ja.hentai-cosplays.com/image/azami--jinx/

@@ -29,6 +29,8 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static10.hentai-cosplays.com/upload/20220729/308/314553/p=700/120.jpg
+https://static10.hentai-cosplays.com/upload/20220725/307/314237/p=700/124.jpg
 https://static9.hentai-cosplays.com/upload/20220430/297/303292/p=700/94.jpg
 https://static9.hentai-cosplays.com/upload/20220605/300/306722/p=700/96.jpg
 https://static5.hentai-cosplays.com/upload/20211118/246/251740/p=700/77.jpg
@@ -38,6 +40,18 @@ https://static7.hentai-cosplays.com/upload/20220201/288/294225/p=700/101.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Pure Media Vol.180 Jia (지아) - 12 - エロコスプレ
+https://ja.hentai-cosplays.com/image/pure-media-vol180-jia-/page/12/
+
+<font size="1" style="color:#DCDCDC">2022-08-05</font>
+
+Pure Media Vol.148 Aram (아람) - エロコスプレ
+https://ja.hentai-cosplays.com/image/pure-media-vol148-aram-/
+
+https://static10.hentai-cosplays.com/upload/20220725/307/314237/p=700/124.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-29</font>
 
 Pure Media Vol.23: Sonson (손손) (94 ảnh) - エロコスプレ
 https://ja.hentai-cosplays.com/image/pure-media-vol23-sonson--94-nh/

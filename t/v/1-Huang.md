@@ -29,6 +29,7 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static10.hentai-cosplays.com/upload/20220731/308/314687/p=700/35.jpg
 https://static8.hentai-cosplays.com/upload/20220315/292/298969/p=700/15.jpg
 https://static4.hentai-cosplays.com/upload/20210630/228/232903/p=700/158.jpg
 https://static9.hentai-cosplays.com/upload/20220516/298/304979/p=700/64.jpg
@@ -54,6 +55,13 @@ https://static2.hentai-cosplays.com/upload/20180605/81/82694/p=700/56.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Arty Huang – Artoria Pendragon Bikini - 4 - エロコスプレ
+https://ja.hentai-cosplays.com/image/arty-huang--artoria-pendragon-bikini/page/4/
+
+https://static10.hentai-cosplays.com/upload/20220731/308/314687/p=700/35.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-31</font>
 
 Kaya Huang - Sirius - エロコスプレ
 https://ja.hentai-cosplays.com/image/kaya-huang-sirius/

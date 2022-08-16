@@ -29,88 +29,89 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
-https://static4.porn-images-xxx.com/upload/20190803/689/704660/p=700/13.jpg
-https://static2.hentai-cosplays.com/upload/20180421/79/80579/p=700/46.jpg
-https://static2.hentai-cosplays.com/upload/20180526/81/81976/p=700/41.jpg
-https://static2.hentai-cosplays.com/upload/20180626/85/86127/p=700/85.jpg
-https://static2.hentai-cosplays.com/upload/20200324/160/163262/p=700/30.jpg
-https://static2.hentai-cosplays.com/upload/20180807/85/86864/p=700/39.jpg
-https://static2.hentai-cosplays.com/upload/20200324/160/163263/p=700/30.jpg
-https://static4.porn-images-xxx.com/upload/20200309/783/801588/p=700/30.jpg
+https://static3.porn-images-xxx.com/upload/20180603/558/570741/p=700/19.jpg
+https://static2.hentai-cosplays.com/upload/20200408/163/166105/p=700/122.jpg
+https://static4.hentai-cosplays.com/upload/20210702/228/233019/p=700/118.jpg
+https://static2.hentai-cosplays.com/upload/20180819/86/87186/p=700/360.jpg
+https://static4.hentai-cosplays.com/upload/20210326/212/216152/p=700/131.jpg
+https://static2.hentai-cosplays.com/upload/20201120/185/189405/p=700/120.jpg
+https://static6.hentai-cosplays.com/upload/20211213/255/260404/p=700/24.jpg
+https://static6.hentai-cosplays.com/upload/20211230/268/273417/p=700/120.jpg
 
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
 
-むちむちロリ顏コスプレイヤーの眼帯しまパンビキニwwww - エロコスプレ
-https://ja.hentai-cosplays.com/image/whip-whip-loli-cosplayer-eye-patch-shima-pan-bikini-wwww/
+マン筋が魅力的な露出レイヤー水無月みり度重なるセクハラに苦悩…。なお修正前の画像wwww - エロコスプレ
+https://ja.hentai-cosplays.com/image/man-muscle-is-an-attractive-exposure-layer-in-agony-to-sexual-harassment-repeated-the-image-before-the-correction-wwww/
 
-https://static4.porn-images-xxx.com/upload/20190803/689/704660/p=700/13.jpg
+https://static3.porn-images-xxx.com/upload/20180603/558/570741/p=700/19.jpg
 
-<font size="1" style="color:#DCDCDC">2022-05-17</font>
+<font size="1" style="color:#DCDCDC">2022-07-26</font>
 
-<font size="2"><b>
-[Nikumikyo] Dead or Alive - Honoka きょう肉肉vol.4 Honoka水着ver. - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/nikumikyo-dead-or-alive-honoka-vol4-honokaver/
+マン筋が魅力的な露出レイヤー水無月みり度重なるセクハラに苦悩…。なお修正前の画像wwww - エロコスプレ
+https://ja.hentai-cosplays.com/image/man-muscle-is-an-attractive-exposure-layer-in-agony-to-sexual-harassment-repeated-the-image-before-the-correction-wwww/
 
-https://static2.hentai-cosplays.com/upload/20180421/79/80579/p=700/46.jpg
+<font size="1" style="color:#DCDCDC">2022-07-26</font>
 
-<font size="1" style="color:#DCDCDC"><b>2022/1/18 下午3:31:09</b></font><br>
+Minazuki Miri - Kairaku no Ego [Minazuki Miri 水無月みり] 快楽のエゴ (DL版) - エロコスプレ
+https://ja.hentai-cosplays.com/image/minazuki-miri-kairaku-no-ego-minazuki-miri---dl/
 
-<font size="2"><b>
-[Nikumikyo] Nikumikyo Vol.5 (2018-04-22) きょう肉肉vol.5 ミコ(動画入り) - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/nikumikyo-nikumikyo-vol5-2018-04-22-vol5-/
+https://static2.hentai-cosplays.com/upload/20200408/163/166105/p=700/122.jpg
 
-https://static2.hentai-cosplays.com/upload/20180526/81/81976/p=700/41.jpg
+<font size="1" style="color:#DCDCDC">2022-07-26</font>
 
-<font size="1" style="color:#DCDCDC"><b>2022/1/18 下午3:30:10</b></font><br>
+[水無月みり]私は最後まで屈しない - エロコスプレ
+https://ja.hentai-cosplays.com/image/mizun-moonless-ming-i-will-not-give-in-to-the-end/
 
-<font size="2"><b>
-Vol.1 学校泳衣 裸体围裙 比基尼 [85P] - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/vol-1-school-clothes-nude---85p/
+https://static4.hentai-cosplays.com/upload/20210702/228/233019/p=700/118.jpg
 
-https://static2.hentai-cosplays.com/upload/20180626/85/86127/p=700/85.jpg
+<font size="1" style="color:#DCDCDC">2022-07-26</font>
 
-<font size="1" style="color:#DCDCDC"><b>2022/1/18 下午3:27:00</b></font><br>
+[水無月みり] 令呪をもって命ずる 2 - エロコスプレ
+https://ja.hentai-cosplays.com/image/--2-1/
 
-<font size="2"><b>
-【新蔻島シンコウシ マ】vol.03 001ホ クサー - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/shin-yijima-shinkoshi-mavol03-001-ho-kussar/
+https://static2.hentai-cosplays.com/upload/20180819/86/87186/p=700/360.jpg
 
-https://static2.hentai-cosplays.com/upload/20200324/160/163262/p=700/30.jpg
+<font size="1" style="color:#DCDCDC">2022-07-26</font>
 
-<font size="1" style="color:#DCDCDC"><b>2022/1/17 下午4:56:51</b></font><br>
+[coli-chu (Miri Minazuki)] Hijiri Kishi wa Yaburemasen... [coli厨 (水無月みり)] 聖騎士は敗れません - エロコスプレ
+https://ja.hentai-cosplays.com/image/coli-chu-miri-minazuki-hijiri-kishi-wa-yaburemasen-coli--/
 
-<font size="2"><b>
-きょう肉肉(nikumikyo) - きょう肉肉vol.7 メイド服 レムcosplay (動画入り) きょう肉肉(nikumikyo) - きょう肉肉vol.7 メイド服 レムcosplay (動画入り) - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/nikumikyo-vol7--cosplay--nikumikyo-vol7--cosplay-/
+https://static4.hentai-cosplays.com/upload/20210326/212/216152/p=700/131.jpg
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午2:14:14</b></font><br>
+<font size="1" style="color:#DCDCDC">2022-07-26</font>
 
-<font size="2"><b>
-日本肉肉女孩大尺度cosplay写真【新蔻島シンコウシ マ】vol.02 002白い包帯 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/japanese-meat-woman-large-scale-cosplay-photo-shin-yijima-shinkoshi-ma-vol02-002-white-bandage/
+(CH28) [coli-chu (Miri Minazuki)] Fallin Love in Domination？ (CH28) [coli厨 (水無月みり)] 主従関係（愛）に狂い、堕ちましょう？ - エロコスプレ
+https://ja.hentai-cosplays.com/image/ch28-coli-chu-miri-minazuki-fallin-love-in-domination-ch28-coli--/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午2:15:17</b></font><br>
+<font size="1" style="color:#DCDCDC">2022-07-26</font>
 
-<font size="2"><b>
-新蔻島シンコウジマ vol.02 ちご下着 画像30枚 - エロコスプレ</b></font><br>
-https://ja.hentai-cosplays.com/image/shinjojima-shinkoujima-vol02-chigo-underwear-30-images/
+コスプレイヤー 水無月みりさんのエロすぎるコスプレ画像まとめ - エロコスプレ
+https://ja.hentai-cosplays.com/image/cosplayer-mizunizu-tsuki-miris-erotic-too-cosplay-image-summary/
 
-<font size="1" style="color:#DCDCDC"><b>2021/12/15 下午2:20:45</b></font><br>
+<font size="1" style="color:#DCDCDC">2022-07-26</font>
+
+（水無月みり）私が全てを魅せてあげる - エロコスプレ
+https://ja.hentai-cosplays.com/image/mizunizu-tsukimiri-ill-fascinate-you-with-everything/
+
+https://static6.hentai-cosplays.com/upload/20211230/268/273417/p=700/120.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-26</font>
 
 </textarea>
 </pre>
 
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css"
+/>
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
 
 <script type="text/javascript">
 
 var __urlRegex = /(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig;
-var __imgRegex = /\.(?:jpe?g|gif|png)$/i;
+var __imgRegex = /\.(?:jpe?g|gif|png|webp)$/i;
 
 textToArray();
 loadparse();

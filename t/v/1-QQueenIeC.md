@@ -29,6 +29,10 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static5.hentai-cosplays.com/upload/20211208/250/255451/p=700/32.jpg
+https://static8.hentai-cosplays.com/upload/20220330/294/300571/p=700/15.jpg
+https://static10.hentai-cosplays.com/upload/20220712/306/313040/p=700/25.jpg
+https://static10.hentai-cosplays.com/upload/20220727/308/314373/p=700/27.jpg
 https://static8.hentai-cosplays.com/upload/20220330/294/300553/p=700/25.jpg
 https://static8.hentai-cosplays.com/upload/20220330/294/300570/p=700/25.jpg
 https://static8.hentai-cosplays.com/upload/20220330/294/300567/p=700/18.jpg
@@ -50,6 +54,32 @@ https://static5.hentai-cosplays.com/upload/20211027/245/250009/p=700/26.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+[QUEENIE CHUPPY] Kaine (Nier) 1 - 4 - エロコスプレ
+https://ja.hentai-cosplays.com/image/queenie-chuppy-kaine-nier-1/page/4/
+
+<font size="1" style="color:#DCDCDC">2022-08-03</font>
+
+QUEENIE CHUPPY - Bunny 2B - 2 - エロコスプレ
+https://ja.hentai-cosplays.com/image/queenie-chuppy-bunny-2b/page/2/
+
+https://static8.hentai-cosplays.com/upload/20220330/294/300571/p=700/15.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-31</font>
+
+QUEENIE CHUPPY - 2B sling bikini - 3 - エロコスプレ
+https://ja.hentai-cosplays.com/image/queenie-chuppy-2b-sling-bikini/page/3/
+
+https://static10.hentai-cosplays.com/upload/20220712/306/313040/p=700/25.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-31</font>
+
+Queenie Chuppy – Spirit Blossom Ahri - エロコスプレ
+https://ja.hentai-cosplays.com/image/queenie-chuppy--spirit-blossom-ahri/
+
+https://static10.hentai-cosplays.com/upload/20220727/308/314373/p=700/27.jpg
+
+<font size="1" style="color:#DCDCDC">2022-07-28</font>
 
 QUEENIE CHUPPY - St. Louis - エロコスプレ
 https://ja.hentai-cosplays.com/image/queenie-chuppy-st-louis/
