@@ -29,6 +29,7 @@
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
 <textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
 
+https://static11.hentai-cosplays.com/upload/20220908/311/318450/p=700/118.jpg
 https://static5.hentai-cosplays.com/upload/20210718/229/234413/p=700/230.jpg
 https://static5.hentai-cosplays.com/upload/20211123/247/252007/p=700/54.jpg
 https://static8.hentai-cosplays.com/upload/20220315/292/298947/p=700/138.jpg
@@ -57,6 +58,11 @@ https://static5.hentai-cosplays.com/upload/20210718/229/234410/p=700/91.jpg
 </textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
 
 <textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+[DJAWA] No.193_ model Maruemon - 12 - エロコスプレ
+https://ja.hentai-cosplays.com/image/djawa-no193_-model-maruemon/page/12/
+
+<font size="1" style="color:#DCDCDC">2022-09-11</font>
 
 [DJAWA] Mimmi - Rudy The Wolf of Midnight - 23 - エロコスプレ
 https://ja.hentai-cosplays.com/image/djawa-mimmi-rudy-the-wolf-of-midnight/page/23/

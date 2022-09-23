@@ -1,6 +1,12 @@
-<div id="mdc">
+<center>用户：<INPUT TYPE="text" NAME="" id="name"><br></center>
+<center>密码：<INPUT TYPE="password" NAME="" id="pass"><br></center>
+<center><INPUT TYPE="button" value="登入" onclick="check()"><INPUT TYPE="reset" value="重置"></center>
+
+<div style="display: none" id="mdm" name="dmd">
+  <button onclick="location.reload()">Cover 0</button>
 </div>
-<button onclick="toggleb()">toggle</button>
+
+<button style="display: none" name="dmd" onclick="toggleb()">toggle</button>
 <button onclick="loadparse()">loadparse</button>
 
 <select id="rso">
@@ -14,20 +20,37 @@
   <option value = 'p=305/'>305</option>
   <option value = 'p=160x200/'>160x200</option>
 </select>
-<br>
 
+<br>
+<div style="display: none" id="mdc" name="dmd">
+</div>
+
+<pre style="display: none" id = "raw">
 <!-- 🌸<br>🍅　🍑<hr>🍀　SpARRowCHECKers-Generat-->
-<textarea rows="5" cols="90" id="tau" oninput="textToArray();loadparse()">
+<textarea rows="10" cols="90" id="tau" oninput="textToArray();loadparse()">
+
+https://static4.hentai-cosplays.com/upload/20210321/211/215143/p=700/22.jpg
+https://static4.hentai-cosplays.com/upload/20210429/224/228387/p=700/23.jpg
+
+</textarea><br><!-- 🍀<br>🍑　🍅<hr>🌸 -->
+
+<textarea rows="30" cols="100" id="tar" oninput="loadparse()">
+
+Riribonni - Hutao - Genshin Impact - 3 - エロコスプレ
+https://ja.hentai-cosplays.com/image/riribonni-hutao-genshin-impact/page/3/
+
+<font size="1" style="color:#DCDCDC">2022-09-11</font>
+
+Riribonni - Hutao/Ghenshin Impact - 3 - エロコスプレ
+https://ja.hentai-cosplays.com/image/riribonni-hutaoghenshin-impact/page/3/
+
+<font size="1" style="color:#DCDCDC">2022-09-11</font>
 
 </textarea>
-<!-- 🍀<br>🍑　🍅<hr>🌸 -->
-
-<br>
-<textarea rows="20" cols="100" id="tar" oninput="loadparse()">
-
-</textarea>
+</pre>
 
 <script src="https://code.jquery.com/jquery-1.11.3.min.js" type="text/javascript"></script>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css">
 
@@ -59,11 +82,29 @@ function textToArray(){
   var textArea = document.getElementById("tau");
   var arrayFromTextArea = textArea.value.split(String.fromCharCode(10));
   for ( var i = 0; i < arrayFromTextArea.length; i++ ) {
-    generateu(arrayFromTextArea[i]);
+    generateM(arrayFromTextArea[i]);
   }
 }
 
-function generateu(url) {
+function generateM(url) {
+  mdm.innerHTML += '<img src="' + TraceCover(url) + '" alt= "' + url
+  + '" height = "64" border="2" style="color:#DCDCDC" onclick="generateFanc(alt);loadparse()">';
+
+}
+
+function TraceCover(url) {
+  var SegmentArr = url.split('/');
+
+  var Extens = SegmentArr.slice(-1).join().split('.').pop();
+  var SegmentCount = SegmentArr.length - 2;
+
+  var TopHalf = SegmentArr.slice(0,SegmentCount).join('/');
+
+  return TopHalf + '/p=160x200/1.' + Extens + '\n';
+
+}
+
+function generateFanc(url) {
   var SegmentArr = url.split('/');
   var GeneratCount = SegmentArr.slice(-1).join().split('.').shift();
   var Extens = SegmentArr.slice(-1).join().split('.').pop();
@@ -71,6 +112,7 @@ function generateu(url) {
   var ReduceSegments = document.getElementById('rso').value;
   var HentaiSizeP = document.getElementById('hsp').value;
   var TopHalf = SegmentArr.slice(0,SegmentCount - ReduceSegments).join('/');
+  tar.innerHTML = '';
 
   for (var j = 1; j <= GeneratCount; j++) {
     tar.innerHTML += TopHalf + '/' + HentaiSizeP + j + '.' + Extens + '\n';
@@ -85,13 +127,16 @@ function check(){
   var name=document.getElementById("name").value;
   var pass=document.getElementById("pass").value;
   if(name==!/[^\s]/.test(new Date().getTime()) && pass==String.fromCharCode(window.atob("MTIx"))){
-    document.getElementById("dmb").style.display=""
-  }else{
-  }
+    var nd = document.getElementsByName("dmd");
+    for (var i = 0; i <= nd.length; i++) {
+      nd[i].style.display = "";
+      }
+      }else{
+      }
 }
 
 function toggleb() {
-  var x = document.getElementById("tar");
+  var x = document.getElementById("raw");
   if (x.style.display === "none") {
     x.style.display = "";
   } else {
